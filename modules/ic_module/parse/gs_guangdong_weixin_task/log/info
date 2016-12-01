@@ -1,0 +1,1424 @@
+2016-08-02 10:37:26,438 4688 MainThread INFO  starting 
+2016-08-02 10:37:46,500 4688 MainThread INFO  data stored 
+2016-08-02 10:37:49,540 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:54,750 4688 MainThread INFO  data stored 
+2016-08-02 10:37:54,779 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:54,907 4688 MainThread INFO  data stored 
+2016-08-02 10:37:54,924 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,059 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,078 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,168 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,184 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,283 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,298 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,444 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,460 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,572 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,586 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,683 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,700 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:55,836 4688 MainThread INFO  data stored 
+2016-08-02 10:37:55,851 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,032 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,049 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,173 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,186 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,278 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,302 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,460 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,480 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,608 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,628 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,785 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,799 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:56,898 4688 MainThread INFO  data stored 
+2016-08-02 10:37:56,914 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,019 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,036 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,141 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,158 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,250 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,266 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,358 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,381 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,500 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,513 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,599 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,631 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,762 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,782 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:57,885 4688 MainThread INFO  data stored 
+2016-08-02 10:37:57,901 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,033 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,052 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,219 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,232 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,328 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,346 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,467 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,482 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,595 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,612 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,720 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,737 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,854 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,871 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:58,980 4688 MainThread INFO  data stored 
+2016-08-02 10:37:58,993 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,076 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,092 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,194 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,207 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,293 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,305 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,390 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,401 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,506 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,523 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,608 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,621 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,766 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,785 4688 MainThread INFO  parse status updated 
+2016-08-02 10:37:59,894 4688 MainThread INFO  data stored 
+2016-08-02 10:37:59,905 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,002 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,016 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,127 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,142 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,260 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,276 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,372 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,388 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,489 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,505 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,618 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,631 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,737 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,749 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,826 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,838 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:00,917 4688 MainThread INFO  data stored 
+2016-08-02 10:38:00,928 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,062 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,075 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,234 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,252 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,371 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,385 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,506 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,525 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,644 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,660 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,776 4688 MainThread INFO  data stored 
+2016-08-02 10:38:01,802 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:01,986 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,003 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,154 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,170 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,280 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,296 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,398 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,413 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,513 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,543 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,653 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,686 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,805 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,819 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:02,917 4688 MainThread INFO  data stored 
+2016-08-02 10:38:02,936 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,038 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,055 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,163 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,180 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,286 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,302 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,407 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,424 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,545 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,562 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,770 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,790 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:03,914 4688 MainThread INFO  data stored 
+2016-08-02 10:38:03,930 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,026 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,043 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,200 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,217 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,336 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,351 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,463 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,480 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,624 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,642 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,780 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,796 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:04,894 4688 MainThread INFO  data stored 
+2016-08-02 10:38:04,911 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,023 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,036 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,160 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,177 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,355 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,372 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,480 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,494 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,618 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,635 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,730 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,746 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:05,901 4688 MainThread INFO  data stored 
+2016-08-02 10:38:05,924 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,063 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,089 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,198 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,213 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,355 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,372 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,489 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,513 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,617 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,634 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,753 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,769 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,865 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,880 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:06,963 4688 MainThread INFO  data stored 
+2016-08-02 10:38:06,980 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,150 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,170 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,282 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,302 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,453 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,471 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,578 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,595 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,713 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,727 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:07,868 4688 MainThread INFO  data stored 
+2016-08-02 10:38:07,885 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,007 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,019 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,098 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,111 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,216 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,229 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,323 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,341 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,437 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,450 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,526 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,543 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,668 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,684 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,884 4688 MainThread INFO  data stored 
+2016-08-02 10:38:08,898 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:08,993 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,009 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,122 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,137 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,236 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,252 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,371 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,388 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,480 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,497 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,611 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,624 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,711 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,726 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:09,885 4688 MainThread INFO  data stored 
+2016-08-02 10:38:09,901 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,006 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,020 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,158 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,176 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,276 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,290 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,388 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,405 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,510 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,563 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,706 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,723 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:10,842 4688 MainThread INFO  data stored 
+2016-08-02 10:38:10,862 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,056 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,075 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,194 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,207 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,301 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,312 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,391 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,407 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,565 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,585 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,704 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,723 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,851 4688 MainThread INFO  data stored 
+2016-08-02 10:38:11,868 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:11,990 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,005 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,109 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,124 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,219 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,233 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,381 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,407 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,516 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,532 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,637 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,657 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,782 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,799 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:12,894 4688 MainThread INFO  data stored 
+2016-08-02 10:38:12,913 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,010 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,023 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,109 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,125 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,210 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,226 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,332 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,346 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,446 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,463 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,572 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,585 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,706 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,723 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,832 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,848 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:13,946 4688 MainThread INFO  data stored 
+2016-08-02 10:38:13,961 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,065 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,081 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,206 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,221 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,322 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,335 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,427 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,440 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,519 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,602 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,713 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,724 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:14,832 4688 MainThread INFO  data stored 
+2016-08-02 10:38:14,844 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,007 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,036 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,141 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,155 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,292 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,309 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,413 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,427 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,525 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,536 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,694 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,713 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:15,881 4688 MainThread INFO  data stored 
+2016-08-02 10:38:15,900 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,003 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,019 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,128 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,141 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,257 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,272 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,460 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,480 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,614 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,631 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,726 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,740 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,861 4688 MainThread INFO  data stored 
+2016-08-02 10:38:16,877 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:16,997 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,009 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,095 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,108 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,210 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,223 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,332 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,346 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,482 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,499 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,700 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,720 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:17,832 4688 MainThread INFO  data stored 
+2016-08-02 10:38:17,871 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:18,040 4688 MainThread INFO  data stored 
+2016-08-02 10:38:18,056 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:18,167 4688 MainThread INFO  data stored 
+2016-08-02 10:38:18,180 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:18,266 4688 MainThread INFO  data stored 
+2016-08-02 10:38:18,279 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:18,405 4688 MainThread INFO  data stored 
+2016-08-02 10:38:18,423 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:18,881 4688 MainThread INFO  data stored 
+2016-08-02 10:38:18,898 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,026 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,052 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,164 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,253 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,381 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,395 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,502 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,515 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,611 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,711 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,829 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,845 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:19,946 4688 MainThread INFO  data stored 
+2016-08-02 10:38:19,960 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,046 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,056 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,142 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,160 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,272 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,288 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,371 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,388 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,473 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,487 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,576 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,591 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,737 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,753 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,885 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,904 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:20,984 4688 MainThread INFO  data stored 
+2016-08-02 10:38:20,999 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:21,081 4688 MainThread INFO  data stored 
+2016-08-02 10:38:21,095 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:21,183 4688 MainThread INFO  data stored 
+2016-08-02 10:38:21,197 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:21,286 4688 MainThread INFO  data stored 
+2016-08-02 10:38:21,299 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:21,378 4688 MainThread INFO  data stored 
+2016-08-02 10:38:21,392 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:21,546 4688 MainThread INFO  data stored 
+2016-08-02 10:38:21,568 4688 MainThread INFO  parse status updated 
+2016-08-02 10:38:32,022 4688 MainThread INFO  the round of batch-parsing ends, and totally cost 60.4700000286. 
+2016-08-24 13:51:16,769 5988 MainThread ERROR 2003: Can't connect to MySQL server on '10.10.1.101:3311' (10060 )
+Traceback (most recent call last):
+  File "D:\python_crawler\app\common\db.py", line 16, in sql_connect
+    cnxpool = mysql.connector.pooling.MySQLConnectionPool(**spider_con_config)
+  File "C:\Python27\lib\site-packages\mysql\connector\pooling.py", line 159, in __init__
+    self.add_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\pooling.py", line 270, in add_connection
+    cnx = MySQLConnection(**self._cnx_config)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on '10.10.1.101:3311' (10060 )
+2016-08-24 13:51:25,604 2740 MainThread INFO  starting 
+2016-09-19 15:11:56,338 21684 MainThread INFO  starting 
+2016-09-19 15:11:57,111 21684 MainThread INFO  data stored 
+2016-09-19 15:11:57,155 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:57,421 21684 MainThread INFO  data stored 
+2016-09-19 15:11:57,451 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:57,671 21684 MainThread INFO  data stored 
+2016-09-19 15:11:57,690 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:57,947 21684 MainThread INFO  data stored 
+2016-09-19 15:11:57,961 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:58,224 21684 MainThread INFO  data stored 
+2016-09-19 15:11:58,242 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:58,456 21684 MainThread INFO  data stored 
+2016-09-19 15:11:58,474 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:58,717 21684 MainThread INFO  data stored 
+2016-09-19 15:11:58,742 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:58,934 21684 MainThread INFO  data stored 
+2016-09-19 15:11:58,950 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:59,105 21684 MainThread INFO  data stored 
+2016-09-19 15:11:59,125 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:59,334 21684 MainThread INFO  data stored 
+2016-09-19 15:11:59,349 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:59,517 21684 MainThread INFO  data stored 
+2016-09-19 15:11:59,536 21684 MainThread INFO  parse status updated 
+2016-09-19 15:11:59,763 21684 MainThread INFO  data stored 
+2016-09-19 15:11:59,788 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:00,039 21684 MainThread INFO  data stored 
+2016-09-19 15:12:00,056 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:00,244 21684 MainThread INFO  data stored 
+2016-09-19 15:12:00,267 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:00,483 21684 MainThread INFO  data stored 
+2016-09-19 15:12:00,503 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:00,709 21684 MainThread INFO  data stored 
+2016-09-19 15:12:00,727 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:00,934 21684 MainThread INFO  data stored 
+2016-09-19 15:12:00,950 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:01,161 21684 MainThread INFO  data stored 
+2016-09-19 15:12:01,180 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:01,384 21684 MainThread INFO  data stored 
+2016-09-19 15:12:01,404 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:01,601 21684 MainThread INFO  data stored 
+2016-09-19 15:12:01,624 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:01,809 21684 MainThread INFO  data stored 
+2016-09-19 15:12:01,826 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:02,082 21684 MainThread INFO  data stored 
+2016-09-19 15:12:02,101 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:02,316 21684 MainThread INFO  data stored 
+2016-09-19 15:12:02,344 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:02,551 21684 MainThread INFO  data stored 
+2016-09-19 15:12:02,562 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:02,734 21684 MainThread INFO  data stored 
+2016-09-19 15:12:02,750 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:02,928 21684 MainThread INFO  data stored 
+2016-09-19 15:12:02,947 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:03,088 21684 MainThread INFO  data stored 
+2016-09-19 15:12:03,118 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:03,325 21684 MainThread INFO  data stored 
+2016-09-19 15:12:03,342 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:03,596 21684 MainThread INFO  data stored 
+2016-09-19 15:12:03,609 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:03,770 21684 MainThread INFO  data stored 
+2016-09-19 15:12:03,789 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:04,017 21684 MainThread INFO  data stored 
+2016-09-19 15:12:04,035 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:04,240 21684 MainThread INFO  data stored 
+2016-09-19 15:12:04,262 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:04,453 21684 MainThread INFO  data stored 
+2016-09-19 15:12:04,480 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:04,668 21684 MainThread INFO  data stored 
+2016-09-19 15:12:04,690 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:04,892 21684 MainThread INFO  data stored 
+2016-09-19 15:12:04,908 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:05,163 21684 MainThread INFO  data stored 
+2016-09-19 15:12:05,181 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:05,400 21684 MainThread INFO  data stored 
+2016-09-19 15:12:05,420 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:05,569 21684 MainThread INFO  data stored 
+2016-09-19 15:12:05,592 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:05,773 21684 MainThread INFO  data stored 
+2016-09-19 15:12:05,792 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:06,000 21684 MainThread INFO  data stored 
+2016-09-19 15:12:06,022 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:06,206 21684 MainThread INFO  data stored 
+2016-09-19 15:12:06,226 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:06,459 21684 MainThread INFO  data stored 
+2016-09-19 15:12:06,474 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:06,655 21684 MainThread INFO  data stored 
+2016-09-19 15:12:06,686 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:06,865 21684 MainThread INFO  data stored 
+2016-09-19 15:12:06,884 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:07,308 21684 MainThread INFO  data stored 
+2016-09-19 15:12:07,325 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:07,591 21684 MainThread INFO  data stored 
+2016-09-19 15:12:07,611 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:07,851 21684 MainThread INFO  data stored 
+2016-09-19 15:12:07,868 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:08,033 21684 MainThread INFO  data stored 
+2016-09-19 15:12:08,059 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:08,253 21684 MainThread INFO  data stored 
+2016-09-19 15:12:08,278 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:08,579 21684 MainThread INFO  data stored 
+2016-09-19 15:12:08,599 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:08,819 21684 MainThread INFO  data stored 
+2016-09-19 15:12:08,832 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:09,032 21684 MainThread INFO  data stored 
+2016-09-19 15:12:09,049 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:09,236 21684 MainThread INFO  data stored 
+2016-09-19 15:12:09,269 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:09,460 21684 MainThread INFO  data stored 
+2016-09-19 15:12:09,477 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:09,640 21684 MainThread INFO  data stored 
+2016-09-19 15:12:09,654 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:09,821 21684 MainThread INFO  data stored 
+2016-09-19 15:12:09,845 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:10,056 21684 MainThread INFO  data stored 
+2016-09-19 15:12:10,071 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:10,249 21684 MainThread INFO  data stored 
+2016-09-19 15:12:10,273 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:10,480 21684 MainThread INFO  data stored 
+2016-09-19 15:12:10,500 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:10,696 21684 MainThread INFO  data stored 
+2016-09-19 15:12:10,727 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:10,878 21684 MainThread INFO  data stored 
+2016-09-19 15:12:10,892 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,039 21684 MainThread INFO  data stored 
+2016-09-19 15:12:11,056 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,226 21684 MainThread INFO  data stored 
+2016-09-19 15:12:11,249 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,414 21684 MainThread INFO  data stored 
+2016-09-19 15:12:11,428 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,618 21684 MainThread INFO  data stored 
+2016-09-19 15:12:11,632 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,831 21684 MainThread INFO  data stored 
+2016-09-19 15:12:11,855 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:11,984 21684 MainThread INFO  data stored 
+2016-09-19 15:12:12,010 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:12,230 21684 MainThread INFO  data stored 
+2016-09-19 15:12:12,250 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:12,486 21684 MainThread INFO  data stored 
+2016-09-19 15:12:12,500 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:12,648 21684 MainThread INFO  data stored 
+2016-09-19 15:12:12,668 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:12,901 21684 MainThread INFO  data stored 
+2016-09-19 15:12:12,928 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:13,209 21684 MainThread INFO  data stored 
+2016-09-19 15:12:13,226 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:13,542 21684 MainThread INFO  data stored 
+2016-09-19 15:12:13,562 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:13,792 21684 MainThread INFO  data stored 
+2016-09-19 15:12:13,812 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:14,028 21684 MainThread INFO  data stored 
+2016-09-19 15:12:14,049 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:14,280 21684 MainThread INFO  data stored 
+2016-09-19 15:12:14,305 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:14,448 21684 MainThread INFO  data stored 
+2016-09-19 15:12:14,464 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:14,717 21684 MainThread INFO  data stored 
+2016-09-19 15:12:14,742 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:15,019 21684 MainThread INFO  data stored 
+2016-09-19 15:12:15,040 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:15,298 21684 MainThread INFO  data stored 
+2016-09-19 15:12:15,313 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:15,538 21684 MainThread INFO  data stored 
+2016-09-19 15:12:15,559 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:15,792 21684 MainThread INFO  data stored 
+2016-09-19 15:12:15,813 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:16,150 21684 MainThread INFO  data stored 
+2016-09-19 15:12:16,170 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:16,424 21684 MainThread INFO  data stored 
+2016-09-19 15:12:16,446 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:16,677 21684 MainThread INFO  data stored 
+2016-09-19 15:12:16,690 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:16,950 21684 MainThread INFO  data stored 
+2016-09-19 15:12:16,967 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:17,206 21684 MainThread INFO  data stored 
+2016-09-19 15:12:17,234 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:17,484 21684 MainThread INFO  data stored 
+2016-09-19 15:12:17,503 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:17,703 21684 MainThread INFO  data stored 
+2016-09-19 15:12:17,720 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:17,959 21684 MainThread INFO  data stored 
+2016-09-19 15:12:17,976 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:18,178 21684 MainThread INFO  data stored 
+2016-09-19 15:12:18,197 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:18,450 21684 MainThread INFO  data stored 
+2016-09-19 15:12:18,464 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:18,686 21684 MainThread INFO  data stored 
+2016-09-19 15:12:18,703 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:18,966 21684 MainThread INFO  data stored 
+2016-09-19 15:12:18,983 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:19,223 21684 MainThread INFO  data stored 
+2016-09-19 15:12:19,242 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:19,456 21684 MainThread INFO  data stored 
+2016-09-19 15:12:19,473 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:19,609 21684 MainThread INFO  data stored 
+2016-09-19 15:12:19,628 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:19,982 21684 MainThread INFO  data stored 
+2016-09-19 15:12:20,000 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:20,257 21684 MainThread INFO  data stored 
+2016-09-19 15:12:20,276 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:20,558 21684 MainThread INFO  data stored 
+2016-09-19 15:12:20,585 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:20,838 21684 MainThread INFO  data stored 
+2016-09-19 15:12:20,858 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:21,082 21684 MainThread INFO  data stored 
+2016-09-19 15:12:21,104 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:21,384 21684 MainThread INFO  data stored 
+2016-09-19 15:12:21,404 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:21,753 21684 MainThread INFO  data stored 
+2016-09-19 15:12:21,776 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:22,026 21684 MainThread INFO  data stored 
+2016-09-19 15:12:22,046 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:22,278 21684 MainThread INFO  data stored 
+2016-09-19 15:12:22,296 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:22,546 21684 MainThread INFO  data stored 
+2016-09-19 15:12:22,568 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:22,776 21684 MainThread INFO  data stored 
+2016-09-19 15:12:22,799 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:23,026 21684 MainThread INFO  data stored 
+2016-09-19 15:12:23,048 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:23,263 21684 MainThread INFO  data stored 
+2016-09-19 15:12:23,283 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:23,582 21684 MainThread INFO  data stored 
+2016-09-19 15:12:23,607 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:23,842 21684 MainThread INFO  data stored 
+2016-09-19 15:12:23,864 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:23,986 21684 MainThread INFO  data stored 
+2016-09-19 15:12:24,003 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:24,233 21684 MainThread INFO  data stored 
+2016-09-19 15:12:24,253 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:24,506 21684 MainThread INFO  data stored 
+2016-09-19 15:12:24,523 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:24,773 21684 MainThread INFO  data stored 
+2016-09-19 15:12:24,792 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:25,013 21684 MainThread INFO  data stored 
+2016-09-19 15:12:25,032 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:25,280 21684 MainThread INFO  data stored 
+2016-09-19 15:12:25,299 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:25,576 21684 MainThread INFO  data stored 
+2016-09-19 15:12:25,598 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:25,881 21684 MainThread INFO  data stored 
+2016-09-19 15:12:25,910 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:26,078 21684 MainThread INFO  data stored 
+2016-09-19 15:12:26,105 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:26,342 21684 MainThread INFO  data stored 
+2016-09-19 15:12:26,359 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:26,588 21684 MainThread INFO  data stored 
+2016-09-19 15:12:26,612 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:26,891 21684 MainThread INFO  data stored 
+2016-09-19 15:12:26,911 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:27,039 21684 MainThread INFO  data stored 
+2016-09-19 15:12:27,055 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:27,328 21684 MainThread INFO  data stored 
+2016-09-19 15:12:27,352 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:27,637 21684 MainThread INFO  data stored 
+2016-09-19 15:12:27,657 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:27,927 21684 MainThread INFO  data stored 
+2016-09-19 15:12:27,944 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:28,180 21684 MainThread INFO  data stored 
+2016-09-19 15:12:28,198 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:28,628 21684 MainThread INFO  data stored 
+2016-09-19 15:12:28,651 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:28,872 21684 MainThread INFO  data stored 
+2016-09-19 15:12:28,888 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:29,111 21684 MainThread INFO  data stored 
+2016-09-19 15:12:29,128 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:29,411 21684 MainThread INFO  data stored 
+2016-09-19 15:12:29,427 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:29,635 21684 MainThread INFO  data stored 
+2016-09-19 15:12:29,654 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:30,075 21684 MainThread INFO  data stored 
+2016-09-19 15:12:30,095 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:30,280 21684 MainThread INFO  data stored 
+2016-09-19 15:12:30,305 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:30,571 21684 MainThread INFO  data stored 
+2016-09-19 15:12:30,592 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:30,948 21684 MainThread INFO  data stored 
+2016-09-19 15:12:30,964 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:31,180 21684 MainThread INFO  data stored 
+2016-09-19 15:12:31,200 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:31,427 21684 MainThread INFO  data stored 
+2016-09-19 15:12:31,450 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:31,686 21684 MainThread INFO  data stored 
+2016-09-19 15:12:31,707 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:31,947 21684 MainThread INFO  data stored 
+2016-09-19 15:12:31,973 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:32,223 21684 MainThread INFO  data stored 
+2016-09-19 15:12:32,247 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:32,546 21684 MainThread INFO  data stored 
+2016-09-19 15:12:32,568 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:32,730 21684 MainThread INFO  data stored 
+2016-09-19 15:12:32,750 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:33,013 21684 MainThread INFO  data stored 
+2016-09-19 15:12:33,038 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:33,257 21684 MainThread INFO  data stored 
+2016-09-19 15:12:33,273 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:33,528 21684 MainThread INFO  data stored 
+2016-09-19 15:12:33,542 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:33,726 21684 MainThread INFO  data stored 
+2016-09-19 15:12:33,743 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:33,871 21684 MainThread INFO  data stored 
+2016-09-19 15:12:33,898 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:34,170 21684 MainThread INFO  data stored 
+2016-09-19 15:12:34,187 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:34,328 21684 MainThread INFO  data stored 
+2016-09-19 15:12:34,348 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:34,576 21684 MainThread INFO  data stored 
+2016-09-19 15:12:34,592 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:34,849 21684 MainThread INFO  data stored 
+2016-09-19 15:12:34,877 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:35,078 21684 MainThread INFO  data stored 
+2016-09-19 15:12:35,098 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:35,384 21684 MainThread INFO  data stored 
+2016-09-19 15:12:35,414 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:35,615 21684 MainThread INFO  data stored 
+2016-09-19 15:12:35,637 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:35,861 21684 MainThread INFO  data stored 
+2016-09-19 15:12:35,875 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:36,108 21684 MainThread INFO  data stored 
+2016-09-19 15:12:36,134 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:36,338 21684 MainThread INFO  data stored 
+2016-09-19 15:12:36,361 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:36,673 21684 MainThread INFO  data stored 
+2016-09-19 15:12:36,706 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:36,901 21684 MainThread INFO  data stored 
+2016-09-19 15:12:36,927 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:37,068 21684 MainThread INFO  data stored 
+2016-09-19 15:12:37,105 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:37,325 21684 MainThread INFO  data stored 
+2016-09-19 15:12:37,345 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:37,599 21684 MainThread INFO  data stored 
+2016-09-19 15:12:37,615 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:37,832 21684 MainThread INFO  data stored 
+2016-09-19 15:12:37,845 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:38,072 21684 MainThread INFO  data stored 
+2016-09-19 15:12:38,094 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:38,367 21684 MainThread INFO  data stored 
+2016-09-19 15:12:38,388 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:38,523 21684 MainThread INFO  data stored 
+2016-09-19 15:12:38,538 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:38,802 21684 MainThread INFO  data stored 
+2016-09-19 15:12:38,816 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:39,063 21684 MainThread INFO  data stored 
+2016-09-19 15:12:39,081 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:39,335 21684 MainThread INFO  data stored 
+2016-09-19 15:12:39,367 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:39,515 21684 MainThread INFO  data stored 
+2016-09-19 15:12:39,532 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:39,736 21684 MainThread INFO  data stored 
+2016-09-19 15:12:39,773 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:40,016 21684 MainThread INFO  data stored 
+2016-09-19 15:12:40,035 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:40,266 21684 MainThread INFO  data stored 
+2016-09-19 15:12:40,286 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:40,562 21684 MainThread INFO  data stored 
+2016-09-19 15:12:40,579 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:40,822 21684 MainThread INFO  data stored 
+2016-09-19 15:12:40,845 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:41,081 21684 MainThread INFO  data stored 
+2016-09-19 15:12:41,104 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:41,338 21684 MainThread INFO  data stored 
+2016-09-19 15:12:41,359 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:41,546 21684 MainThread INFO  data stored 
+2016-09-19 15:12:41,565 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:41,697 21684 MainThread INFO  data stored 
+2016-09-19 15:12:41,716 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:41,927 21684 MainThread INFO  data stored 
+2016-09-19 15:12:41,953 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:42,193 21684 MainThread INFO  data stored 
+2016-09-19 15:12:42,211 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:42,467 21684 MainThread INFO  data stored 
+2016-09-19 15:12:42,487 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:42,776 21684 MainThread INFO  data stored 
+2016-09-19 15:12:42,799 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:43,108 21684 MainThread INFO  data stored 
+2016-09-19 15:12:43,127 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:43,371 21684 MainThread INFO  data stored 
+2016-09-19 15:12:43,394 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:43,654 21684 MainThread INFO  data stored 
+2016-09-19 15:12:43,678 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:43,871 21684 MainThread INFO  data stored 
+2016-09-19 15:12:43,888 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:44,151 21684 MainThread INFO  data stored 
+2016-09-19 15:12:44,171 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:44,421 21684 MainThread INFO  data stored 
+2016-09-19 15:12:44,441 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:44,578 21684 MainThread INFO  data stored 
+2016-09-19 15:12:44,601 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:45,029 21684 MainThread INFO  data stored 
+2016-09-19 15:12:45,055 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:45,213 21684 MainThread INFO  data stored 
+2016-09-19 15:12:45,230 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:45,446 21684 MainThread INFO  data stored 
+2016-09-19 15:12:45,469 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:45,746 21684 MainThread INFO  data stored 
+2016-09-19 15:12:45,766 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:45,921 21684 MainThread INFO  data stored 
+2016-09-19 15:12:45,948 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:46,203 21684 MainThread INFO  data stored 
+2016-09-19 15:12:46,240 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:46,471 21684 MainThread INFO  data stored 
+2016-09-19 15:12:46,490 21684 MainThread INFO  parse status updated 
+2016-09-19 15:12:46,509 21684 MainThread INFO  the round of batch-parsing ends, and totally cost 50.1679999828. 
+2016-09-19 15:15:43,410 20744 MainThread INFO  starting 
+2016-09-19 15:15:43,707 20744 MainThread INFO  begin to parse company-id : 149406 
+2016-09-19 15:15:43,825 20744 MainThread INFO  data stored 
+2016-09-19 15:15:43,841 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:43,890 20744 MainThread INFO  begin to parse company-id : 149407 
+2016-09-19 15:15:43,973 20744 MainThread INFO  data stored 
+2016-09-19 15:15:43,987 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:44,033 20744 MainThread INFO  begin to parse company-id : 149408 
+2016-09-19 15:15:44,157 20744 MainThread INFO  data stored 
+2016-09-19 15:15:44,171 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:44,214 20744 MainThread INFO  begin to parse company-id : 149409 
+2016-09-19 15:15:44,368 20744 MainThread INFO  data stored 
+2016-09-19 15:15:44,387 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:44,466 20744 MainThread INFO  begin to parse company-id : 149410 
+2016-09-19 15:15:44,650 20744 MainThread INFO  data stored 
+2016-09-19 15:15:44,668 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:44,736 20744 MainThread INFO  begin to parse company-id : 149411 
+2016-09-19 15:15:44,948 20744 MainThread INFO  data stored 
+2016-09-19 15:15:44,963 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:45,016 20744 MainThread INFO  begin to parse company-id : 149412 
+2016-09-19 15:15:45,181 20744 MainThread INFO  data stored 
+2016-09-19 15:15:45,200 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:45,256 20744 MainThread INFO  begin to parse company-id : 149413 
+2016-09-19 15:15:45,456 20744 MainThread INFO  data stored 
+2016-09-19 15:15:45,473 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:45,552 20744 MainThread INFO  begin to parse company-id : 149414 
+2016-09-19 15:15:45,635 20744 MainThread INFO  data stored 
+2016-09-19 15:15:45,654 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:45,733 20744 MainThread INFO  begin to parse company-id : 149415 
+2016-09-19 15:15:45,845 20744 MainThread INFO  data stored 
+2016-09-19 15:15:45,865 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:45,930 20744 MainThread INFO  begin to parse company-id : 149416 
+2016-09-19 15:15:46,121 20744 MainThread INFO  data stored 
+2016-09-19 15:15:46,150 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:46,242 20744 MainThread INFO  begin to parse company-id : 149417 
+2016-09-19 15:15:46,473 20744 MainThread INFO  data stored 
+2016-09-19 15:15:46,492 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:46,588 20744 MainThread INFO  begin to parse company-id : 149418 
+2016-09-19 15:15:46,769 20744 MainThread INFO  data stored 
+2016-09-19 15:15:46,788 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:46,888 20744 MainThread INFO  begin to parse company-id : 149419 
+2016-09-19 15:15:47,059 20744 MainThread INFO  data stored 
+2016-09-19 15:15:47,075 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:47,164 20744 MainThread INFO  begin to parse company-id : 149420 
+2016-09-19 15:15:47,334 20744 MainThread INFO  data stored 
+2016-09-19 15:15:47,358 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:47,440 20744 MainThread INFO  begin to parse company-id : 149421 
+2016-09-19 15:15:47,700 20744 MainThread INFO  data stored 
+2016-09-19 15:15:47,717 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:47,796 20744 MainThread INFO  begin to parse company-id : 149422 
+2016-09-19 15:15:47,921 20744 MainThread INFO  data stored 
+2016-09-19 15:15:47,944 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:48,055 20744 MainThread INFO  begin to parse company-id : 149423 
+2016-09-19 15:15:48,184 20744 MainThread INFO  data stored 
+2016-09-19 15:15:48,209 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:48,296 20744 MainThread INFO  begin to parse company-id : 149424 
+2016-09-19 15:15:48,525 20744 MainThread INFO  data stored 
+2016-09-19 15:15:48,549 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:48,630 20744 MainThread INFO  begin to parse company-id : 149425 
+2016-09-19 15:15:48,832 20744 MainThread INFO  data stored 
+2016-09-19 15:15:48,857 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:48,933 20744 MainThread INFO  begin to parse company-id : 149426 
+2016-09-19 15:15:48,970 20744 MainThread INFO  data stored 
+2016-09-19 15:15:48,983 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:49,046 20744 MainThread INFO  begin to parse company-id : 149427 
+2016-09-19 15:15:49,213 20744 MainThread INFO  data stored 
+2016-09-19 15:15:49,226 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:49,278 20744 MainThread INFO  begin to parse company-id : 149428 
+2016-09-19 15:15:49,447 20744 MainThread INFO  data stored 
+2016-09-19 15:15:49,470 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:49,551 20744 MainThread INFO  begin to parse company-id : 149429 
+2016-09-19 15:15:49,709 20744 MainThread INFO  data stored 
+2016-09-19 15:15:49,726 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:49,808 20744 MainThread INFO  begin to parse company-id : 149430 
+2016-09-19 15:15:49,845 20744 MainThread INFO  data stored 
+2016-09-19 15:15:49,865 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:49,926 20744 MainThread INFO  begin to parse company-id : 149431 
+2016-09-19 15:15:50,108 20744 MainThread INFO  data stored 
+2016-09-19 15:15:50,128 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:50,226 20744 MainThread INFO  begin to parse company-id : 149432 
+2016-09-19 15:15:50,444 20744 MainThread INFO  data stored 
+2016-09-19 15:15:50,476 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:50,536 20744 MainThread INFO  begin to parse company-id : 149433 
+2016-09-19 15:15:50,720 20744 MainThread INFO  data stored 
+2016-09-19 15:15:50,737 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:50,815 20744 MainThread INFO  begin to parse company-id : 149434 
+2016-09-19 15:15:51,030 20744 MainThread INFO  data stored 
+2016-09-19 15:15:51,052 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:51,125 20744 MainThread INFO  begin to parse company-id : 149435 
+2016-09-19 15:15:51,246 20744 MainThread INFO  data stored 
+2016-09-19 15:15:51,266 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:51,364 20744 MainThread INFO  begin to parse company-id : 149436 
+2016-09-19 15:15:51,512 20744 MainThread INFO  data stored 
+2016-09-19 15:15:51,532 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:51,608 20744 MainThread INFO  begin to parse company-id : 149437 
+2016-09-19 15:15:51,713 20744 MainThread INFO  data stored 
+2016-09-19 15:15:51,730 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:51,796 20744 MainThread INFO  begin to parse company-id : 149438 
+2016-09-19 15:15:51,976 20744 MainThread INFO  data stored 
+2016-09-19 15:15:51,996 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:52,095 20744 MainThread INFO  begin to parse company-id : 149439 
+2016-09-19 15:15:52,203 20744 MainThread INFO  data stored 
+2016-09-19 15:15:52,223 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:52,290 20744 MainThread INFO  begin to parse company-id : 149440 
+2016-09-19 15:15:52,474 20744 MainThread INFO  data stored 
+2016-09-19 15:15:52,493 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:52,573 20744 MainThread INFO  begin to parse company-id : 149441 
+2016-09-19 15:15:52,779 20744 MainThread INFO  data stored 
+2016-09-19 15:15:52,799 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:52,874 20744 MainThread INFO  begin to parse company-id : 149442 
+2016-09-19 15:15:53,032 20744 MainThread INFO  data stored 
+2016-09-19 15:15:53,055 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:53,128 20744 MainThread INFO  begin to parse company-id : 149443 
+2016-09-19 15:15:53,285 20744 MainThread INFO  data stored 
+2016-09-19 15:15:53,303 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:53,417 20744 MainThread INFO  begin to parse company-id : 149444 
+2016-09-19 15:15:53,566 20744 MainThread INFO  data stored 
+2016-09-19 15:15:53,582 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:53,658 20744 MainThread INFO  begin to parse company-id : 149445 
+2016-09-19 15:15:53,802 20744 MainThread INFO  data stored 
+2016-09-19 15:15:53,821 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:53,905 20744 MainThread INFO  begin to parse company-id : 149446 
+2016-09-19 15:15:54,048 20744 MainThread INFO  data stored 
+2016-09-19 15:15:54,065 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:54,170 20744 MainThread INFO  begin to parse company-id : 149447 
+2016-09-19 15:15:54,341 20744 MainThread INFO  data stored 
+2016-09-19 15:15:54,365 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:54,459 20744 MainThread INFO  begin to parse company-id : 149448 
+2016-09-19 15:15:54,644 20744 MainThread INFO  data stored 
+2016-09-19 15:15:54,661 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:54,729 20744 MainThread INFO  begin to parse company-id : 149449 
+2016-09-19 15:15:55,016 20744 MainThread INFO  data stored 
+2016-09-19 15:15:55,036 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:55,128 20744 MainThread INFO  begin to parse company-id : 149450 
+2016-09-19 15:15:55,279 20744 MainThread INFO  data stored 
+2016-09-19 15:15:55,292 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:55,345 20744 MainThread INFO  begin to parse company-id : 149451 
+2016-09-19 15:15:55,392 20744 MainThread INFO  data stored 
+2016-09-19 15:15:55,408 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:55,482 20744 MainThread INFO  begin to parse company-id : 149452 
+2016-09-19 15:15:55,592 20744 MainThread INFO  data stored 
+2016-09-19 15:15:55,609 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:55,683 20744 MainThread INFO  begin to parse company-id : 149453 
+2016-09-19 15:15:55,838 20744 MainThread INFO  data stored 
+2016-09-19 15:15:55,859 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:55,934 20744 MainThread INFO  begin to parse company-id : 149454 
+2016-09-19 15:15:56,125 20744 MainThread INFO  data stored 
+2016-09-19 15:15:56,141 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:56,207 20744 MainThread INFO  begin to parse company-id : 149455 
+2016-09-19 15:15:56,375 20744 MainThread INFO  data stored 
+2016-09-19 15:15:56,391 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:56,447 20744 MainThread INFO  begin to parse company-id : 149456 
+2016-09-19 15:15:56,595 20744 MainThread INFO  data stored 
+2016-09-19 15:15:56,612 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:56,683 20744 MainThread INFO  begin to parse company-id : 149457 
+2016-09-19 15:15:56,815 20744 MainThread INFO  data stored 
+2016-09-19 15:15:56,835 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:56,907 20744 MainThread INFO  begin to parse company-id : 149458 
+2016-09-19 15:15:57,013 20744 MainThread INFO  data stored 
+2016-09-19 15:15:57,045 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:57,115 20744 MainThread INFO  begin to parse company-id : 149459 
+2016-09-19 15:15:57,342 20744 MainThread INFO  data stored 
+2016-09-19 15:15:57,362 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:57,447 20744 MainThread INFO  begin to parse company-id : 149460 
+2016-09-19 15:15:57,516 20744 MainThread INFO  data stored 
+2016-09-19 15:15:57,539 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:57,612 20744 MainThread INFO  begin to parse company-id : 149461 
+2016-09-19 15:15:57,767 20744 MainThread INFO  data stored 
+2016-09-19 15:15:57,790 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:57,861 20744 MainThread INFO  begin to parse company-id : 149462 
+2016-09-19 15:15:57,989 20744 MainThread INFO  data stored 
+2016-09-19 15:15:58,006 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:58,079 20744 MainThread INFO  begin to parse company-id : 149463 
+2016-09-19 15:15:58,243 20744 MainThread INFO  data stored 
+2016-09-19 15:15:58,266 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:58,358 20744 MainThread INFO  begin to parse company-id : 149464 
+2016-09-19 15:15:58,497 20744 MainThread INFO  data stored 
+2016-09-19 15:15:58,512 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:58,561 20744 MainThread INFO  begin to parse company-id : 149465 
+2016-09-19 15:15:58,713 20744 MainThread INFO  data stored 
+2016-09-19 15:15:58,742 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:58,841 20744 MainThread INFO  begin to parse company-id : 149466 
+2016-09-19 15:15:59,019 20744 MainThread INFO  data stored 
+2016-09-19 15:15:59,038 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:59,111 20744 MainThread INFO  begin to parse company-id : 149467 
+2016-09-19 15:15:59,371 20744 MainThread INFO  data stored 
+2016-09-19 15:15:59,388 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:59,470 20744 MainThread INFO  begin to parse company-id : 149468 
+2016-09-19 15:15:59,594 20744 MainThread INFO  data stored 
+2016-09-19 15:15:59,611 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:59,697 20744 MainThread INFO  begin to parse company-id : 149469 
+2016-09-19 15:15:59,805 20744 MainThread INFO  data stored 
+2016-09-19 15:15:59,823 20744 MainThread INFO  parse status updated 
+2016-09-19 15:15:59,904 20744 MainThread INFO  begin to parse company-id : 149470 
+2016-09-19 15:16:00,078 20744 MainThread INFO  data stored 
+2016-09-19 15:16:00,094 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:00,171 20744 MainThread INFO  begin to parse company-id : 149471 
+2016-09-19 15:16:00,331 20744 MainThread INFO  data stored 
+2016-09-19 15:16:00,351 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:00,453 20744 MainThread INFO  begin to parse company-id : 149472 
+2016-09-19 15:16:00,503 20744 MainThread INFO  data stored 
+2016-09-19 15:16:00,519 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:00,601 20744 MainThread INFO  begin to parse company-id : 149473 
+2016-09-19 15:16:00,799 20744 MainThread INFO  data stored 
+2016-09-19 15:16:00,812 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:00,884 20744 MainThread INFO  begin to parse company-id : 149474 
+2016-09-19 15:16:01,075 20744 MainThread INFO  data stored 
+2016-09-19 15:16:01,088 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:01,150 20744 MainThread INFO  begin to parse company-id : 149475 
+2016-09-19 15:16:01,308 20744 MainThread INFO  data stored 
+2016-09-19 15:16:01,325 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:01,408 20744 MainThread INFO  begin to parse company-id : 149476 
+2016-09-19 15:16:01,542 20744 MainThread INFO  data stored 
+2016-09-19 15:16:01,555 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:01,604 20744 MainThread INFO  begin to parse company-id : 149477 
+2016-09-19 15:16:01,750 20744 MainThread INFO  data stored 
+2016-09-19 15:16:01,769 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:01,852 20744 MainThread INFO  begin to parse company-id : 149478 
+2016-09-19 15:16:02,052 20744 MainThread INFO  data stored 
+2016-09-19 15:16:02,072 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:02,155 20744 MainThread INFO  begin to parse company-id : 149479 
+2016-09-19 15:16:02,318 20744 MainThread INFO  data stored 
+2016-09-19 15:16:02,335 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:02,469 20744 MainThread INFO  begin to parse company-id : 149480 
+2016-09-19 15:16:02,522 20744 MainThread INFO  data stored 
+2016-09-19 15:16:02,546 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:02,630 20744 MainThread INFO  begin to parse company-id : 149481 
+2016-09-19 15:16:02,802 20744 MainThread INFO  data stored 
+2016-09-19 15:16:02,822 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:02,901 20744 MainThread INFO  begin to parse company-id : 149482 
+2016-09-19 15:16:03,046 20744 MainThread INFO  data stored 
+2016-09-19 15:16:03,066 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:03,138 20744 MainThread INFO  begin to parse company-id : 149483 
+2016-09-19 15:16:03,260 20744 MainThread INFO  data stored 
+2016-09-19 15:16:03,280 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:03,367 20744 MainThread INFO  begin to parse company-id : 149484 
+2016-09-19 15:16:03,549 20744 MainThread INFO  data stored 
+2016-09-19 15:16:03,569 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:03,664 20744 MainThread INFO  begin to parse company-id : 149485 
+2016-09-19 15:16:03,782 20744 MainThread INFO  data stored 
+2016-09-19 15:16:03,802 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:03,871 20744 MainThread INFO  begin to parse company-id : 149486 
+2016-09-19 15:16:04,010 20744 MainThread INFO  data stored 
+2016-09-19 15:16:04,029 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:04,099 20744 MainThread INFO  begin to parse company-id : 149487 
+2016-09-19 15:16:04,181 20744 MainThread INFO  data stored 
+2016-09-19 15:16:04,209 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:04,299 20744 MainThread INFO  begin to parse company-id : 149488 
+2016-09-19 15:16:04,457 20744 MainThread INFO  data stored 
+2016-09-19 15:16:04,474 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:04,568 20744 MainThread INFO  begin to parse company-id : 149489 
+2016-09-19 15:16:04,710 20744 MainThread INFO  data stored 
+2016-09-19 15:16:04,729 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:04,799 20744 MainThread INFO  begin to parse company-id : 149490 
+2016-09-19 15:16:04,911 20744 MainThread INFO  data stored 
+2016-09-19 15:16:04,928 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:05,010 20744 MainThread INFO  begin to parse company-id : 149491 
+2016-09-19 15:16:05,171 20744 MainThread INFO  data stored 
+2016-09-19 15:16:05,193 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:05,279 20744 MainThread INFO  begin to parse company-id : 149492 
+2016-09-19 15:16:05,372 20744 MainThread INFO  data stored 
+2016-09-19 15:16:05,391 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:05,470 20744 MainThread INFO  begin to parse company-id : 149493 
+2016-09-19 15:16:05,647 20744 MainThread INFO  data stored 
+2016-09-19 15:16:05,674 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:05,759 20744 MainThread INFO  begin to parse company-id : 149494 
+2016-09-19 15:16:05,957 20744 MainThread INFO  data stored 
+2016-09-19 15:16:05,976 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:06,089 20744 MainThread INFO  begin to parse company-id : 149495 
+2016-09-19 15:16:06,145 20744 MainThread INFO  data stored 
+2016-09-19 15:16:06,158 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:06,224 20744 MainThread INFO  begin to parse company-id : 149496 
+2016-09-19 15:16:06,378 20744 MainThread INFO  data stored 
+2016-09-19 15:16:06,394 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:06,487 20744 MainThread INFO  begin to parse company-id : 149497 
+2016-09-19 15:16:06,539 20744 MainThread INFO  data stored 
+2016-09-19 15:16:06,558 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:06,644 20744 MainThread INFO  begin to parse company-id : 149498 
+2016-09-19 15:16:06,885 20744 MainThread INFO  data stored 
+2016-09-19 15:16:06,904 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:06,979 20744 MainThread INFO  begin to parse company-id : 149499 
+2016-09-19 15:16:07,171 20744 MainThread INFO  data stored 
+2016-09-19 15:16:07,197 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:07,289 20744 MainThread INFO  begin to parse company-id : 149500 
+2016-09-19 15:16:07,440 20744 MainThread INFO  data stored 
+2016-09-19 15:16:07,453 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:07,520 20744 MainThread INFO  begin to parse company-id : 149501 
+2016-09-19 15:16:07,693 20744 MainThread INFO  data stored 
+2016-09-19 15:16:07,710 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:07,759 20744 MainThread INFO  begin to parse company-id : 149502 
+2016-09-19 15:16:07,994 20744 MainThread INFO  data stored 
+2016-09-19 15:16:08,012 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:08,105 20744 MainThread INFO  begin to parse company-id : 149503 
+2016-09-19 15:16:08,240 20744 MainThread INFO  data stored 
+2016-09-19 15:16:08,259 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:08,342 20744 MainThread INFO  begin to parse company-id : 149504 
+2016-09-19 15:16:08,407 20744 MainThread INFO  data stored 
+2016-09-19 15:16:08,437 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:08,509 20744 MainThread INFO  begin to parse company-id : 149505 
+2016-09-19 15:16:08,786 20744 MainThread INFO  data stored 
+2016-09-19 15:16:08,812 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:08,892 20744 MainThread INFO  begin to parse company-id : 149506 
+2016-09-19 15:16:08,994 20744 MainThread INFO  data stored 
+2016-09-19 15:16:09,013 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:09,099 20744 MainThread INFO  begin to parse company-id : 149507 
+2016-09-19 15:16:09,250 20744 MainThread INFO  data stored 
+2016-09-19 15:16:09,270 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:09,342 20744 MainThread INFO  begin to parse company-id : 149508 
+2016-09-19 15:16:09,443 20744 MainThread INFO  data stored 
+2016-09-19 15:16:09,461 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:09,540 20744 MainThread INFO  begin to parse company-id : 149509 
+2016-09-19 15:16:09,654 20744 MainThread INFO  data stored 
+2016-09-19 15:16:09,674 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:09,756 20744 MainThread INFO  begin to parse company-id : 149510 
+2016-09-19 15:16:09,950 20744 MainThread INFO  data stored 
+2016-09-19 15:16:09,967 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:10,033 20744 MainThread INFO  begin to parse company-id : 149511 
+2016-09-19 15:16:10,171 20744 MainThread INFO  data stored 
+2016-09-19 15:16:10,191 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:10,283 20744 MainThread INFO  begin to parse company-id : 149512 
+2016-09-19 15:16:10,450 20744 MainThread INFO  data stored 
+2016-09-19 15:16:10,471 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:10,543 20744 MainThread INFO  begin to parse company-id : 149513 
+2016-09-19 15:16:10,592 20744 MainThread INFO  data stored 
+2016-09-19 15:16:10,611 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:10,678 20744 MainThread INFO  begin to parse company-id : 149514 
+2016-09-19 15:16:10,792 20744 MainThread INFO  data stored 
+2016-09-19 15:16:10,805 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:10,851 20744 MainThread INFO  begin to parse company-id : 149515 
+2016-09-19 15:16:10,950 20744 MainThread INFO  data stored 
+2016-09-19 15:16:10,976 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:11,052 20744 MainThread INFO  begin to parse company-id : 149516 
+2016-09-19 15:16:11,249 20744 MainThread INFO  data stored 
+2016-09-19 15:16:11,266 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:11,344 20744 MainThread INFO  begin to parse company-id : 149517 
+2016-09-19 15:16:11,571 20744 MainThread INFO  data stored 
+2016-09-19 15:16:11,592 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:11,677 20744 MainThread INFO  begin to parse company-id : 149518 
+2016-09-19 15:16:11,790 20744 MainThread INFO  data stored 
+2016-09-19 15:16:11,808 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:11,871 20744 MainThread INFO  begin to parse company-id : 149519 
+2016-09-19 15:16:12,078 20744 MainThread INFO  data stored 
+2016-09-19 15:16:12,095 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:12,180 20744 MainThread INFO  begin to parse company-id : 149520 
+2016-09-19 15:16:12,288 20744 MainThread INFO  data stored 
+2016-09-19 15:16:12,311 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:12,398 20744 MainThread INFO  begin to parse company-id : 149521 
+2016-09-19 15:16:12,676 20744 MainThread INFO  data stored 
+2016-09-19 15:16:12,694 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:12,779 20744 MainThread INFO  begin to parse company-id : 149522 
+2016-09-19 15:16:13,019 20744 MainThread INFO  data stored 
+2016-09-19 15:16:13,036 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:13,115 20744 MainThread INFO  begin to parse company-id : 149523 
+2016-09-19 15:16:13,382 20744 MainThread INFO  data stored 
+2016-09-19 15:16:13,401 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:13,483 20744 MainThread INFO  begin to parse company-id : 149524 
+2016-09-19 15:16:13,644 20744 MainThread INFO  data stored 
+2016-09-19 15:16:13,665 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:13,724 20744 MainThread INFO  begin to parse company-id : 149525 
+2016-09-19 15:16:13,915 20744 MainThread INFO  data stored 
+2016-09-19 15:16:13,934 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:14,020 20744 MainThread INFO  begin to parse company-id : 149526 
+2016-09-19 15:16:14,289 20744 MainThread INFO  data stored 
+2016-09-19 15:16:14,306 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:14,401 20744 MainThread INFO  begin to parse company-id : 149527 
+2016-09-19 15:16:14,555 20744 MainThread INFO  data stored 
+2016-09-19 15:16:14,572 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:14,664 20744 MainThread INFO  begin to parse company-id : 149528 
+2016-09-19 15:16:14,750 20744 MainThread INFO  data stored 
+2016-09-19 15:16:14,773 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:14,835 20744 MainThread INFO  begin to parse company-id : 149529 
+2016-09-19 15:16:15,043 20744 MainThread INFO  data stored 
+2016-09-19 15:16:15,068 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:15,154 20744 MainThread INFO  begin to parse company-id : 149530 
+2016-09-19 15:16:15,243 20744 MainThread INFO  data stored 
+2016-09-19 15:16:15,270 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:15,335 20744 MainThread INFO  begin to parse company-id : 149531 
+2016-09-19 15:16:15,473 20744 MainThread INFO  data stored 
+2016-09-19 15:16:15,497 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:15,578 20744 MainThread INFO  begin to parse company-id : 149532 
+2016-09-19 15:16:15,730 20744 MainThread INFO  data stored 
+2016-09-19 15:16:15,750 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:15,845 20744 MainThread INFO  begin to parse company-id : 149533 
+2016-09-19 15:16:16,013 20744 MainThread INFO  data stored 
+2016-09-19 15:16:16,030 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:16,115 20744 MainThread INFO  begin to parse company-id : 149534 
+2016-09-19 15:16:16,213 20744 MainThread INFO  data stored 
+2016-09-19 15:16:16,232 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:16,322 20744 MainThread INFO  begin to parse company-id : 149535 
+2016-09-19 15:16:16,540 20744 MainThread INFO  data stored 
+2016-09-19 15:16:16,568 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:16,654 20744 MainThread INFO  begin to parse company-id : 149536 
+2016-09-19 15:16:16,789 20744 MainThread INFO  data stored 
+2016-09-19 15:16:16,802 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:16,848 20744 MainThread INFO  begin to parse company-id : 149537 
+2016-09-19 15:16:16,931 20744 MainThread INFO  data stored 
+2016-09-19 15:16:16,950 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:17,025 20744 MainThread INFO  begin to parse company-id : 149538 
+2016-09-19 15:16:17,223 20744 MainThread INFO  data stored 
+2016-09-19 15:16:17,243 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:17,342 20744 MainThread INFO  begin to parse company-id : 149539 
+2016-09-19 15:16:17,654 20744 MainThread INFO  data stored 
+2016-09-19 15:16:17,674 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:17,763 20744 MainThread INFO  begin to parse company-id : 149540 
+2016-09-19 15:16:18,003 20744 MainThread INFO  data stored 
+2016-09-19 15:16:18,023 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:18,115 20744 MainThread INFO  begin to parse company-id : 149541 
+2016-09-19 15:16:18,250 20744 MainThread INFO  data stored 
+2016-09-19 15:16:18,269 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:18,345 20744 MainThread INFO  begin to parse company-id : 149542 
+2016-09-19 15:16:18,476 20744 MainThread INFO  data stored 
+2016-09-19 15:16:18,489 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:18,555 20744 MainThread INFO  begin to parse company-id : 149543 
+2016-09-19 15:16:18,706 20744 MainThread INFO  data stored 
+2016-09-19 15:16:18,724 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:18,812 20744 MainThread INFO  begin to parse company-id : 149544 
+2016-09-19 15:16:18,993 20744 MainThread INFO  data stored 
+2016-09-19 15:16:19,009 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:19,085 20744 MainThread INFO  begin to parse company-id : 149545 
+2016-09-19 15:16:19,243 20744 MainThread INFO  data stored 
+2016-09-19 15:16:19,260 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:19,321 20744 MainThread INFO  begin to parse company-id : 149546 
+2016-09-19 15:16:19,499 20744 MainThread INFO  data stored 
+2016-09-19 15:16:19,519 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:19,621 20744 MainThread INFO  begin to parse company-id : 149547 
+2016-09-19 15:16:19,829 20744 MainThread INFO  data stored 
+2016-09-19 15:16:19,851 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:19,944 20744 MainThread INFO  begin to parse company-id : 149548 
+2016-09-19 15:16:20,082 20744 MainThread INFO  data stored 
+2016-09-19 15:16:20,098 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:20,168 20744 MainThread INFO  begin to parse company-id : 149549 
+2016-09-19 15:16:20,326 20744 MainThread INFO  data stored 
+2016-09-19 15:16:20,345 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:20,417 20744 MainThread INFO  begin to parse company-id : 149550 
+2016-09-19 15:16:20,823 20744 MainThread INFO  data stored 
+2016-09-19 15:16:20,848 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:20,924 20744 MainThread INFO  begin to parse company-id : 149551 
+2016-09-19 15:16:21,127 20744 MainThread INFO  data stored 
+2016-09-19 15:16:21,145 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:21,239 20744 MainThread INFO  begin to parse company-id : 149552 
+2016-09-19 15:16:21,453 20744 MainThread INFO  data stored 
+2016-09-19 15:16:21,479 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:21,555 20744 MainThread INFO  begin to parse company-id : 149553 
+2016-09-19 15:16:21,618 20744 MainThread INFO  data stored 
+2016-09-19 15:16:21,637 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:21,706 20744 MainThread INFO  begin to parse company-id : 149554 
+2016-09-19 15:16:21,994 20744 MainThread INFO  data stored 
+2016-09-19 15:16:22,013 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:22,082 20744 MainThread INFO  begin to parse company-id : 149555 
+2016-09-19 15:16:22,216 20744 MainThread INFO  data stored 
+2016-09-19 15:16:22,237 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:22,309 20744 MainThread INFO  begin to parse company-id : 149556 
+2016-09-19 15:16:22,450 20744 MainThread INFO  data stored 
+2016-09-19 15:16:22,464 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:22,512 20744 MainThread INFO  begin to parse company-id : 149557 
+2016-09-19 15:16:22,694 20744 MainThread INFO  data stored 
+2016-09-19 15:16:22,713 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:22,793 20744 MainThread INFO  begin to parse company-id : 149558 
+2016-09-19 15:16:22,908 20744 MainThread INFO  data stored 
+2016-09-19 15:16:22,927 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:23,013 20744 MainThread INFO  begin to parse company-id : 149559 
+2016-09-19 15:16:23,223 20744 MainThread INFO  data stored 
+2016-09-19 15:16:23,240 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:23,321 20744 MainThread INFO  begin to parse company-id : 149560 
+2016-09-19 15:16:23,493 20744 MainThread INFO  data stored 
+2016-09-19 15:16:23,516 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:23,615 20744 MainThread INFO  begin to parse company-id : 149561 
+2016-09-19 15:16:23,657 20744 MainThread INFO  data stored 
+2016-09-19 15:16:23,674 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:23,753 20744 MainThread INFO  begin to parse company-id : 149562 
+2016-09-19 15:16:23,809 20744 MainThread INFO  data stored 
+2016-09-19 15:16:23,825 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:23,892 20744 MainThread INFO  begin to parse company-id : 149563 
+2016-09-19 15:16:24,058 20744 MainThread INFO  data stored 
+2016-09-19 15:16:24,079 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:24,171 20744 MainThread INFO  begin to parse company-id : 149564 
+2016-09-19 15:16:24,272 20744 MainThread INFO  data stored 
+2016-09-19 15:16:24,290 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:24,368 20744 MainThread INFO  begin to parse company-id : 149565 
+2016-09-19 15:16:24,621 20744 MainThread INFO  data stored 
+2016-09-19 15:16:24,640 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:24,713 20744 MainThread INFO  begin to parse company-id : 149566 
+2016-09-19 15:16:24,880 20744 MainThread INFO  data stored 
+2016-09-19 15:16:24,901 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:24,990 20744 MainThread INFO  begin to parse company-id : 149567 
+2016-09-19 15:16:25,040 20744 MainThread INFO  data stored 
+2016-09-19 15:16:25,063 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:25,132 20744 MainThread INFO  begin to parse company-id : 149568 
+2016-09-19 15:16:25,397 20744 MainThread INFO  data stored 
+2016-09-19 15:16:25,420 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:25,500 20744 MainThread INFO  begin to parse company-id : 149569 
+2016-09-19 15:16:25,743 20744 MainThread INFO  data stored 
+2016-09-19 15:16:25,769 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:25,842 20744 MainThread INFO  begin to parse company-id : 149570 
+2016-09-19 15:16:26,033 20744 MainThread INFO  data stored 
+2016-09-19 15:16:26,055 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:26,144 20744 MainThread INFO  begin to parse company-id : 149571 
+2016-09-19 15:16:26,196 20744 MainThread INFO  data stored 
+2016-09-19 15:16:26,227 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:26,296 20744 MainThread INFO  begin to parse company-id : 149572 
+2016-09-19 15:16:26,459 20744 MainThread INFO  data stored 
+2016-09-19 15:16:26,479 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:26,559 20744 MainThread INFO  begin to parse company-id : 149573 
+2016-09-19 15:16:26,793 20744 MainThread INFO  data stored 
+2016-09-19 15:16:26,838 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:26,918 20744 MainThread INFO  begin to parse company-id : 149574 
+2016-09-19 15:16:26,960 20744 MainThread INFO  data stored 
+2016-09-19 15:16:26,979 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:27,049 20744 MainThread INFO  begin to parse company-id : 149575 
+2016-09-19 15:16:27,214 20744 MainThread INFO  data stored 
+2016-09-19 15:16:27,243 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:27,328 20744 MainThread INFO  begin to parse company-id : 149576 
+2016-09-19 15:16:27,549 20744 MainThread INFO  data stored 
+2016-09-19 15:16:27,572 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:27,657 20744 MainThread INFO  begin to parse company-id : 149577 
+2016-09-19 15:16:27,707 20744 MainThread INFO  data stored 
+2016-09-19 15:16:27,729 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:27,805 20744 MainThread INFO  begin to parse company-id : 149578 
+2016-09-19 15:16:28,006 20744 MainThread INFO  data stored 
+2016-09-19 15:16:28,023 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:28,109 20744 MainThread INFO  begin to parse company-id : 149579 
+2016-09-19 15:16:28,207 20744 MainThread INFO  data stored 
+2016-09-19 15:16:28,226 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:28,299 20744 MainThread INFO  begin to parse company-id : 149580 
+2016-09-19 15:16:28,477 20744 MainThread INFO  data stored 
+2016-09-19 15:16:28,494 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:28,569 20744 MainThread INFO  begin to parse company-id : 149581 
+2016-09-19 15:16:28,799 20744 MainThread INFO  data stored 
+2016-09-19 15:16:28,831 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:28,901 20744 MainThread INFO  begin to parse company-id : 149582 
+2016-09-19 15:16:29,056 20744 MainThread INFO  data stored 
+2016-09-19 15:16:29,073 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:29,150 20744 MainThread INFO  begin to parse company-id : 149583 
+2016-09-19 15:16:29,278 20744 MainThread INFO  data stored 
+2016-09-19 15:16:29,290 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:29,354 20744 MainThread INFO  begin to parse company-id : 149584 
+2016-09-19 15:16:29,509 20744 MainThread INFO  data stored 
+2016-09-19 15:16:29,529 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:29,611 20744 MainThread INFO  begin to parse company-id : 149585 
+2016-09-19 15:16:29,747 20744 MainThread INFO  data stored 
+2016-09-19 15:16:29,762 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:29,846 20744 MainThread INFO  begin to parse company-id : 149586 
+2016-09-19 15:16:30,062 20744 MainThread INFO  data stored 
+2016-09-19 15:16:30,078 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:30,137 20744 MainThread INFO  begin to parse company-id : 149587 
+2016-09-19 15:16:30,252 20744 MainThread INFO  data stored 
+2016-09-19 15:16:30,276 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:30,352 20744 MainThread INFO  begin to parse company-id : 149588 
+2016-09-19 15:16:30,483 20744 MainThread INFO  data stored 
+2016-09-19 15:16:30,500 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:30,562 20744 MainThread INFO  begin to parse company-id : 149589 
+2016-09-19 15:16:30,697 20744 MainThread INFO  data stored 
+2016-09-19 15:16:30,714 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:30,769 20744 MainThread INFO  begin to parse company-id : 149590 
+2016-09-19 15:16:30,959 20744 MainThread INFO  data stored 
+2016-09-19 15:16:30,982 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:31,051 20744 MainThread INFO  begin to parse company-id : 149591 
+2016-09-19 15:16:31,155 20744 MainThread INFO  data stored 
+2016-09-19 15:16:31,171 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:31,217 20744 MainThread INFO  begin to parse company-id : 149592 
+2016-09-19 15:16:31,405 20744 MainThread INFO  data stored 
+2016-09-19 15:16:31,421 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:31,490 20744 MainThread INFO  begin to parse company-id : 149593 
+2016-09-19 15:16:31,543 20744 MainThread INFO  data stored 
+2016-09-19 15:16:31,566 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:31,634 20744 MainThread INFO  begin to parse company-id : 149594 
+2016-09-19 15:16:31,858 20744 MainThread INFO  data stored 
+2016-09-19 15:16:31,875 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:31,960 20744 MainThread INFO  begin to parse company-id : 149595 
+2016-09-19 15:16:32,000 20744 MainThread INFO  data stored 
+2016-09-19 15:16:32,029 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:32,102 20744 MainThread INFO  begin to parse company-id : 149596 
+2016-09-19 15:16:32,318 20744 MainThread INFO  data stored 
+2016-09-19 15:16:32,336 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:32,421 20744 MainThread INFO  begin to parse company-id : 149597 
+2016-09-19 15:16:32,466 20744 MainThread INFO  data stored 
+2016-09-19 15:16:32,483 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:32,573 20744 MainThread INFO  begin to parse company-id : 149598 
+2016-09-19 15:16:32,974 20744 MainThread INFO  data stored 
+2016-09-19 15:16:32,993 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:33,084 20744 MainThread INFO  begin to parse company-id : 149599 
+2016-09-19 15:16:33,246 20744 MainThread INFO  data stored 
+2016-09-19 15:16:33,270 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:33,358 20744 MainThread INFO  begin to parse company-id : 149600 
+2016-09-19 15:16:33,457 20744 MainThread INFO  data stored 
+2016-09-19 15:16:33,480 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:33,553 20744 MainThread INFO  begin to parse company-id : 149601 
+2016-09-19 15:16:33,756 20744 MainThread INFO  data stored 
+2016-09-19 15:16:33,776 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:33,825 20744 MainThread INFO  begin to parse company-id : 149602 
+2016-09-19 15:16:33,987 20744 MainThread INFO  data stored 
+2016-09-19 15:16:34,007 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:34,075 20744 MainThread INFO  begin to parse company-id : 149603 
+2016-09-19 15:16:34,142 20744 MainThread INFO  data stored 
+2016-09-19 15:16:34,163 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:34,240 20744 MainThread INFO  begin to parse company-id : 149604 
+2016-09-19 15:16:34,413 20744 MainThread INFO  data stored 
+2016-09-19 15:16:34,431 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:34,513 20744 MainThread INFO  begin to parse company-id : 149605 
+2016-09-19 15:16:34,671 20744 MainThread INFO  data stored 
+2016-09-19 15:16:34,687 20744 MainThread INFO  parse status updated 
+2016-09-19 15:16:34,710 20744 MainThread INFO  the round of batch-parsing ends, and totally cost 51.2999999523. 

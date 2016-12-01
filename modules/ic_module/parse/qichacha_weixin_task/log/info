@@ -1,0 +1,1228 @@
+2016-08-17 13:46:51,964 4680 MainThread ERROR 1054 (42S22): Unknown column 'crawl_time' in 'field list'
+Traceback (most recent call last):
+  File "D:\python_crawler\app\common\db.py", line 51, in sql_fetch_rows
+    cur.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+ProgrammingError: 1054 (42S22): Unknown column 'crawl_time' in 'field list'
+2016-08-17 13:48:29,467 6096 MainThread ERROR 1054 (42S22): Unknown column 'crawl_status' in 'where clause'
+Traceback (most recent call last):
+  File "D:\python_crawler\app\common\db.py", line 51, in sql_fetch_rows
+    cur.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+ProgrammingError: 1054 (42S22): Unknown column 'crawl_status' in 'where clause'
+2016-08-17 13:49:43,134 1684 MainThread INFO  starting to parse. company id: 31816 
+2016-08-17 13:49:45,789 1684 MainThread INFO  data stored 
+2016-08-17 13:49:47,413 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:15,336 1684 MainThread INFO  starting to parse. company id: 31817 
+2016-08-17 13:50:15,469 1684 MainThread INFO  data stored 
+2016-08-17 13:50:15,480 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:15,532 1684 MainThread INFO  starting to parse. company id: 31818 
+2016-08-17 13:50:15,599 1684 MainThread INFO  data stored 
+2016-08-17 13:50:15,612 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:15,683 1684 MainThread INFO  starting to parse. company id: 31819 
+2016-08-17 13:50:15,743 1684 MainThread INFO  data stored 
+2016-08-17 13:50:15,757 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:15,845 1684 MainThread INFO  starting to parse. company id: 31820 
+2016-08-17 13:50:15,908 1684 MainThread INFO  data stored 
+2016-08-17 13:50:15,920 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:15,982 1684 MainThread INFO  starting to parse. company id: 31821 
+2016-08-17 13:50:16,049 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,065 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,134 1684 MainThread INFO  starting to parse. company id: 31822 
+2016-08-17 13:50:16,191 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,206 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,280 1684 MainThread INFO  starting to parse. company id: 31823 
+2016-08-17 13:50:16,335 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,349 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,424 1684 MainThread INFO  starting to parse. company id: 31824 
+2016-08-17 13:50:16,513 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,529 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,598 1684 MainThread INFO  starting to parse. company id: 31825 
+2016-08-17 13:50:16,661 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,677 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,776 1684 MainThread INFO  starting to parse. company id: 31826 
+2016-08-17 13:50:16,868 1684 MainThread INFO  data stored 
+2016-08-17 13:50:16,884 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:16,963 1684 MainThread INFO  starting to parse. company id: 31827 
+2016-08-17 13:50:17,030 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,039 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,084 1684 MainThread INFO  starting to parse. company id: 31828 
+2016-08-17 13:50:17,154 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,168 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,240 1684 MainThread INFO  starting to parse. company id: 31829 
+2016-08-17 13:50:17,298 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,312 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,371 1684 MainThread INFO  starting to parse. company id: 31830 
+2016-08-17 13:50:17,426 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,437 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,507 1684 MainThread INFO  starting to parse. company id: 31831 
+2016-08-17 13:50:17,572 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,586 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,658 1684 MainThread INFO  starting to parse. company id: 31832 
+2016-08-17 13:50:17,716 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,730 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,799 1684 MainThread INFO  starting to parse. company id: 31833 
+2016-08-17 13:50:17,861 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,871 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:17,917 1684 MainThread INFO  starting to parse. company id: 31834 
+2016-08-17 13:50:17,969 1684 MainThread INFO  data stored 
+2016-08-17 13:50:17,977 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,039 1684 MainThread INFO  starting to parse. company id: 31835 
+2016-08-17 13:50:18,096 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,108 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,176 1684 MainThread INFO  starting to parse. company id: 31836 
+2016-08-17 13:50:18,234 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,246 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,299 1684 MainThread INFO  starting to parse. company id: 31837 
+2016-08-17 13:50:18,346 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,361 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,434 1684 MainThread INFO  starting to parse. company id: 31838 
+2016-08-17 13:50:18,506 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,523 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,585 1684 MainThread INFO  starting to parse. company id: 31839 
+2016-08-17 13:50:18,625 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,634 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,680 1684 MainThread INFO  starting to parse. company id: 31840 
+2016-08-17 13:50:18,753 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,769 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:18,848 1684 MainThread INFO  starting to parse. company id: 31841 
+2016-08-17 13:50:18,927 1684 MainThread INFO  data stored 
+2016-08-17 13:50:18,940 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,010 1684 MainThread INFO  starting to parse. company id: 31842 
+2016-08-17 13:50:19,075 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,085 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,158 1684 MainThread INFO  starting to parse. company id: 31843 
+2016-08-17 13:50:19,211 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,224 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,298 1684 MainThread INFO  starting to parse. company id: 31844 
+2016-08-17 13:50:19,352 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,365 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,427 1684 MainThread INFO  starting to parse. company id: 31845 
+2016-08-17 13:50:19,484 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,496 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,539 1684 MainThread INFO  starting to parse. company id: 31846 
+2016-08-17 13:50:19,591 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,599 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,644 1684 MainThread INFO  starting to parse. company id: 31847 
+2016-08-17 13:50:19,707 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,721 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,809 1684 MainThread INFO  starting to parse. company id: 31848 
+2016-08-17 13:50:19,881 1684 MainThread INFO  data stored 
+2016-08-17 13:50:19,894 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:19,969 1684 MainThread INFO  starting to parse. company id: 31849 
+2016-08-17 13:50:20,028 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,042 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,114 1684 MainThread INFO  starting to parse. company id: 31850 
+2016-08-17 13:50:20,171 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,184 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,256 1684 MainThread INFO  starting to parse. company id: 31851 
+2016-08-17 13:50:20,282 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,292 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,335 1684 MainThread INFO  starting to parse. company id: 31852 
+2016-08-17 13:50:20,414 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,428 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,503 1684 MainThread INFO  starting to parse. company id: 31853 
+2016-08-17 13:50:20,585 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,599 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,674 1684 MainThread INFO  starting to parse. company id: 31854 
+2016-08-17 13:50:20,726 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,740 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,811 1684 MainThread INFO  starting to parse. company id: 31855 
+2016-08-17 13:50:20,898 1684 MainThread INFO  data stored 
+2016-08-17 13:50:20,913 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:20,986 1684 MainThread INFO  starting to parse. company id: 31856 
+2016-08-17 13:50:21,046 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,061 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,134 1684 MainThread INFO  starting to parse. company id: 31857 
+2016-08-17 13:50:21,191 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,204 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,276 1684 MainThread INFO  starting to parse. company id: 31858 
+2016-08-17 13:50:21,352 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,365 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,418 1684 MainThread INFO  starting to parse. company id: 31859 
+2016-08-17 13:50:21,473 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,486 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,559 1684 MainThread INFO  starting to parse. company id: 31860 
+2016-08-17 13:50:21,609 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,624 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,701 1684 MainThread INFO  starting to parse. company id: 31861 
+2016-08-17 13:50:21,793 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,808 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:21,888 1684 MainThread INFO  starting to parse. company id: 31862 
+2016-08-17 13:50:21,957 1684 MainThread INFO  data stored 
+2016-08-17 13:50:21,971 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,040 1684 MainThread INFO  starting to parse. company id: 31863 
+2016-08-17 13:50:22,122 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,135 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,213 1684 MainThread INFO  starting to parse. company id: 31864 
+2016-08-17 13:50:22,275 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,288 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,357 1684 MainThread INFO  starting to parse. company id: 31865 
+2016-08-17 13:50:22,417 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,430 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,510 1684 MainThread INFO  starting to parse. company id: 31866 
+2016-08-17 13:50:22,601 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,615 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,711 1684 MainThread INFO  starting to parse. company id: 31867 
+2016-08-17 13:50:22,739 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,747 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,806 1684 MainThread INFO  starting to parse. company id: 31868 
+2016-08-17 13:50:22,848 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,858 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:22,917 1684 MainThread INFO  starting to parse. company id: 31869 
+2016-08-17 13:50:22,963 1684 MainThread INFO  data stored 
+2016-08-17 13:50:22,977 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,052 1684 MainThread INFO  starting to parse. company id: 31870 
+2016-08-17 13:50:23,117 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,130 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,207 1684 MainThread INFO  starting to parse. company id: 31871 
+2016-08-17 13:50:23,263 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,278 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,351 1684 MainThread INFO  starting to parse. company id: 31872 
+2016-08-17 13:50:23,426 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,438 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,533 1684 MainThread INFO  starting to parse. company id: 31873 
+2016-08-17 13:50:23,631 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,648 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,720 1684 MainThread INFO  starting to parse. company id: 31874 
+2016-08-17 13:50:23,775 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,789 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,858 1684 MainThread INFO  starting to parse. company id: 31875 
+2016-08-17 13:50:23,911 1684 MainThread INFO  data stored 
+2016-08-17 13:50:23,924 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:23,989 1684 MainThread INFO  starting to parse. company id: 31876 
+2016-08-17 13:50:24,069 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,084 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,160 1684 MainThread INFO  starting to parse. company id: 31877 
+2016-08-17 13:50:24,210 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,220 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,262 1684 MainThread INFO  starting to parse. company id: 31878 
+2016-08-17 13:50:24,306 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,319 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,413 1684 MainThread INFO  starting to parse. company id: 31879 
+2016-08-17 13:50:24,440 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,450 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,500 1684 MainThread INFO  starting to parse. company id: 31880 
+2016-08-17 13:50:24,565 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,579 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,660 1684 MainThread INFO  starting to parse. company id: 31881 
+2016-08-17 13:50:24,713 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,726 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,796 1684 MainThread INFO  starting to parse. company id: 31882 
+2016-08-17 13:50:24,878 1684 MainThread INFO  data stored 
+2016-08-17 13:50:24,891 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:24,969 1684 MainThread INFO  starting to parse. company id: 31883 
+2016-08-17 13:50:25,025 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,038 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,119 1684 MainThread INFO  starting to parse. company id: 31884 
+2016-08-17 13:50:25,198 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,213 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,298 1684 MainThread INFO  starting to parse. company id: 31885 
+2016-08-17 13:50:25,355 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,368 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,437 1684 MainThread INFO  starting to parse. company id: 31886 
+2016-08-17 13:50:25,594 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,607 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,677 1684 MainThread INFO  starting to parse. company id: 31887 
+2016-08-17 13:50:25,743 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,756 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,836 1684 MainThread INFO  starting to parse. company id: 31888 
+2016-08-17 13:50:25,881 1684 MainThread INFO  data stored 
+2016-08-17 13:50:25,894 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:25,967 1684 MainThread INFO  starting to parse. company id: 31889 
+2016-08-17 13:50:26,029 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,042 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,098 1684 MainThread INFO  starting to parse. company id: 31890 
+2016-08-17 13:50:26,196 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,209 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,289 1684 MainThread INFO  starting to parse. company id: 31891 
+2016-08-17 13:50:26,348 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,361 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,440 1684 MainThread INFO  starting to parse. company id: 31892 
+2016-08-17 13:50:26,494 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,507 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,595 1684 MainThread INFO  starting to parse. company id: 31893 
+2016-08-17 13:50:26,637 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,647 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,710 1684 MainThread INFO  starting to parse. company id: 31894 
+2016-08-17 13:50:26,753 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,767 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,838 1684 MainThread INFO  starting to parse. company id: 31895 
+2016-08-17 13:50:26,898 1684 MainThread INFO  data stored 
+2016-08-17 13:50:26,913 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:26,990 1684 MainThread INFO  starting to parse. company id: 31896 
+2016-08-17 13:50:27,055 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,066 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,118 1684 MainThread INFO  starting to parse. company id: 31897 
+2016-08-17 13:50:27,240 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,253 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,323 1684 MainThread INFO  starting to parse. company id: 31898 
+2016-08-17 13:50:27,381 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,395 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,464 1684 MainThread INFO  starting to parse. company id: 31899 
+2016-08-17 13:50:27,533 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,546 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,612 1684 MainThread INFO  starting to parse. company id: 31900 
+2016-08-17 13:50:27,700 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,711 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,776 1684 MainThread INFO  starting to parse. company id: 31901 
+2016-08-17 13:50:27,842 1684 MainThread INFO  data stored 
+2016-08-17 13:50:27,857 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:27,937 1684 MainThread INFO  starting to parse. company id: 31902 
+2016-08-17 13:50:27,999 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,013 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,091 1684 MainThread INFO  starting to parse. company id: 31903 
+2016-08-17 13:50:28,154 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,167 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,232 1684 MainThread INFO  starting to parse. company id: 31904 
+2016-08-17 13:50:28,305 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,319 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,394 1684 MainThread INFO  starting to parse. company id: 31905 
+2016-08-17 13:50:28,460 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,474 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,569 1684 MainThread INFO  starting to parse. company id: 31906 
+2016-08-17 13:50:28,628 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,642 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,717 1684 MainThread INFO  starting to parse. company id: 31907 
+2016-08-17 13:50:28,786 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,799 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:28,892 1684 MainThread INFO  starting to parse. company id: 31908 
+2016-08-17 13:50:28,969 1684 MainThread INFO  data stored 
+2016-08-17 13:50:28,983 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,059 1684 MainThread INFO  starting to parse. company id: 31909 
+2016-08-17 13:50:29,115 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,127 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,206 1684 MainThread INFO  starting to parse. company id: 31910 
+2016-08-17 13:50:29,280 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,292 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,364 1684 MainThread INFO  starting to parse. company id: 31911 
+2016-08-17 13:50:29,421 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,436 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,507 1684 MainThread INFO  starting to parse. company id: 31912 
+2016-08-17 13:50:29,592 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,605 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,681 1684 MainThread INFO  starting to parse. company id: 31913 
+2016-08-17 13:50:29,740 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,755 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,836 1684 MainThread INFO  starting to parse. company id: 31914 
+2016-08-17 13:50:29,894 1684 MainThread INFO  data stored 
+2016-08-17 13:50:29,907 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:29,986 1684 MainThread INFO  starting to parse. company id: 31915 
+2016-08-17 13:50:30,069 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,084 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,164 1684 MainThread INFO  starting to parse. company id: 31916 
+2016-08-17 13:50:30,224 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,237 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,313 1684 MainThread INFO  starting to parse. company id: 31917 
+2016-08-17 13:50:30,361 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,375 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,434 1684 MainThread INFO  starting to parse. company id: 31918 
+2016-08-17 13:50:30,517 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,532 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,596 1684 MainThread ERROR list index out of range
+Traceback (most recent call last):
+  File "D:/python_crawler/app/parser/qichacha_weixin_parser/main_qichacha_weixin_parser.py", line 31, in main
+    data_table = all_tables[random.randint(1, all_tables.__len__())][0]
+IndexError: list index out of range
+2016-08-17 13:50:30,638 1684 MainThread INFO  starting to parse. company id: 31920 
+2016-08-17 13:50:30,691 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,703 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,776 1684 MainThread INFO  starting to parse. company id: 31921 
+2016-08-17 13:50:30,803 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,812 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,857 1684 MainThread INFO  starting to parse. company id: 31922 
+2016-08-17 13:50:30,918 1684 MainThread INFO  data stored 
+2016-08-17 13:50:30,930 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:30,996 1684 MainThread INFO  starting to parse. company id: 31923 
+2016-08-17 13:50:31,055 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,069 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,173 1684 MainThread INFO  starting to parse. company id: 31924 
+2016-08-17 13:50:31,233 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,243 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,312 1684 MainThread INFO  starting to parse. company id: 31925 
+2016-08-17 13:50:31,404 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,417 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,490 1684 MainThread INFO  starting to parse. company id: 31926 
+2016-08-17 13:50:31,545 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,555 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,609 1684 MainThread INFO  starting to parse. company id: 31927 
+2016-08-17 13:50:31,641 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,650 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,721 1684 MainThread INFO  starting to parse. company id: 31928 
+2016-08-17 13:50:31,789 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,802 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:31,872 1684 MainThread INFO  starting to parse. company id: 31929 
+2016-08-17 13:50:31,934 1684 MainThread INFO  data stored 
+2016-08-17 13:50:31,944 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,005 1684 MainThread INFO  starting to parse. company id: 31930 
+2016-08-17 13:50:32,032 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,042 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,088 1684 MainThread INFO  starting to parse. company id: 31931 
+2016-08-17 13:50:32,167 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,180 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,259 1684 MainThread INFO  starting to parse. company id: 31932 
+2016-08-17 13:50:32,342 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,354 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,404 1684 MainThread INFO  starting to parse. company id: 31933 
+2016-08-17 13:50:32,480 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,490 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,542 1684 MainThread INFO  starting to parse. company id: 31934 
+2016-08-17 13:50:32,625 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,638 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,733 1684 MainThread INFO  starting to parse. company id: 31935 
+2016-08-17 13:50:32,760 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,770 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,818 1684 MainThread INFO  starting to parse. company id: 31936 
+2016-08-17 13:50:32,880 1684 MainThread INFO  data stored 
+2016-08-17 13:50:32,891 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:32,961 1684 MainThread INFO  starting to parse. company id: 31937 
+2016-08-17 13:50:33,046 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,059 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,148 1684 MainThread INFO  starting to parse. company id: 31938 
+2016-08-17 13:50:33,178 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,188 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,233 1684 MainThread INFO  starting to parse. company id: 31939 
+2016-08-17 13:50:33,299 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,312 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,381 1684 MainThread INFO  starting to parse. company id: 31940 
+2016-08-17 13:50:33,457 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,470 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,555 1684 MainThread INFO  starting to parse. company id: 31941 
+2016-08-17 13:50:33,605 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,615 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,703 1684 MainThread INFO  starting to parse. company id: 31942 
+2016-08-17 13:50:33,766 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,778 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,854 1684 MainThread INFO  starting to parse. company id: 31943 
+2016-08-17 13:50:33,904 1684 MainThread INFO  data stored 
+2016-08-17 13:50:33,917 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:33,983 1684 MainThread INFO  starting to parse. company id: 31944 
+2016-08-17 13:50:34,187 1684 MainThread INFO  data stored 
+2016-08-17 13:50:34,201 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:34,276 1684 MainThread INFO  starting to parse. company id: 31945 
+2016-08-17 13:50:34,346 1684 MainThread INFO  data stored 
+2016-08-17 13:50:34,358 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:34,430 1684 MainThread INFO  starting to parse. company id: 31946 
+2016-08-17 13:50:34,519 1684 MainThread INFO  data stored 
+2016-08-17 13:50:34,536 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:34,611 1684 MainThread INFO  starting to parse. company id: 31947 
+2016-08-17 13:50:34,674 1684 MainThread INFO  data stored 
+2016-08-17 13:50:34,690 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:34,756 1684 MainThread INFO  starting to parse. company id: 31948 
+2016-08-17 13:50:34,835 1684 MainThread INFO  data stored 
+2016-08-17 13:50:34,851 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:34,918 1684 MainThread INFO  starting to parse. company id: 31949 
+2016-08-17 13:50:34,986 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,002 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,062 1684 MainThread INFO  starting to parse. company id: 31950 
+2016-08-17 13:50:35,142 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,157 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,220 1684 MainThread INFO  starting to parse. company id: 31951 
+2016-08-17 13:50:35,289 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,302 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,381 1684 MainThread INFO  starting to parse. company id: 31952 
+2016-08-17 13:50:35,450 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,461 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,536 1684 MainThread INFO  starting to parse. company id: 31953 
+2016-08-17 13:50:35,594 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,607 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,671 1684 MainThread INFO  starting to parse. company id: 31954 
+2016-08-17 13:50:35,766 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,779 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:35,865 1684 MainThread INFO  starting to parse. company id: 31955 
+2016-08-17 13:50:35,927 1684 MainThread INFO  data stored 
+2016-08-17 13:50:35,940 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,013 1684 MainThread INFO  starting to parse. company id: 31956 
+2016-08-17 13:50:36,069 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,081 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,154 1684 MainThread INFO  starting to parse. company id: 31957 
+2016-08-17 13:50:36,309 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,319 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,388 1684 MainThread INFO  starting to parse. company id: 31958 
+2016-08-17 13:50:36,476 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,489 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,562 1684 MainThread INFO  starting to parse. company id: 31959 
+2016-08-17 13:50:36,625 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,638 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,710 1684 MainThread INFO  starting to parse. company id: 31960 
+2016-08-17 13:50:36,766 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,779 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,858 1684 MainThread INFO  starting to parse. company id: 31961 
+2016-08-17 13:50:36,920 1684 MainThread INFO  data stored 
+2016-08-17 13:50:36,928 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:36,973 1684 MainThread INFO  starting to parse. company id: 31962 
+2016-08-17 13:50:37,091 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,101 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,161 1684 MainThread INFO  starting to parse. company id: 31963 
+2016-08-17 13:50:37,223 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,233 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,276 1684 MainThread INFO  starting to parse. company id: 31964 
+2016-08-17 13:50:37,332 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,341 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,384 1684 MainThread INFO  starting to parse. company id: 31965 
+2016-08-17 13:50:37,490 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,500 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,552 1684 MainThread INFO  starting to parse. company id: 31966 
+2016-08-17 13:50:37,618 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,630 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,700 1684 MainThread INFO  starting to parse. company id: 31967 
+2016-08-17 13:50:37,759 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,772 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,819 1684 MainThread INFO  starting to parse. company id: 31968 
+2016-08-17 13:50:37,910 1684 MainThread INFO  data stored 
+2016-08-17 13:50:37,921 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:37,999 1684 MainThread INFO  starting to parse. company id: 31969 
+2016-08-17 13:50:38,062 1684 MainThread INFO  data stored 
+2016-08-17 13:50:38,076 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:38,150 1684 MainThread INFO  starting to parse. company id: 31970 
+2016-08-17 13:50:38,493 1684 MainThread INFO  data stored 
+2016-08-17 13:50:38,506 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:38,579 1684 MainThread INFO  starting to parse. company id: 31971 
+2016-08-17 13:50:38,644 1684 MainThread INFO  data stored 
+2016-08-17 13:50:38,657 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:38,740 1684 MainThread INFO  starting to parse. company id: 31972 
+2016-08-17 13:50:38,815 1684 MainThread INFO  data stored 
+2016-08-17 13:50:38,825 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:38,880 1684 MainThread ERROR list index out of range
+Traceback (most recent call last):
+  File "D:/python_crawler/app/parser/qichacha_weixin_parser/main_qichacha_weixin_parser.py", line 31, in main
+    data_table = all_tables[random.randint(1, all_tables.__len__())][0]
+IndexError: list index out of range
+2016-08-17 13:50:38,921 1684 MainThread INFO  starting to parse. company id: 31974 
+2016-08-17 13:50:38,993 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,003 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,059 1684 MainThread INFO  starting to parse. company id: 31975 
+2016-08-17 13:50:39,115 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,127 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,201 1684 MainThread INFO  starting to parse. company id: 31976 
+2016-08-17 13:50:39,260 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,273 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,345 1684 MainThread INFO  starting to parse. company id: 31977 
+2016-08-17 13:50:39,410 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,424 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,500 1684 MainThread INFO  starting to parse. company id: 31978 
+2016-08-17 13:50:39,559 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,569 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,638 1684 MainThread INFO  starting to parse. company id: 31979 
+2016-08-17 13:50:39,709 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,720 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,815 1684 MainThread INFO  starting to parse. company id: 31980 
+2016-08-17 13:50:39,861 1684 MainThread INFO  data stored 
+2016-08-17 13:50:39,872 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:39,944 1684 MainThread INFO  starting to parse. company id: 31981 
+2016-08-17 13:50:40,016 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,029 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,105 1684 MainThread INFO  starting to parse. company id: 31982 
+2016-08-17 13:50:40,201 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,214 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,285 1684 MainThread INFO  starting to parse. company id: 31983 
+2016-08-17 13:50:40,332 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,349 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,424 1684 MainThread INFO  starting to parse. company id: 31984 
+2016-08-17 13:50:40,450 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,460 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,506 1684 MainThread INFO  starting to parse. company id: 31985 
+2016-08-17 13:50:40,532 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,542 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,585 1684 MainThread INFO  starting to parse. company id: 31986 
+2016-08-17 13:50:40,716 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,746 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,802 1684 MainThread INFO  starting to parse. company id: 31987 
+2016-08-17 13:50:40,864 1684 MainThread INFO  data stored 
+2016-08-17 13:50:40,877 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:40,959 1684 MainThread INFO  starting to parse. company id: 31988 
+2016-08-17 13:50:41,029 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,042 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,108 1684 MainThread INFO  starting to parse. company id: 31989 
+2016-08-17 13:50:41,183 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,194 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,249 1684 MainThread INFO  starting to parse. company id: 31990 
+2016-08-17 13:50:41,302 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,313 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,390 1684 MainThread INFO  starting to parse. company id: 31991 
+2016-08-17 13:50:41,440 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,466 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,538 1684 MainThread INFO  starting to parse. company id: 31992 
+2016-08-17 13:50:41,637 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,648 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,723 1684 MainThread INFO  starting to parse. company id: 31993 
+2016-08-17 13:50:41,779 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,790 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:41,868 1684 MainThread INFO  starting to parse. company id: 31994 
+2016-08-17 13:50:41,934 1684 MainThread INFO  data stored 
+2016-08-17 13:50:41,946 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,019 1684 MainThread INFO  starting to parse. company id: 31995 
+2016-08-17 13:50:42,084 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,096 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,154 1684 MainThread INFO  starting to parse. company id: 31996 
+2016-08-17 13:50:42,213 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,234 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,312 1684 MainThread INFO  starting to parse. company id: 31997 
+2016-08-17 13:50:42,369 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,381 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,457 1684 MainThread INFO  starting to parse. company id: 31998 
+2016-08-17 13:50:42,536 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,548 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,615 1684 MainThread INFO  starting to parse. company id: 31999 
+2016-08-17 13:50:42,677 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,690 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,762 1684 MainThread INFO  starting to parse. company id: 32000 
+2016-08-17 13:50:42,823 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,845 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,920 1684 MainThread INFO  starting to parse. company id: 32001 
+2016-08-17 13:50:42,947 1684 MainThread INFO  data stored 
+2016-08-17 13:50:42,954 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:42,999 1684 MainThread INFO  starting to parse. company id: 32002 
+2016-08-17 13:50:43,082 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,095 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,197 1684 MainThread INFO  starting to parse. company id: 32003 
+2016-08-17 13:50:43,273 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,283 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,325 1684 MainThread INFO  starting to parse. company id: 32004 
+2016-08-17 13:50:43,391 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,404 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,482 1684 MainThread INFO  starting to parse. company id: 32005 
+2016-08-17 13:50:43,529 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,539 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,611 1684 MainThread INFO  starting to parse. company id: 32006 
+2016-08-17 13:50:43,674 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,696 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,763 1684 MainThread INFO  starting to parse. company id: 32007 
+2016-08-17 13:50:43,826 1684 MainThread INFO  data stored 
+2016-08-17 13:50:43,839 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:43,914 1684 MainThread INFO  starting to parse. company id: 32008 
+2016-08-17 13:50:44,079 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,105 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,180 1684 MainThread INFO  starting to parse. company id: 32009 
+2016-08-17 13:50:44,259 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,273 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,390 1684 MainThread INFO  starting to parse. company id: 32010 
+2016-08-17 13:50:44,457 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,467 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,520 1684 MainThread INFO  starting to parse. company id: 32011 
+2016-08-17 13:50:44,568 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,581 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,657 1684 MainThread INFO  starting to parse. company id: 32012 
+2016-08-17 13:50:44,706 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,724 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,789 1684 MainThread INFO  starting to parse. company id: 32013 
+2016-08-17 13:50:44,842 1684 MainThread INFO  data stored 
+2016-08-17 13:50:44,855 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:44,930 1684 MainThread INFO  starting to parse. company id: 32014 
+2016-08-17 13:50:45,006 1684 MainThread INFO  data stored 
+2016-08-17 13:50:45,019 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:45,094 1684 MainThread INFO  starting to parse. company id: 32015 
+2016-08-17 13:50:45,121 1684 MainThread INFO  data stored 
+2016-08-17 13:50:45,130 1684 MainThread INFO  parse status updated 
+2016-08-17 13:50:45,140 1684 MainThread INFO  the round of batch-parsing ends, and totally cost 67.7380001545. 
+2016-08-24 14:05:00,696 5052 MainThread INFO  starting to parse. company id: 32625 
+2016-08-24 14:05:00,809 5052 MainThread INFO  data stored 
+2016-08-24 14:05:00,821 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:00,911 5052 MainThread INFO  starting to parse. company id: 35556 
+2016-08-24 14:05:00,950 5052 MainThread INFO  data stored 
+2016-08-24 14:05:00,960 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,005 5052 MainThread INFO  starting to parse. company id: 35567 
+2016-08-24 14:05:01,033 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,042 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,085 5052 MainThread INFO  starting to parse. company id: 35714 
+2016-08-24 14:05:01,122 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,132 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,200 5052 MainThread INFO  starting to parse. company id: 35720 
+2016-08-24 14:05:01,232 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,242 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,292 5052 MainThread INFO  starting to parse. company id: 35833 
+2016-08-24 14:05:01,319 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,328 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,371 5052 MainThread INFO  starting to parse. company id: 35910 
+2016-08-24 14:05:01,434 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,447 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,520 5052 MainThread INFO  starting to parse. company id: 35956 
+2016-08-24 14:05:01,558 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,568 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,615 5052 MainThread INFO  starting to parse. company id: 35957 
+2016-08-24 14:05:01,648 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,657 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,700 5052 MainThread INFO  starting to parse. company id: 35977 
+2016-08-24 14:05:01,729 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,737 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,780 5052 MainThread INFO  starting to parse. company id: 36163 
+2016-08-24 14:05:01,848 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,858 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:01,904 5052 MainThread INFO  starting to parse. company id: 36164 
+2016-08-24 14:05:01,934 5052 MainThread INFO  data stored 
+2016-08-24 14:05:01,948 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,019 5052 MainThread INFO  starting to parse. company id: 36216 
+2016-08-24 14:05:02,089 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,099 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,158 5052 MainThread INFO  starting to parse. company id: 36699 
+2016-08-24 14:05:02,187 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,197 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,247 5052 MainThread INFO  starting to parse. company id: 36943 
+2016-08-24 14:05:02,305 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,315 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,358 5052 MainThread INFO  starting to parse. company id: 37258 
+2016-08-24 14:05:02,385 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,394 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,438 5052 MainThread INFO  starting to parse. company id: 37528 
+2016-08-24 14:05:02,473 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,483 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,528 5052 MainThread INFO  starting to parse. company id: 73368 
+2016-08-24 14:05:02,582 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,594 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,650 5052 MainThread INFO  starting to parse. company id: 73369 
+2016-08-24 14:05:02,734 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,746 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,825 5052 MainThread INFO  starting to parse. company id: 73370 
+2016-08-24 14:05:02,855 5052 MainThread INFO  data stored 
+2016-08-24 14:05:02,865 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:02,927 5052 MainThread INFO  starting to parse. company id: 73371 
+2016-08-24 14:05:03,016 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,029 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,127 5052 MainThread INFO  starting to parse. company id: 73372 
+2016-08-24 14:05:03,164 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,176 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,246 5052 MainThread INFO  starting to parse. company id: 73373 
+2016-08-24 14:05:03,282 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,292 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,351 5052 MainThread INFO  starting to parse. company id: 73374 
+2016-08-24 14:05:03,401 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,411 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,492 5052 MainThread INFO  starting to parse. company id: 73375 
+2016-08-24 14:05:03,553 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,565 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,638 5052 MainThread INFO  starting to parse. company id: 73376 
+2016-08-24 14:05:03,667 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,676 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,720 5052 MainThread INFO  starting to parse. company id: 73377 
+2016-08-24 14:05:03,747 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,756 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,799 5052 MainThread INFO  starting to parse. company id: 73378 
+2016-08-24 14:05:03,828 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,838 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,881 5052 MainThread INFO  starting to parse. company id: 73379 
+2016-08-24 14:05:03,937 5052 MainThread INFO  data stored 
+2016-08-24 14:05:03,946 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:03,987 5052 MainThread INFO  starting to parse. company id: 73380 
+2016-08-24 14:05:04,095 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,108 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,176 5052 MainThread INFO  starting to parse. company id: 73381 
+2016-08-24 14:05:04,223 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,233 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,282 5052 MainThread INFO  starting to parse. company id: 73382 
+2016-08-24 14:05:04,315 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,323 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,365 5052 MainThread INFO  starting to parse. company id: 73383 
+2016-08-24 14:05:04,400 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,408 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,453 5052 MainThread INFO  starting to parse. company id: 73384 
+2016-08-24 14:05:04,526 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,536 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,581 5052 MainThread INFO  starting to parse. company id: 73385 
+2016-08-24 14:05:04,607 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,615 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,661 5052 MainThread INFO  starting to parse. company id: 73386 
+2016-08-24 14:05:04,746 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,757 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,822 5052 MainThread INFO  starting to parse. company id: 73387 
+2016-08-24 14:05:04,857 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,865 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,911 5052 MainThread INFO  starting to parse. company id: 73388 
+2016-08-24 14:05:04,940 5052 MainThread INFO  data stored 
+2016-08-24 14:05:04,948 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:04,990 5052 MainThread INFO  starting to parse. company id: 73389 
+2016-08-24 14:05:05,052 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,062 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,107 5052 MainThread INFO  starting to parse. company id: 73390 
+2016-08-24 14:05:05,200 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,210 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,253 5052 MainThread INFO  starting to parse. company id: 73391 
+2016-08-24 14:05:05,316 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,326 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,369 5052 MainThread INFO  starting to parse. company id: 73392 
+2016-08-24 14:05:05,437 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,448 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,536 5052 MainThread INFO  starting to parse. company id: 73393 
+2016-08-24 14:05:05,586 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,598 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,661 5052 MainThread INFO  starting to parse. company id: 73394 
+2016-08-24 14:05:05,752 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,763 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,835 5052 MainThread INFO  starting to parse. company id: 73395 
+2016-08-24 14:05:05,887 5052 MainThread INFO  data stored 
+2016-08-24 14:05:05,898 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:05,969 5052 MainThread INFO  starting to parse. company id: 73396 
+2016-08-24 14:05:05,999 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,009 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,055 5052 MainThread INFO  starting to parse. company id: 73397 
+2016-08-24 14:05:06,105 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,117 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,198 5052 MainThread INFO  starting to parse. company id: 73398 
+2016-08-24 14:05:06,233 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,243 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,323 5052 MainThread INFO  starting to parse. company id: 73399 
+2016-08-24 14:05:06,424 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,434 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,490 5052 MainThread INFO  starting to parse. company id: 73400 
+2016-08-24 14:05:06,525 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,536 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,592 5052 MainThread INFO  starting to parse. company id: 73401 
+2016-08-24 14:05:06,703 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,716 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,821 5052 MainThread INFO  starting to parse. company id: 73402 
+2016-08-24 14:05:06,872 5052 MainThread INFO  data stored 
+2016-08-24 14:05:06,884 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:06,941 5052 MainThread INFO  starting to parse. company id: 73403 
+2016-08-24 14:05:07,003 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,015 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,072 5052 MainThread INFO  starting to parse. company id: 73404 
+2016-08-24 14:05:07,109 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,118 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,161 5052 MainThread INFO  starting to parse. company id: 73405 
+2016-08-24 14:05:07,198 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,207 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,252 5052 MainThread INFO  starting to parse. company id: 73406 
+2016-08-24 14:05:07,280 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,290 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,335 5052 MainThread INFO  starting to parse. company id: 73407 
+2016-08-24 14:05:07,398 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,407 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,450 5052 MainThread INFO  starting to parse. company id: 73408 
+2016-08-24 14:05:07,479 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,487 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,532 5052 MainThread INFO  starting to parse. company id: 73409 
+2016-08-24 14:05:07,595 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,608 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,657 5052 MainThread INFO  starting to parse. company id: 73410 
+2016-08-24 14:05:07,686 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,694 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,739 5052 MainThread INFO  starting to parse. company id: 73411 
+2016-08-24 14:05:07,773 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,783 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,826 5052 MainThread INFO  starting to parse. company id: 73412 
+2016-08-24 14:05:07,878 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,888 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:07,953 5052 MainThread INFO  starting to parse. company id: 73413 
+2016-08-24 14:05:07,983 5052 MainThread INFO  data stored 
+2016-08-24 14:05:07,993 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,039 5052 MainThread INFO  starting to parse. company id: 73414 
+2016-08-24 14:05:08,072 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,081 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,127 5052 MainThread INFO  starting to parse. company id: 73415 
+2016-08-24 14:05:08,196 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,204 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,250 5052 MainThread INFO  starting to parse. company id: 73416 
+2016-08-24 14:05:08,276 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,286 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,331 5052 MainThread INFO  starting to parse. company id: 73417 
+2016-08-24 14:05:08,361 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,369 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,414 5052 MainThread INFO  starting to parse. company id: 73418 
+2016-08-24 14:05:08,483 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,494 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,562 5052 MainThread INFO  starting to parse. company id: 73419 
+2016-08-24 14:05:08,592 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,605 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,660 5052 MainThread INFO  starting to parse. company id: 73420 
+2016-08-24 14:05:08,688 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,698 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,750 5052 MainThread INFO  starting to parse. company id: 73421 
+2016-08-24 14:05:08,799 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,809 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,864 5052 MainThread INFO  starting to parse. company id: 73422 
+2016-08-24 14:05:08,900 5052 MainThread INFO  data stored 
+2016-08-24 14:05:08,911 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:08,983 5052 MainThread INFO  starting to parse. company id: 73423 
+2016-08-24 14:05:09,020 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,030 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,098 5052 MainThread INFO  starting to parse. company id: 73424 
+2016-08-24 14:05:09,157 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,167 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,226 5052 MainThread INFO  starting to parse. company id: 73425 
+2016-08-24 14:05:09,266 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,276 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,335 5052 MainThread INFO  starting to parse. company id: 73426 
+2016-08-24 14:05:09,410 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,421 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,493 5052 MainThread INFO  starting to parse. company id: 73427 
+2016-08-24 14:05:09,578 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,589 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,661 5052 MainThread INFO  starting to parse. company id: 73428 
+2016-08-24 14:05:09,690 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,703 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,756 5052 MainThread INFO  starting to parse. company id: 73429 
+2016-08-24 14:05:09,841 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,852 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:09,926 5052 MainThread INFO  starting to parse. company id: 73430 
+2016-08-24 14:05:09,954 5052 MainThread INFO  data stored 
+2016-08-24 14:05:09,964 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,013 5052 MainThread INFO  starting to parse. company id: 73431 
+2016-08-24 14:05:10,073 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,085 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,144 5052 MainThread INFO  starting to parse. company id: 73432 
+2016-08-24 14:05:10,180 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,188 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,236 5052 MainThread INFO  starting to parse. company id: 73433 
+2016-08-24 14:05:10,305 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,315 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,377 5052 MainThread INFO  starting to parse. company id: 73434 
+2016-08-24 14:05:10,430 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,440 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,482 5052 MainThread INFO  starting to parse. company id: 73435 
+2016-08-24 14:05:10,516 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,528 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,584 5052 MainThread INFO  starting to parse. company id: 73436 
+2016-08-24 14:05:10,624 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,632 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,694 5052 MainThread INFO  starting to parse. company id: 73437 
+2016-08-24 14:05:10,743 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,752 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,818 5052 MainThread INFO  starting to parse. company id: 73438 
+2016-08-24 14:05:10,865 5052 MainThread INFO  data stored 
+2016-08-24 14:05:10,875 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:10,934 5052 MainThread INFO  starting to parse. company id: 73439 
+2016-08-24 14:05:11,010 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,023 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,073 5052 MainThread INFO  starting to parse. company id: 73440 
+2016-08-24 14:05:11,108 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,118 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,161 5052 MainThread INFO  starting to parse. company id: 73441 
+2016-08-24 14:05:11,188 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,198 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,243 5052 MainThread INFO  starting to parse. company id: 73442 
+2016-08-24 14:05:11,276 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,286 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,331 5052 MainThread INFO  starting to parse. company id: 73443 
+2016-08-24 14:05:11,358 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,368 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,414 5052 MainThread INFO  starting to parse. company id: 73444 
+2016-08-24 14:05:11,492 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,503 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,569 5052 MainThread INFO  starting to parse. company id: 73445 
+2016-08-24 14:05:11,641 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,651 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,717 5052 MainThread INFO  starting to parse. company id: 73446 
+2016-08-24 14:05:11,809 5052 MainThread INFO  data stored 
+2016-08-24 14:05:11,822 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:11,937 5052 MainThread INFO  starting to parse. company id: 73447 
+2016-08-24 14:05:12,013 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,026 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,109 5052 MainThread INFO  starting to parse. company id: 73448 
+2016-08-24 14:05:12,151 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,160 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,206 5052 MainThread INFO  starting to parse. company id: 73449 
+2016-08-24 14:05:12,239 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,249 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,289 5052 MainThread INFO  starting to parse. company id: 73450 
+2016-08-24 14:05:12,332 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,344 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,403 5052 MainThread INFO  starting to parse. company id: 73451 
+2016-08-24 14:05:12,437 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,447 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,496 5052 MainThread INFO  starting to parse. company id: 73452 
+2016-08-24 14:05:12,526 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,536 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,585 5052 MainThread INFO  starting to parse. company id: 73453 
+2016-08-24 14:05:12,621 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,634 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,688 5052 MainThread INFO  starting to parse. company id: 73454 
+2016-08-24 14:05:12,723 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,732 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,776 5052 MainThread INFO  starting to parse. company id: 73455 
+2016-08-24 14:05:12,825 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,838 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:12,898 5052 MainThread INFO  starting to parse. company id: 73456 
+2016-08-24 14:05:12,963 5052 MainThread INFO  data stored 
+2016-08-24 14:05:12,974 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,052 5052 MainThread INFO  starting to parse. company id: 73457 
+2016-08-24 14:05:13,081 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,089 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,134 5052 MainThread INFO  starting to parse. company id: 73458 
+2016-08-24 14:05:13,207 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,217 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,288 5052 MainThread INFO  starting to parse. company id: 73459 
+2016-08-24 14:05:13,318 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,326 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,369 5052 MainThread INFO  starting to parse. company id: 73460 
+2016-08-24 14:05:13,414 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,423 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,463 5052 MainThread INFO  starting to parse. company id: 73461 
+2016-08-24 14:05:13,494 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,505 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,548 5052 MainThread INFO  starting to parse. company id: 73462 
+2016-08-24 14:05:13,601 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,611 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,671 5052 MainThread INFO  starting to parse. company id: 73463 
+2016-08-24 14:05:13,707 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,717 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,765 5052 MainThread INFO  starting to parse. company id: 73464 
+2016-08-24 14:05:13,835 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,845 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:13,934 5052 MainThread INFO  starting to parse. company id: 73465 
+2016-08-24 14:05:13,976 5052 MainThread INFO  data stored 
+2016-08-24 14:05:13,986 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,065 5052 MainThread INFO  starting to parse. company id: 73466 
+2016-08-24 14:05:14,094 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,105 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,157 5052 MainThread INFO  starting to parse. company id: 73467 
+2016-08-24 14:05:14,223 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,233 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,285 5052 MainThread INFO  starting to parse. company id: 73468 
+2016-08-24 14:05:14,312 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,322 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,375 5052 MainThread INFO  starting to parse. company id: 73469 
+2016-08-24 14:05:14,404 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,414 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,466 5052 MainThread INFO  starting to parse. company id: 73470 
+2016-08-24 14:05:14,509 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,522 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,596 5052 MainThread INFO  starting to parse. company id: 73471 
+2016-08-24 14:05:14,673 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,683 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,749 5052 MainThread INFO  starting to parse. company id: 73472 
+2016-08-24 14:05:14,783 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,793 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,836 5052 MainThread INFO  starting to parse. company id: 73473 
+2016-08-24 14:05:14,907 5052 MainThread INFO  data stored 
+2016-08-24 14:05:14,918 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:14,987 5052 MainThread INFO  starting to parse. company id: 73474 
+2016-08-24 14:05:15,022 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,032 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,075 5052 MainThread INFO  starting to parse. company id: 73475 
+2016-08-24 14:05:15,173 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,184 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,259 5052 MainThread INFO  starting to parse. company id: 73476 
+2016-08-24 14:05:15,305 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,318 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,359 5052 MainThread INFO  starting to parse. company id: 73477 
+2016-08-24 14:05:15,461 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,473 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,536 5052 MainThread INFO  starting to parse. company id: 73478 
+2016-08-24 14:05:15,592 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,605 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,684 5052 MainThread INFO  starting to parse. company id: 73479 
+2016-08-24 14:05:15,716 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,724 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,773 5052 MainThread INFO  starting to parse. company id: 73480 
+2016-08-24 14:05:15,811 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,821 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:15,865 5052 MainThread INFO  starting to parse. company id: 73481 
+2016-08-24 14:05:15,956 5052 MainThread INFO  data stored 
+2016-08-24 14:05:15,967 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,019 5052 MainThread INFO  starting to parse. company id: 73482 
+2016-08-24 14:05:16,055 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,065 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,118 5052 MainThread INFO  starting to parse. company id: 73483 
+2016-08-24 14:05:16,148 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,157 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,201 5052 MainThread INFO  starting to parse. company id: 73484 
+2016-08-24 14:05:16,233 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,243 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,286 5052 MainThread INFO  starting to parse. company id: 73485 
+2016-08-24 14:05:16,335 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,346 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,421 5052 MainThread INFO  starting to parse. company id: 73486 
+2016-08-24 14:05:16,506 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,517 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,585 5052 MainThread INFO  starting to parse. company id: 73487 
+2016-08-24 14:05:16,667 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,678 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,737 5052 MainThread INFO  starting to parse. company id: 73488 
+2016-08-24 14:05:16,805 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,813 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,857 5052 MainThread INFO  starting to parse. company id: 73489 
+2016-08-24 14:05:16,891 5052 MainThread INFO  data stored 
+2016-08-24 14:05:16,901 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:16,944 5052 MainThread INFO  starting to parse. company id: 73490 
+2016-08-24 14:05:17,006 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,019 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,065 5052 MainThread INFO  starting to parse. company id: 73491 
+2016-08-24 14:05:17,098 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,108 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,154 5052 MainThread INFO  starting to parse. company id: 73492 
+2016-08-24 14:05:17,209 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,219 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,263 5052 MainThread INFO  starting to parse. company id: 73493 
+2016-08-24 14:05:17,302 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,311 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,352 5052 MainThread INFO  starting to parse. company id: 73494 
+2016-08-24 14:05:17,385 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,394 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,437 5052 MainThread INFO  starting to parse. company id: 73495 
+2016-08-24 14:05:17,466 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,474 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,517 5052 MainThread INFO  starting to parse. company id: 73496 
+2016-08-24 14:05:17,566 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,578 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,658 5052 MainThread INFO  starting to parse. company id: 73497 
+2016-08-24 14:05:17,723 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,734 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,788 5052 MainThread INFO  starting to parse. company id: 73498 
+2016-08-24 14:05:17,855 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,867 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:17,943 5052 MainThread INFO  starting to parse. company id: 73499 
+2016-08-24 14:05:17,984 5052 MainThread INFO  data stored 
+2016-08-24 14:05:17,996 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,071 5052 MainThread INFO  starting to parse. company id: 73500 
+2016-08-24 14:05:18,148 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,157 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,219 5052 MainThread INFO  starting to parse. company id: 73501 
+2016-08-24 14:05:18,256 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,266 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,321 5052 MainThread INFO  starting to parse. company id: 73502 
+2016-08-24 14:05:18,354 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,364 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,407 5052 MainThread INFO  starting to parse. company id: 73503 
+2016-08-24 14:05:18,447 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,457 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,499 5052 MainThread INFO  starting to parse. company id: 73504 
+2016-08-24 14:05:18,556 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,566 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,611 5052 MainThread INFO  starting to parse. company id: 73505 
+2016-08-24 14:05:18,648 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,657 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,700 5052 MainThread INFO  starting to parse. company id: 73506 
+2016-08-24 14:05:18,726 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,734 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,778 5052 MainThread INFO  starting to parse. company id: 73507 
+2016-08-24 14:05:18,845 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,858 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:18,926 5052 MainThread INFO  starting to parse. company id: 73508 
+2016-08-24 14:05:18,956 5052 MainThread INFO  data stored 
+2016-08-24 14:05:18,964 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,009 5052 MainThread INFO  starting to parse. company id: 73509 
+2016-08-24 14:05:19,082 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,092 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,144 5052 MainThread INFO  starting to parse. company id: 73510 
+2016-08-24 14:05:19,213 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,223 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,282 5052 MainThread INFO  starting to parse. company id: 73511 
+2016-08-24 14:05:19,313 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,322 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,364 5052 MainThread INFO  starting to parse. company id: 73512 
+2016-08-24 14:05:19,400 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,408 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,453 5052 MainThread INFO  starting to parse. company id: 73513 
+2016-08-24 14:05:19,507 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,519 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,578 5052 MainThread INFO  starting to parse. company id: 73514 
+2016-08-24 14:05:19,607 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,615 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,667 5052 MainThread INFO  starting to parse. company id: 73515 
+2016-08-24 14:05:19,696 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,706 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,749 5052 MainThread INFO  starting to parse. company id: 73516 
+2016-08-24 14:05:19,799 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,809 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,851 5052 MainThread INFO  starting to parse. company id: 73517 
+2016-08-24 14:05:19,900 5052 MainThread INFO  data stored 
+2016-08-24 14:05:19,910 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:19,951 5052 MainThread INFO  starting to parse. company id: 73518 
+2016-08-24 14:05:20,012 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,025 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,088 5052 MainThread INFO  starting to parse. company id: 73519 
+2016-08-24 14:05:20,148 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,157 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,200 5052 MainThread INFO  starting to parse. company id: 73520 
+2016-08-24 14:05:20,233 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,243 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,286 5052 MainThread INFO  starting to parse. company id: 73521 
+2016-08-24 14:05:20,319 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,329 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,372 5052 MainThread INFO  starting to parse. company id: 73522 
+2016-08-24 14:05:20,401 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,411 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,451 5052 MainThread INFO  starting to parse. company id: 73523 
+2016-08-24 14:05:20,480 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,489 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,529 5052 MainThread INFO  starting to parse. company id: 73524 
+2016-08-24 14:05:20,615 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,624 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,665 5052 MainThread INFO  starting to parse. company id: 73525 
+2016-08-24 14:05:20,759 5052 MainThread INFO  data stored 
+2016-08-24 14:05:20,773 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:20,844 5052 MainThread INFO  starting to parse. company id: 73526 
+2016-08-24 14:05:21,069 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,079 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,147 5052 MainThread INFO  starting to parse. company id: 73527 
+2016-08-24 14:05:21,211 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,223 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,306 5052 MainThread INFO  starting to parse. company id: 73528 
+2016-08-24 14:05:21,342 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,352 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,424 5052 MainThread INFO  starting to parse. company id: 73529 
+2016-08-24 14:05:21,453 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,461 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,505 5052 MainThread INFO  starting to parse. company id: 73530 
+2016-08-24 14:05:21,532 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,540 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,612 5052 MainThread INFO  starting to parse. company id: 73531 
+2016-08-24 14:05:21,673 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,684 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,773 5052 MainThread INFO  starting to parse. company id: 73532 
+2016-08-24 14:05:21,803 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,815 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,885 5052 MainThread INFO  starting to parse. company id: 73533 
+2016-08-24 14:05:21,923 5052 MainThread INFO  data stored 
+2016-08-24 14:05:21,933 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:21,989 5052 MainThread INFO  starting to parse. company id: 73534 
+2016-08-24 14:05:22,016 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,026 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,069 5052 MainThread INFO  starting to parse. company id: 73535 
+2016-08-24 14:05:22,098 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,108 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,150 5052 MainThread INFO  starting to parse. company id: 73536 
+2016-08-24 14:05:22,177 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,186 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,230 5052 MainThread INFO  starting to parse. company id: 73537 
+2016-08-24 14:05:22,257 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,266 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,311 5052 MainThread INFO  starting to parse. company id: 73538 
+2016-08-24 14:05:22,348 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,358 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,401 5052 MainThread INFO  starting to parse. company id: 73539 
+2016-08-24 14:05:22,434 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,444 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,487 5052 MainThread INFO  starting to parse. company id: 73540 
+2016-08-24 14:05:22,555 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,565 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,624 5052 MainThread INFO  starting to parse. company id: 73541 
+2016-08-24 14:05:22,651 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,661 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,709 5052 MainThread INFO  starting to parse. company id: 73542 
+2016-08-24 14:05:22,785 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,793 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,838 5052 MainThread INFO  starting to parse. company id: 73543 
+2016-08-24 14:05:22,871 5052 MainThread INFO  data stored 
+2016-08-24 14:05:22,881 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:22,926 5052 MainThread INFO  starting to parse. company id: 73544 
+2016-08-24 14:05:23,022 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,032 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,095 5052 MainThread INFO  starting to parse. company id: 73545 
+2016-08-24 14:05:23,122 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,131 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,176 5052 MainThread INFO  starting to parse. company id: 73546 
+2016-08-24 14:05:23,226 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,234 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,279 5052 MainThread INFO  starting to parse. company id: 73547 
+2016-08-24 14:05:23,308 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,316 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,359 5052 MainThread INFO  starting to parse. company id: 73548 
+2016-08-24 14:05:23,440 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,450 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,535 5052 MainThread INFO  starting to parse. company id: 73549 
+2016-08-24 14:05:23,572 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,582 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,631 5052 MainThread INFO  starting to parse. company id: 73550 
+2016-08-24 14:05:23,687 5052 MainThread INFO  data stored 
+2016-08-24 14:05:23,697 5052 MainThread INFO  parse status updated 
+2016-08-24 14:05:23,710 5052 MainThread INFO  the round of batch-parsing ends, and totally cost 44.0859999657. 

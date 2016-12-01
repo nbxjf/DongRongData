@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN" data-dpr="1" style="font-size: 60px;">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>宁波金田新材料有限公司工商信息|信用信息|经营范围|地址|电话|怎么样-企业查询宝</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-itunes-app" content="app-id=1042220716">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-orientation" content="portrait">
+    <meta name="applicable-device" content="pc,mobile" />
+    <meta name="keywords" content="宁波金田新材料有限公司,宁波金田新材料有限公司工商信息,宁波金田新材料有限公司信用信息,宁波金田新材料有限公司怎么样?,宁波金田新材料有限公司电话地址">
+    <meta name="description" content="宁波金田新材料有限公司怎么样？企业查询宝为您提供宁波金田新材料有限公司的最新工商信息、机构信息、经营范围、公司地址、公司电话、企业图谱等，让您全方位了解宁波金田新材料有限公司的信用信息，一键快速摸底企业。">
+
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/site.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/bbs.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/index.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/user-center.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/art.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/imageslider.css">
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/hdmap.css">
+    <link rel="stylesheet" media="screen and (max-width: 1140px)" href="http://img1.qianzhan123.com/qiye/20160810/content/flexible-notiphone.css">
+    <link rel="stylesheet" media="screen and (min-device-width: 320px) and (max-device-width: 480px)" href="http://img1.qianzhan123.com/qiye/20160810/content/flexible-iphone.css">
+    <link rel="icon" type="image/x-icon" href="http://img1.qianzhan123.com/qiye/20160810/images/icon.ico">
+
+    <script src="http://img1.qianzhan123.com/qiye/20160810/scripts/flexible.debug.js"></script>
+    <script src="http://img1.qianzhan123.com/qiye/20160810/scripts/jquery.min.js"></script>
+    <script src="http://img1.qianzhan123.com/qiye/20160810/scripts/jquery.form.min.js"></script>
+    <script src="http://img1.qianzhan123.com/qiye/20160810/scripts/jquery.qrcode.min.js"></script>
+
+    <script src="http://img1.qianzhan123.com/qiye/20160812/scripts/app.min.js"></script>
+
+
+    <!--[if lt IE 9]>
+    <script src="http://img1.qianzhan123.com/qiye/20160810/scripts/html5shiv.min.js"></script>
+    <link rel="stylesheet" href="http://img1.qianzhan123.com/qiye/20160810/content/site-ie8.css">
+    <![endif]-->
+
+    <script>
+
+         $(function () {
+             $("#login").attr("href", "/usercenter/login?ReturnUrl=" + encodeURIComponent(location.href));
+         })
+     </script>
+
+
+    <script type="text/javascript">
+         $(function () {
+             //初始化参数
+             LoadUrlParam();
+             $(document).click(function (o) {
+                 if (o.toElement != null) {
+                     if (o.toElement.className != "sec-txt") {
+                         $(".sec-tips").removeClass("open");
+                     }
+                     if (o.toElement.className != "city-cur" && o.toElement.className != "cur") {
+                         $(".sec-fm").removeClass("open-sec-adr");
+                     }
+
+                     //不在执行该点击事件
+                     $(".qr-wrap").click(function (event) {
+                         event.stopPropagation();
+                     });
+                     $(".app").click(function (event) {
+                         event.stopPropagation();
+                     });
+                     $(".icon-share2").click(function (event) {
+                         event.stopPropagation();
+                     });
+                     $(".wrap-share").click(function (event) {
+                         event.stopPropagation();
+                     });
+                     $(".qr-wrap").parent().removeClass("open-qr");
+                     $(".app").parent().removeClass("open-app");
+                     $(".icon-share2").parent().parent().removeClass("open-share");
+                     $(".wrap-share").removeClass("open");
+                 }
+             })
+
+             //查询
+             $(".sec-btn").click(function () {
+                 search.search.oc_name = $("#searchname").val();
+                 if ($(".city-cur").attr("data-city") == "0" && $("#searchname").val() == "") {
+                     $("#searchname").focus();
+                 } else {
+                     SearchList(search);
+                 }
+             })
+             //加载更多
+             $(".load-wrap-dep").click(function () {
+                 if (search.search.page++ <= 1) {
+                     search.search.page = 2;
+                 }
+                 //切换条件查询
+                 search = returnSwitchSearchPage(search, $(".search-Order.cur").attr("data-search"));
+                 search.search.oc_area = $(".city-cur").attr("data-city");
+                 search.search.od_orderby = $(".icon-orders.cur").attr("data-order");
+
+                 $.post("/orgcompany/searchList", search.search, function (data) {
+                     if (data.succ) {
+                         var hm = "";
+                         $.each(data.lst, function (i, o) {
+                             hm += '<li>\
+                         <p class="tit"><a href="SearchItemDtl?orgCode=' + charReplace(o.oc_orgCode) + '">' + o.oc_name.replace(search.search.oc_name, "<em class=\"keywrod\">" + search.search.oc_name + "</em>") + '</a></p>\
+                         <p class="other"><i class="icon-name"></i><span>' + o.oc_faRen.replace(search.search.oc_name, "<em class=\"keywrod\">" + search.search.oc_name + "</em>") + '</span><i class="icon-capital"></i><span>' + o.oc_regMoney + '万</span><i class="icon-time"></i><time>' + o.oc_regDate + '</time></p>\
+                         <p class="adr"><i class="icon-adr2"></i>' + o.oc_address.replace(search.search.oc_name, "<em class=\"keywrod\">" + search.search.oc_name + "</em>") + '</p>\
+                          </li>';
+                         })
+                         $(".list-search").append(hm);
+                     }
+                     else {
+                         messageHelper.handle('info', "数据分页完毕，请高级查询");
+                     }
+                 });
+             })
+
+         })
+         //服务请求
+         function SearchList(search) {
+
+             var n = $("#searchname").val().trim();
+             var fdstart = $("#searchname").val().trim().indexOf(".");
+             if (fdstart == 0) {
+                 n = n.replace(".", "");
+             }
+
+             localStorageHelper.setItem("type", $(".search-Order.cur").attr("data-search") == undefined ? "0" : $(".search-Order.cur").attr("data-search"));
+             localStorageHelper.setItem("order", $(".icon-orders.cur").attr("data-order") == undefined ? "0" : $(".icon-orders.cur").attr("data-order"));
+             localStorageHelper.setItem("searchname", encodeURIComponent(n.replace(/[&\|\\\*^%$#:@\-]/g, "").replace(/[（]/g, "(").replace(/[）]/g, ")")));
+             localStorageHelper.setItem("city", $(".city-cur").attr("data-city"));
+             localStorageHelper.setItem("cityName", encodeURIComponent($(".city-cur").html()));
+             location.href = "/search/" + SearTypeReturnUrlName(localStorageHelper.getItem("type")) + "/" + (localStorageHelper.getItem("searchname") == "" ? "~" : localStorageHelper.getItem("searchname")) + "?o=" + localStorageHelper.getItem("order") + "&area=" + localStorageHelper.getItem("city") + "&areaN=" + localStorageHelper.getItem("cityName") + "&p=1";
+         }
+         function LoadUrlParam() {
+
+             var arr = location.pathname.split("/");
+             var n = arr[3];
+             var t = UrlNameReturnSearType(arr[2]);
+             var o = $.getUrlParam('o');
+             var area = $.getUrlParam('area');
+             var areaN = $.getUrlParam('areaN');
+
+             if (n != null && n != "") {
+                 localStorageHelper.setItem("searchname", n);
+             }
+             if (t != null && t != "") {
+                 localStorageHelper.setItem("type", t);
+             }
+             if (o != null && o != "") {
+                 localStorageHelper.setItem("order", o);
+             }
+             if (area != null && area != "") {
+                 localStorageHelper.setItem("city", area);
+             }
+             if (areaN != null && areaN != "") {
+                 localStorageHelper.setItem("cityName", areaN);
+             }
+             n = decodeURIComponent(localStorageHelper.getItem("searchname"));
+             area = localStorageHelper.getItem("city");
+             areaN = decodeURIComponent(localStorageHelper.getItem("cityName"));
+             var p = $.getUrlParam('p');
+             if (t == null || t == "") {
+                 t = 0;
+             }
+             if (o == null || o == "") {
+                 o = 0;
+             }
+             if (area == null || area == "") {
+                 area = "0";
+             }
+             if (area == "0") {
+                 areaN = "全国";
+             }
+             $(".search-Order[data-search='" + t + "']").addClass("cur");
+             $(".icon-orders[data-order='" + o + "']").addClass("cur");
+             $(".city-cur").attr("data-city", area);
+             $(".city-cur").html(areaN);
+             //手机切换绑定值
+             $(".phone-search-Order").find("em").html($(".search-Order[data-search='" + t + "']").find("em").html());
+             $(".phone-search-Order").attr("data-search", t);
+         }
+
+     </script>
+
+
+</head>
+<body style="font-size: 16px;">
+<input type="hidden" id="hdlayouuserId" value="0" />
+<div class="messageBox"></div>
+<div class="top">
+    <!-- 头部，导航，登录，APP下载按钮,open-menu,控制手机下右侧导航展开 -->
+    <header class="hd">
+        <div class="wrap-w">
+            <div class="wrap-d">
+                <i class="icon-menu"></i>
+                <a href="/" class="logo-wrap"><i class="icon-logo1 logo-hd"></i><i class="logo3-hd">企业查询宝</i></a>
+                <div class="wrap">
+                    <p class="return"><i class="icon-return"></i>返回</p>
+                    <nav class="nav">
+                        <ul>
+                            <li class="cur"><a href="/">查企业</a></li>
+                            <li><a href="/show" >企业说</a></li>
+
+                            <li><a href="/bbs/list#interaction">互动社区</a></li>
+                        </ul>
+                    </nav>
+                    <i class="icon-index"></i>
+                    <!-- 添加类open，在平板模式下展开下载菜单 -->
+                    <div class="loadqr">
+                        <i class="icon-more"></i>
+                        <ul>
+                            <li><a href="http://qiye.qianzhan.com/app/" target="_blank">APP下载</a></li>
+                            <li><span>微信公众号</span><i class="qr-wechat"></i></li>
+                            <li><a href="http://open.qianzhan.com" target="_blank">开放平台</a></li>
+                        </ul>
+                    </div>
+                    <div class="login-hd">
+                        <a id="login" href="#">登录</a>
+                        <a class="reg" href="/usercenter/register">免费注册</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- 搜索 -->
+    <article class="search  wrap-w wrap-d">
+        <div class="wrap">
+            <div class="sec-fm">
+                <div class="sec-adr " >
+                    <div class="option-cur option-area-clcik"><em class="province-cur" data-province="0">全国</em><em class="city-cur" data-city="0">全国</em></div>
+
+                </div>
+                <div class="sec-adr2">
+                    <div class="sec-inner">
+                        <div class="adr-hot home-adr-hot">
+                            <h3>热门城市</h3>
+                            <ul id="ulhot">
+                                <li data-code="31">上海</li>
+                                <li data-code="11">北京</li>
+                                <li data-code="5101">成都</li>
+                                <li data-code="5301">昆明</li>
+                                <li data-code="6101">西安</li>
+                                <li data-code="4403">深圳</li>
+                                <li data-code="50">重庆</li>
+                                <li data-code="3301">杭州</li>
+                                <li data-code="3502">厦门</li>
+                                <li data-code="6501">乌鲁木齐</li>
+                                <li data-code="4401">广州</li>
+                                <li data-code="4601">海口</li>
+                                <li data-code="2301">哈尔滨</li>
+                                <li data-code="3201">南京</li>
+                                <li data-code="4201">武汉</li>
+                                <li data-code="4301">长沙</li>
+                                <li data-code="3702">青岛</li>
+                                <li data-code="4101">郑州</li>
+                                <li data-code="4602">三亚</li>
+                                <li data-code="3501">福州</li>
+                                <li data-code="5201">贵阳</li>
+                                <li data-code="12">天津</li>
+                                <li data-code="4501">南宁</li>
+                                <li data-code="2101">沈阳</li>
+                                <li data-code="1401">太原</li>
+                                <li data-code="2102">大连</li>
+                                <li data-code="6201">兰州</li>
+                                <li data-code="3701">济南</li>
+                                <li data-code="2201">长春</li>
+                                <li data-code="3303">温州</li>
+                            </ul>
+                        </div>
+                        <div class="option-list">
+                            <h3>按省份选择城市</h3>
+                            <ul class="province-list"></ul>
+                            <ul class="city-list"></ul>
+                        </div>
+                    </div>
+                </div>
+                <input class="sec-txt" type="text" name="searchname" placeholder="请输入企业名、人名、产品名等关键词进行搜索" id="searchname">
+                <input class="sec-btn" type="button" value="查询">
+                <ul class="sec-tips"></ul>
+            </div>
+        </div>
+    </article>
+
+
+
+
+</div>
+
+
+
+
+
+<input type="hidden" id="hduserId" value="0" />
+<input type="hidden" id="hdusername" value="" />
+<input type="hidden" id="hdFriendlyTime" value="刚刚" />
+<input type="hidden" id="hdencryptCode" value="eb83561adecb77707d6fd45a9e866b23" />
+<input type="hidden" id="hdct_name" value="宁波金田新材料有限公司" />
+<input type="hidden" id="hddate" value="2016-08-15 11:13:43" />
+<input type="hidden" id="hdoc_area" value="3302" />
+<!-- 详情页内容 -->
+<div class="wrap-w clf">
+    <!-- 详情页内容 -->
+    <article class="wrap-d">
+        <div class="wrap-f wrap-d2 art-tit-wrap">
+            <div class="art-tit">
+                <h1 class="ct_name">宁波金田新材料有限公司<span class="art-tit_recovery toolbar_feedbackDtl">信息纠错</span></h1>
+
+                <p class="adr-wrap"><i class="icon-adr2"></i><span class="adr">浙江省宁波市慈溪经济开发区(杭州湾新区)滨海四路636号</span></p>
+            </div>
+            <ul class="art-share">
+                <li><em><i class="icon-pv"></i></em><span class="info visitNum">0</span></li>
+                <!-- 添加cur，收藏动画 -->
+                <li><em class="icom-AddFavor" data-areaid="3302"><i class="icon-fav1 "></i></em><span class="info favorNum">0</span></li>
+                <!-- open,手机模式展开分享 -->
+                <li class="wrap-share">
+                    <em><i class="icon-share"></i></em><span class="info">分享</span>
+
+                    <ul class="share-list" style="z-index:101">
+                        <li>
+                            <a data-share="weibo" class="icon-weibo ashare"></a>
+                        </li>
+                        <li>
+                            <a data-share="douban" class="icon-douban ashare"></a>
+                        </li>
+                        <li>
+                            <a data-share="qzone" class="icon-zone ashare"></a>
+                        </li>
+                        <li>
+                            <a data-share="qq" class="icon-qq ashare"></a>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- 添加cur，刷新动画 -->
+                <li class="cur-refresh">
+                    <em><i class="icon-refresh"></i></em>
+                    <time class="info">5月前</time>
+                </li>
+            </ul>
+        </div>
+    </article>
+    <article class="main">
+        <div class="wrap-f lsec-wrap">
+            <!-- open,控制筛选条件的展开 -->
+            <div class="lsec-filter art-filter">
+                <p class="option-cur dtl-option-cur"><span><a>基本信息</a><i class="barr"></i></span></p>
+                <ul class="content-tmenu">
+                    <li class="cur" data-name="content-dtl"><a>基本信息</a></li>
+                    <li data-name="content-dwtz"><a> 对外投资</a></li>
+                    <li data-name="content-qynb"><a> 企业年报</a></li>
+                    <li data-name="content-ymba"><a>域名备案</a></li>
+                    <li data-name="content-qytp"><a href="/orgcompany/Map#D3Force/%e5%ae%81%e6%b3%a2%e9%87%91%e7%94%b0%e6%96%b0%e6%9d%90%e6%96%99%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8/2/1/0" target="_blank">企业图谱</a><i class="icon-new"></i></li>
+                    <li data-name="content-datacache"><a href="/orgcompany/seachitemqylxview?orgCode=eb83561adecb77707d6fd45a9e866b23" target="_blank">联系参考</a></li>
+
+                </ul>
+            </div>
+            <ul class="filter-year hide filter-year-qynb"></ul>
+        </div>
+        <section class="content-dtl" name="content-menu">
+            <div class="wrap-f wrap-d2 ">
+                <!-- 主体信息 -->
+                <section>
+                    <div class="wrap-art-h2">
+                        <h2 class="art-h2">主体信息</h2>
+                    </div>
+                    <ul class="art-basic">
+                        <li class="short"><span class="tit">法人代码：</span><span class="info">668459014</span></li>
+                        <li class="short"><span class="tit">注册号：</span><span class="info">330218000001197</span></li>
+                        <li class="short"><span class="tit">企业法人：</span><span class="info"><a style='color:#136ec2;' href='/search/gd/郑敦敦?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>郑敦敦</a></span></li>
+                        <li class="short"><span class="tit">经营状态：</span><span class="info">正常</span></li>
+                        <li class="short"><span class="tit">注册资本：</span><span class="info">7,200.0000(万元人民币)</span></li>
+                        <li class="short"><span class="tit">主体类型：</span><span class="info">一人有限责任公司（私营法人独资）</span></li>
+                        <li class="short"><span class="tit">登记日期：</span><span class="info">2007-11-01</span></li>
+                        <li class="short"><span class="tit">经营期限：</span><span class="info">2007-11-01 至 2017-10-31</span></li>
+                        <li><span class="tit">企业地址：</span><span class="info">浙江省宁波市慈溪经济开发区(杭州湾新区)滨海四路636号</span></li>
+                        <li><span class="tit">经营范围：</span><span class="info">许可经营项目：无一般经营项目：新型建筑材料、纳米材料研究、开发；电子漆包线、电线、电缆、电工器材制造、加工、销售；自营和代理货物和技术的进出口，但国家限定经营或禁止进出口的货物和技术除外。</span></li>
+                    </ul>
+                </section>
+                <!-- 机构信息 -->
+                <section>
+                    <div class="wrap-art-h2">
+                        <h2 class="art-h2">机构信息</h2>
+                    </div>
+                    <ul class="art-org">
+                        <li class="short"><span class="tit">机构代码：</span><span class="info">668459014</span></li>
+                        <li class="short"><span class="tit">所属地区：</span><span class="info">宁波市</span></li>
+                        <li class="short"><span class="tit">机构名称：</span><span class="info">宁波<a style='color:#136ec2;' href='/search/qy/%e9%87%91%e7%94%b0%e6%96%b0?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>金田新</a>材料有限公司</span></li>
+
+                        <li class="short"><span class="tit">机构类型：</span><span class="info">企业法人</span></li>
+                        <li class="short"><span class="tit">登记机关：</span><span class="info">浙江省宁波市质量技术监督局</span></li>
+                        <li class="short"><span class="tit">登记证号：</span><span class="info">330218000001197</span></li>
+                        <li class="short"><span class="tit">证书有效期：</span><span class="info">2007-11-01 至 2017-10-31</span></li>
+                        <li><span class="tit">机构地址：</span><span class="info"><a style='color:#136ec2;' href='/search/dz/浙江省宁波市慈溪经济开发区(杭州湾新区)滨海四路636号?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>浙江省宁波市慈溪经济开发区(杭州湾新区)滨海四路636号</a></span></li>
+                    </ul>
+                </section>
+            </div>
+            <!-- 相关搜索 -->
+            <div class="wrap-f wrap-d2 wrap-art">
+                <section>
+                    <div class="wrap-art-h2">
+                        <h2 class="art-h2">相关搜索</h2>
+                    </div>
+                    <div class="art-keyword">
+                        <a href = '/search/qy/%e9%87%91%e7%94%b0%e6%96%b0%e6%9d%90%e6%96%99?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>金田新材料</a><a href = '/search/dz/636%e5%8f%b7?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>636号</a><a href = '/search/dz/%e7%bb%8f%e6%b5%8e%e5%bc%80%e5%8f%91%e5%8c%ba%e6%9d%ad%e5%b7%9e%e6%b9%be%e6%96%b0%e5%8c%ba%e6%bb%a8%e6%b5%b7%e5%9b%9b%e8%b7%af?o=0&area=0&areaN=%e5%85%a8%e5%9b%bd&p=1'>经济开发区杭州湾新区滨海四路</a>
+
+                    </div>
+                </section>
+            </div>
+            <!-- 成员信息or股东信息 -->
+            <div class="wrap-f wrap-d2 wrap-art">
+                <!-- 成员信息 -->
+                <section>
+                    <div class="wrap-art-h2">
+                        <h2 class="art-h2">成员信息</h2>
+                    </div>
+                    <div class="art-member lock">
+                        <ul></ul>
+
+                    </div>
+                </section>
+                <!-- 股东信息 -->
+                <section>
+                    <div class="wrap-art-h2">
+                        <h2 class="art-h2">股东信息</h2>
+                    </div>
+                    <div class="art-shareholder">
+                        <ul>
+                            <li style="cursor:pointer" onclick="javascript:location.href=&#39;/orgcompany/searchitemdtl/b16c47cf51c53781576cbfb95e1c717a.html&#39;">
+                                <div class="wrap">
+                                    <div class="con">
+                                        <span class="info">企业法人</span>
+                                        <em class="name" data-og_oc_code="b16c47cf51c53781576cbfb95e1c717a"><a href="/orgcompany/searchitemdtl/b16c47cf51c53781576cbfb95e1c717a.html">宁波金田铜业（集团）股份有限公司</a></em>
+                                        <ins class="ins">宁波金田铜业（集团）股份有限公司</ins>
+                                    </div>
+                                    <div class="capital">
+                                        <p>认缴：0</p>
+                                        <p>实缴：0</p>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            <!-- 分支机构 -->
+            <section class="wrap-d2 wrap-f wrap-art">
+                <div class="wrap-art-h2">
+                    <h2 class="art-h2">分支机构</h2>
+                </div>
+                <ul class="art-branch art-branch-fzjg">
+                    <li>
+                        <p class="tit"><a href="/orgcompany/searchitemdtl/6630d531774535ff94d7e7c78ad5602f.html" data-code="6630d531774535ff94d7e7c78ad5602f">宁波金田新材料有限公司江北分公司</a></p>
+                    </li>
+                    <li>
+                        <p class="tit"><a href="/orgcompany/searchitemdtl/8e71dcff3c55ef376ecd9ce19826dd81.html" data-code="8e71dcff3c55ef376ecd9ce19826dd81">宁波金田新材料有限公司工会委员会</a></p>
+                    </li>
+                </ul>
+
+            </section>
+            <!-- 变更信息 -->
+            <section class="wrap-f wrap-d2 wrap-art">
+                <div class="wrap-art-h2">
+                    <h2 class="art-h2">变更信息</h2>
+                </div>
+                <ul class="art-change">
+
+                    <li>
+                        <p class="info"><em>变更项目：</em> 许可经营项目变更</p>
+                        <div class="before">
+                            <p class="con">
+                                <em>变更前：</em>（注：标有*标志的为法定代表人）许可经营项目:
+                            </p>
+                        </div>
+                        <div class="after">
+                            <p class="con">
+                                <em>变更后：</em>（注：标有*标志的为法定代表人）许可经营项目:无
+                            </p>
+                        </div>
+                        <p class="other"><i class="rank">1</i><time class="time">2009-12-09</time></p>
+                    </li>
+                    <li>
+                        <p class="info"><em>变更项目：</em> 住所(营业场所、地址)变更</p>
+                        <div class="before">
+                            <p class="con">
+                                <em>变更前：</em>（注：标有*标志的为法定代表人）住所:慈溪经济开发区（杭州湾新区）九塘南路邻里中心1号楼102室;邮政编码:315336;电话:87574121;住所所在行政区划:崇寿镇收起更多
+                            </p>
+                        </div>
+                        <div class="after">
+                            <p class="con">
+                                <em>变更后：</em>（注：标有*标志的为法定代表人）住所:慈溪经济开发区（杭州湾新区）滨海四路636号;邮政编码:315336;电话:87574121;住所所在行政区划:崇寿镇收起更多
+                            </p>
+                        </div>
+                        <p class="other"><i class="rank">2</i><time class="time">2009-12-09</time></p>
+                    </li>
+                    <li>
+                        <p class="info"><em>变更项目：</em> 投资人(股权)变更</p>
+                        <div class="before">
+                            <p class="con">
+                                <em>变更前：</em>（注：标有*标志的为法定代表人）企业名称:宁波金田铜业（集团）股份有限公司;出资额:7000;百分比:100%;法人性质:企业法人收起更多
+                            </p>
+                        </div>
+                        <div class="after">
+                            <p class="con">
+                                <em>变更后：</em>（注：标有*标志的为法定代表人）企业名称:宁波金田铜业（集团）股份有限公司;出资额:7200;百分比:100%;法人性质:企业法人收起更多
+                            </p>
+                        </div>
+                        <p class="other"><i class="rank">3</i><time class="time">2010-09-08</time></p>
+                    </li>
+                    <li>
+                        <p class="info"><em>变更项目：</em> 注册资本(金)变更</p>
+                        <div class="before">
+                            <p class="con">
+                                <em>变更前：</em>（注：标有*标志的为法定代表人）7000
+                            </p>
+                        </div>
+                        <div class="after">
+                            <p class="con">
+                                <em>变更后：</em>（注：标有*标志的为法定代表人）7200
+                            </p>
+                        </div>
+                        <p class="other"><i class="rank">4</i><time class="time">2010-09-08</time></p>
+                    </li>
+                    <li>
+                        <p class="info"><em>变更项目：</em> 实收资本变更</p>
+                        <div class="before">
+                            <p class="con">
+                                <em>变更前：</em>（注：标有*标志的为法定代表人）7000
+                            </p>
+                        </div>
+                        <div class="after">
+                            <p class="con">
+                                <em>变更后：</em>（注：标有*标志的为法定代表人）7200
+                            </p>
+                        </div>
+                        <p class="other"><i class="rank">5</i><time class="time">2010-09-08</time></p>
+                    </li>
+
+                </ul>
+            </section>
+            <!-- 网页评论 -->
+            <article id="comment" name="comment" class="wrap-f wrap-d2 wrap-art">
+                <div class="wrap-art-h2">
+                    <h2 class="art-h2">公司点评</h2>
+                </div>
+                <ul class="art-comm"></ul>
+                <p class="load-wrap load-wrap-comment"><a class="more-load">加载更多</a></p>
+            </article>
+            <!-- 评论框 添加open-pf类名，在手机端展开或者关闭评论框-->
+            <article class="wrap-f wrap-d2 wrap-comm article-comment-add" style="z-index:101">
+                <form action="" class="comm-fm site-fm">
+                    <a class="face" title="" target="_blank">
+                        <p><i class="icon-face"></i></p>
+                    </a>
+                    <textarea placeholder="请输入评论内容.." class="tta textarea" id="textarea" data-tiezi=""></textarea>
+                    <div class="posted-img">
+                        <input type="file" name="file[]" id="file" class="file" multiple style="display:none" accept=".jpg,.png,.bmp,.gif,.jpeg">
+                        <ul id="imagelist" class="comm-img comm-img-fm">
+                            <li class="file-wrap"><p class="file-info"><em>+</em><span>上传图片</span></p></li>
+                        </ul>
+                    </div>
+                    <div class="wrap-tips">
+                        <p class="tips">还可以输入<em class="keyword">500</em>个字符</p>
+                        <input type="button" value="发&ensp;表" class="btn btn_Send">
+                        <input type="button" value="取&ensp;消" class="btn cancel">
+                    </div>
+                </form>
+            </article>
+        </section>
+        <!--对外投资-->
+        <section class="wrap-d2 wrap-f content-dwtz hide" name="content-menu">
+            <ul class="list-dwtz list-news-dwtz">
+                <li>
+                    <p class="tit"><a href="/orgcompany/searchitemdtl/468b13702f4c675e4d8d696cc333e2a5.html" target="_blank">福安市金田铜业有限公司</a></p>
+                </li>
+                <li>
+                    <p class="tit"><a href="/orgcompany/searchitemdtl/fa36c701f62c54977170e491f42d5aa6.html" target="_blank">中山市金田电工材料有限公司</a></p>
+                </li>
+
+            </ul>
+
+        </section>
+        <!--域名备案-->
+        <section class="wrap-d2 wrap-f content-ymba hide" name="content-menu">
+            <ul class="list-ymba"></ul>
+            <p class="load-wrap load-wrap-ymba"><a class="more-load">加载更多</a></p>
+        </section>
+        <!--企业联系-->
+        <section class="wrap-d2 wrap-f content-datacache hide" name="content-menu">
+            <ul class="list-ymba list-datacache"></ul>
+
+        </section>
+        <!--展会信息-->
+        <section class="wrap-d2 wrap-f content-zhxx hide" name="content-menu">
+            <div class="div-zhxx"></div>
+            <p class="load-wrap load-wrap-zhxx"><a class="more-load">加载更多</a></p>
+        </section>
+
+        <!-- 企业基本信息 -->
+        <section class="wrap-f wrap-d2 content-qynb content-qynb-jbinfo hide" name="content-menu">
+            <div class="wrap-art-h2 content-qynb hide">
+                <h2 class="art-h2">企业基本信息</h2>
+            </div>
+            <ul class="art-basic  content-qynb">
+                <li class="short"><span class="tit">注册号：</span><span class="info nb_oc_number"></span></li>
+                <li class="short"><span class="tit">经营状况：</span><span class="info nb_runStatus"></span></li>
+                <li class="short"><span class="tit">从业人数：</span><span class="info nb_numbers"></span></li>
+                <li class="short"><span class="tit">联系电话：</span><span class="info nb_phone"></span></li>
+                <li class="short"><span class="tit">电子邮箱：</span><span class="info nb_mail"></span></li>
+                <li class="short"><span class="tit">邮政编码：</span><span class="info nb_postCode"></span></li>
+                <li><span class="tit">企业地址：</span><span class="info nb_address"></span></li>
+            </ul>
+            <ul class="art-basic2 content-qynb ">
+                <li><span class="tit">本年度是否发生股权转让：</span><span class="info nb_shareTransfer"></span></li>
+                <li><span class="tit">企业是否有投资信息或购买其他公司股权：</span><span class="info nb_otherShare"></span></li>
+            </ul>
+        </section>
+        <!-- 企业出资信息 -->
+        <section class="wrap-f wrap-d2 wrap-art content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2">企业出资信息</h2>
+            </div>
+            <div class="art-czxx"></div>
+            <div class="content-list-ccxx">
+            </div>
+        </section>
+        <!-- 企业资产状况信息 -->
+        <section class="wrap-f wrap-d2  wrap-art content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2 ">
+                <h2 class="art-h2">企业资产状况信息</h2>
+            </div>
+            <ul class="art-basic qyzczk">
+                <li class="short"><span class="tit">资产总额：</span><span class="info nb_totalAssets"></span></li>
+                <li class="short"><span class="tit">所有者权益合计：    </span><span class="info nb_totalEquity"></span></li>
+                <li class="short"><span class="tit">营业总收入：</span><span class="info nb_totalIncome"></span></li>
+                <li class="short"><span class="tit">净利润：        </span><span class="info nb_netProfit"></span></li>
+                <li class="short"><span class="tit">利润总额：</span><span class="info nb_toalProfit"></span></li>
+                <li class="short"><span class="tit">营业总收入中主营业务收入：</span><span class="info nb_mainIncome"></span></li>
+                <li class="short"><span class="tit">纳税总额：</span><span class="info nb_totalTax"></span></li>
+                <li class="short"><span class="tit">负债总额：</span><span class="info nb_totalDebt"></span></li>
+            </ul>
+        </section>
+
+        <!-- 股权变更 -->
+        <section class="wrap-f wrap-d2  wrap-art  content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2">股权变更</h2>
+            </div>
+            <div class="div-qynb-gqbg"></div>
+
+        </section>
+
+        <!-- 对外投资 -->
+        <section class="wrap-f wrap-d2  wrap-art  content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2">对外投资</h2>
+            </div>
+            <div class="div-qynb-dwtz">
+
+            </div>
+        </section>
+
+        <!-- 担保信息 -->
+        <section class="wrap-f wrap-d2  wrap-art content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2 ">担保信息</h2>
+            </div>
+            <div class="div-qynb-dbxx">
+
+
+            </div>
+
+        </section>
+
+        <!-- 修改记录 -->
+        <section class="wrap-f wrap-d2  wrap-art content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2">修改记录</h2>
+            </div>
+            <div class="div-qynb-xgjl">
+
+            </div>
+
+        </section>
+
+        <!-- 网站信息 -->
+        <section class="wrap-f wrap-d2  wrap-art  content-qynb hide" name="content-menu">
+            <div class="wrap-art-h2">
+                <h2 class="art-h2 ">网站信息</h2>
+            </div>
+            <div class="div-qynb-wzxx">
+
+            </div>
+        </section>
+
+    </article>
+    <div class="side">
+        <!-- 热门资讯 -->
+        <aside class="wrap-d side-item">
+            <div class="wrap-f">
+                <h2 class="tit-h2">热门资讯</h2>
+
+                <ul class="list-news">
+
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160808-f5e8f661.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160808-d98c4e3ee46ecf91_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160808-f5e8f661.html">万宝相争 恒大得利 许家印这趟浑水趟得好</a></p></li>
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160809-fbaa5b2d.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160809-6993a55e4986dbb7_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160809-fbaa5b2d.html">奥运将中国国旗弄错了 浙江一民企：我不背锅</a></p></li>
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160811-0f16008d.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160811-1e04d2f10ae9282b_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160811-0f16008d.html">王思聪这边跟网友撕逼 那边投资的公司暴跌</a></p></li>
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160808-931a3181.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160808-65ce366c67104929_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160808-931a3181.html">解读奥运经济：高投入并不意味着高产出</a></p></li>
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160811-af0e4eb5.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160811-f5aa4030bc2b8b4f_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160811-af0e4eb5.html">里约奥运会 想不到是这些民族品牌打了头炮</a></p></li>
+                    <li><a href="http://qiye.qianzhan.com/show/detail/160811-46698f8f.html" class="img" target="_blank"><img src="http://img3.qianzhan123.com/news/201607/21/20160811-1707d95965e030c6_360x190x21.jpg" alt="" /><i class="icon-logo1"></i></a><p class="tit"><a target="_blank" href="http://qiye.qianzhan.com/show/detail/160811-46698f8f.html">幽灵餐厅频现 三大外卖平台将面临最高20万罚款</a></p></li>
+
+                </ul>
+
+            </div>
+        </aside>
+
+        <!-- 浏览历史 -->
+        <aside class="wrap-d side-item">
+            <div class="wrap-f">
+                <h2 class="tit-h2">浏览历史</h2>
+                <ul class="list-history">
+
+                </ul>
+            </div>
+        </aside>
+
+    </div>
+</div>
+
+<!-- 手机端悬浮评论框 -->
+<section class="comm-pf">
+    <ul class="art-share">
+        <!-- 添加cur，刷新动画 -->
+        <li class="cur-refresh"><em><i class="icon-refresh"></i></em> </li>
+        <!-- 添加cur，收藏动画 -->
+        <li id="icon-fav1" data-areaid="3302"><em><i class="icon-fav1"></i></em></li>
+        <!-- open,手机模式展开分享 -->
+        <li class="wrap-share ">
+            <em><i class="icon-share"></i></em>
+            <ul class="share-list">
+                <li>
+                    <a data-share="weibo" class="icon-weibo ashare"></a>
+                </li>
+                <li>
+                    <a data-share="douban" class="icon-douban ashare"></a>
+                </li>
+                <li>
+                    <a data-share="qzone" class="icon-zone ashare"></a>
+                </li>
+                <li>
+                    <a data-share="qq" class="icon-qq ashare"></a>
+                </li>
+            </ul>
+        </li>
+        <li id="icon-edit"><em><i class="icon-edit"></i></em></li>
+    </ul>
+</section>
+
+<!-- 添加open-share展开或者关闭分享,open-qr展开或者关闭二维码 -->
+<ul class="toolbar">
+    <li class="toolbar_item app"><i class="icon-app-load toolbar_icon"></i><em class="toolbar_tit">APP</em><em class="qr-app"></em></li>
+    <li class="toolbar_item share">
+        <i class="icon-share3 toolbar_icon icon-share2"></i><em class="toolbar_tit">分享</em>
+        <ul class="share-list">
+            <li>
+                <a class="icon-weibo ashare" data-share="weibo"></a>
+            </li>
+            <li>
+                <a class="icon-douban ashare" data-share="douban"></a>
+            </li>
+
+            <li>
+                <a class="icon-zone ashare" data-share="qzone"></a>
+            </li>
+            <li>
+                <a class="icon-qq ashare" data-share="qq"></a>
+            </li>
+
+        </ul>
+    </li>
+    <li class="toolbar_item qr-wrap">
+        <i class="icon-qr toolbar_icon "></i><em class="toolbar_tit">微信</em><img class="qr-img" alt="">
+    </li>
+    <li class="toolbar_item toolbar_feedback" data-type="0"><a class="icon-feedback toolbar_icon"></a><em class="toolbar_tit">反馈</em></li>
+    <li class="toolbar_item"><a class="icon-backtop toolbar_icon"></a><em class="toolbar_tit">置顶</em></li>
+</ul>
+
+<!--提交反馈-->
+<div class="popup" style="display:none;">
+    <div class="popup_wrap">
+        <div class="feedback">
+            <h2 class="feedback_tit">意见反馈</h2>
+            <ul class="feedback_list">
+                <li class="li_companyName">
+                    <label class="feedback_lb" for="">公司名称：</label>
+                    <input type="text" class="feedback_txt feedback_companyName" value="" disabled="">
+                </li>
+                <li>
+                    <label class="feedback_lb" for="">联系方式：</label>
+                    <input type="text" class="feedback_txt feedback_phone" placeholder="请留下您的手机号码，方便我们联系您～" value="">
+                </li>
+                <li>
+                    <label class="feedback_lb" for="">反馈内容：</label>
+                    <textarea class="feedback_tta tta feedback_content" placeholder="请详细描述您遇到的问题或宝贵意见～" value=""></textarea>
+                </li>
+                <li class="feedback_btnwrap">
+                    <input type="button" value="马上提交" class="feedback_btn">
+                </li>
+            </ul>
+            <i class="feedback_close">×</i>
+            <div class="feedback_xf">
+                <div class="feedback_xf_wrap"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<p class="baidu-content" style="color:#f1f5f8;">宁波金田新材料有限公司怎么样？宁波金田新材料有限公司工资待遇怎么样？企业查询宝为您提供宁波金田新材料有限公司的工商注册信息、公司地址、联系电话、招聘信息、公司评价、商标专利、企业年报、企业关系等详细信息，让您全面了解宁波金田新材料有限公司的信用信息及经营状况，更好地对宁波金田新材料有限公司做出选择。</p>
+<script type="text/javascript" charset="utf-8">
+     function share(dest) {
+         var url = window.location.href.toString();
+         var title = $('#hdct_name').val() + "@企业查询宝";
+         var summary = $('#hdct_name').val() + "@企业查询宝";
+         shareTo(dest, url, title, summary)
+     }
+
+ </script>
+
+
+
+
+
+
+
+<!-- 底部 -->
+<footer class="ft">
+    <div class="wrap-w">
+
+        <div class="con">
+            <div class="link">
+                <a href="http://open.qianzhan.com" target="_blank">前瞻云数据</a><i>|</i> <a href="http://www.qianzhan.com/" target="_blank">前瞻网</a><i>|</i><a href="http://bg.qianzhan.com/" target="_blank">研究报告</a><i>|</i><a href="http://d.qianzhan.com/" target="_blank">前瞻数据</a><i>|</i><a href="/home/contactusview" target="_blank">联系我们</a><a class="qqgroup" href="http://shang.qq.com/wpa/qunwpa?idkey=f36b0f2535c9776b1a5f99cb5e97cb9798a813910176d83bb8f417dee324d8e1" title="企业查询宝官网群1" target="_blank">企业查询宝官网群（<em>530157977</em>）</a>
+            </div>
+            <p class="copyright">Copyright © 1998-2016 深圳前瞻资讯股份有限公司 All rights reserved. </p>
+        </div>
+        <ul class="qr">
+            <li>
+                <p class="qr-app"></p>
+                <p class="tit">APP下载</p>
+            </li>
+            <li>
+                <p class="qr-qys"></p>
+                <p class="tit">企业说</p>
+            </li>
+            <li>
+                <p class="qr-gfwx"></p>
+                <p class="tit">官方微信</p>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+<div class="bg-fixed" style="display: none;"></div>
+<!-- 提示窗口 -->
+<div class="msg-info2" style="display: none;">
+
+</div>
+
+<!-- 加载缓冲动画 -->
+<div class="load-anima" style="display: none;"><i class="icon-load"></i></div>
+
+<script type="text/javascript">
+         var _hmt = _hmt || [];
+         (function () {
+             var hm = document.createElement("script");
+             hm.src = "//hm.baidu.com/hm.js?048cbb2d27bb635e2aeb64403a58e3a3";
+             var s = document.getElementsByTagName("script")[0];
+             s.parentNode.insertBefore(hm, s);
+         })();
+     </script>
+</body>
+</html>
+
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+     window.wxShareTitle = $("title").html();
+
+     wx.config({
+         debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+         appId: 'wx5f961423086cd10c', // 必填，公众号的唯一标识
+         timestamp: '1471230823', // 必填，生成签名的时间戳
+         nonceStr: '7143D7FBADFA4693B9EEC507D9D37443', // 必填，生成签名的随机串
+         signature: 'f9a89797f70c84ffe5f6b943e229335fd3f8fcb0', // 必填，签名
+         jsApiList: [
+               "checkJsApi",
+                 'onMenuShareTimeline',
+                 'onMenuShareAppMessage',
+                 'onMenuShareQQ',
+                 'onMenuShareWeibo',
+                 'hideMenuItems',
+                 'showMenuItems',
+                 'hideAllNonBaseMenuItem',
+                 'showAllNonBaseMenuItem',
+                 'translateVoice',
+                 'startRecord',
+                 'stopRecord',
+                 'onRecordEnd',
+                 'playVoice',
+                 'pauseVoice',
+                 'stopVoice',
+                 'uploadVoice',
+                 'downloadVoice',
+                 'chooseImage',
+                 'previewImage',
+                 'uploadImage',
+                 'downloadImage',
+                 'getNetworkType',
+                 'openLocation',
+                 'getLocation',
+                 'hideOptionMenu',
+                 'showOptionMenu',
+                 'closeWindow',
+                 'scanQRCode',
+                 'chooseWXPay',
+                 'openProductSpecificView',
+                 'addCard',
+                 'chooseCard',
+                 'openCard'
+         ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2。详见：http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
+     });
+     wx.error(function (res) {
+         //            console.log(res);
+         //            alert('验证失败');
+     });
+     wx.ready(function () {
+         var url = window.location.origin;
+         var link = window.location.href;
+         var imgUrl = url + 'http://img1.qianzhan123.com/qiye/20160810/Images/Icon-Small-50@2x.png';
+         //转发到朋友圈
+         wx.onMenuShareTimeline({
+             title: window.wxShareTitle,
+             link: link,
+             imgUrl: imgUrl,
+             success: function () {
+             },
+             cancel: function () {
+             }
+         });
+         //转发给朋友
+         wx.onMenuShareAppMessage({
+             title: window.wxShareTitle,
+             desc: '一键查询全国4千万家企业 法人现状;注册资金;股东信息;关联公司...',
+             link: link,
+             imgUrl: imgUrl,
+             type: 'link',
+             dataUrl: '',
+             success: function () {
+             },
+             cancel: function () {
+             }
+         });
+
+     });
+ </script>
+
+
+
+
+<script type="text/html" class="qynbdwtz-template" title="企业年报对外投资">
+    <li>
+        <p class="tit"><a href="/orgcompany/searchitemdtl/{oc_code}.html" target="_blank">{compName}</a></p>
+    </li>
+</script>
+
+<script type="text/html" class="qynbccxx-template" title="企业年报出资信息">
+    <div class="czxx">
+        <p class="name-wrap"><i class="icon-name2"></i><em class="name">{gd}</em></p>
+        <ul class="art-basic">
+            <li class="short"><span class="tit">认缴出资额：</span><span class="info">{rjcze}</span></li>
+            <li class="short"><span class="tit">实缴出资额：</span><span class="info">{sjcze}</span></li>
+            <li class="short"><span class="tit">认缴出资时间： </span><span class="info">{rjczsj}</span></li>
+            <li class="short"><span class="tit">实缴出资时间：</span><span class="info">{czsj}</span></li>
+            <li class="short"><span class="tit">认缴出资方式：</span><span class="info">{rjczfs}</span></li>
+            <li class="short"><span class="tit">实缴出资方式：</span><span class="info">{czfs}</span></li>
+        </ul>
+    </div>
+</script>
+
+<script type="text/html" class="qynbwzxx-template" title="企业年报网站信息">
+    <ul class="art-basic qynb-wzxx">
+        <li class="short"><span class="tit">名 称：</span><span class="info">{name}</span></li>
+        <li class="short"><span class="tit">网 址：</span><span class="info"><a href="/go?url={webSitehref}" target="_blank" class="url">{webSite}</a></span></li>
+    </ul>
+</script>
+
+<script type="text/html" class="qynbxgjl-template" title="企业年报修改记录">
+    <li>
+        <div class="before">
+            <p class="info"><em>修改事项：</em>{xgsx}</p>
+            <p class="info info2"><em>修改日期：</em>{xgsj}</p>
+        </div>
+        <div class="after">
+            <p class="con con2"><em>修改前：</em>{xgq}</p>
+            <p class="con"><em>修改后：</em>{xgh}</p>
+        </div>
+    </li>
+</script>
+
+<script type="text/html" class="qynbgqbg-template" title="企业年报股权变更">
+    <li>
+        <div class="before">
+            <p class="info"><em>股东：</em>{gd}</p>
+            <p class="info info2"><em>股权变更日期：</em>{bgsj}</p>
+        </div>
+        <div class="after">
+
+            <p class="con con2"><em>变更前股权比例：</em>{qgqbl}</p>
+            <p class="con"><em>变更后股权比例：</em>{hgqbl}</p>
+        </div>
+    </li>
+</script>
+
+<script type="text/html" class="qynbdbxx-template" title="企业年报担保">
+    <ul class="art-basic qyzczk qynb-dbxx">
+        <li class="short"><span class="tit">债权人：</span><span class="info">{zcr}</span></li>
+        <li class="short"><span class="tit">债务人：</span><span class="info">{zwr}</span></li>
+        <li class="short"><span class="tit">主债权种类：</span><span class="info">{zzczl}</span></li>
+        <li class="short"><span class="tit">主债权数额：</span><span class="info">{zzcse}</span></li>
+        <li class="short"><span class="tit">保证的期间：</span><span class="info">{bzqj}</span></li>
+        <li class="short"><span class="tit">保证的方式：</span><span class="info">{bzfs}</span></li>
+        <li class="short"><span class="tit">履行债务的期限：</span><span class="info">{lxzwqx}</span></li>
+        <li class="short"><span class="tit">保证担保的范围：</span><span class="info">{bzdbfw}</span></li>
+    </ul>
+</script>
+
+<script type="text/html" class="replyLiHtml-template" title="添加回复评论 js无刷新添加">
+    <li>
+        <div class="item">
+            <div class="tit">
+                <a class="name" href="{url}" title="">{hdusername}</a>
+            </div>
+            <p class="con">{ctr_content}</p>
+            <p class="other">
+                <time class="time">{hdFriendlyTime}</time>
+                <a class="reply" data-ctt_u_name="{hdusername}" data-ctt_id="{ctt_id}" href="#textarea">回复</a>
+            </p>
+        </div>
+    </li>
+</script>
+
+<script type="text/html" class="tieziHtml-template" title="添加回复评论 js无刷新添加">
+    <li>
+        <a class="face" href="{url}">{facehtml}<p><i class="icon-face"></i></p></a>
+        <div class="item" data-ctt_id="{ctt_id}" data-isLike="{isLike}">
+            <div class="tit">
+                <a class="name" href="{url}">{ctt_u_name}</a>
+                <span class="praise cur icon-praise-dep"><em class="num">{likeCount}</em><i class="icon-praise"></i></span>
+            </div>
+            <p class="con">{ctt_content}</p>
+            <ul class="comm-img">{imglisthtml}</ul>
+            <p class="other">
+                <time class="time">{ctt_date}</time><a class="reply" data-ctt_id="{ctt_id}" data-ctt_u_name="{ctt_u_name}" href="#textarea">回复</a>
+            </p>
+            {rh}
+        </div>
+    </li>
+</script>
+
+
+<script type="text/html" class="ymba-template" title="域名备案">
+    <li>
+        <ul class="art-basic">
+            <li class="short"><span class="tit">公司名称：</span><span class="info">{ocs_host}</span></li>
+            <li class="short"><span class="tit">备案号：</span><span class="info">{ocs_number}</span></li>
+            <li class="short"><span class="tit">域名：</span><span class="info">{ocs_domain}</span></li>
+            <li class="short"><span class="tit">网站首页：</span><span class="info"><a class="url" href="{gosite}" target="_blank">{ocs_siteHomePage}</a></span></li>
+            <li class="short"><span class="tit">网站名称：</span><span class="info">{ocs_siteName}</span></li>
+            <li class="short"><span class="tit">审核时间：</span><span class="info">{ocs_checkTime}</span></li>
+            <li class="short"><span class="tit">机构代码：</span><span class="info">{ocs_oc_code}</span></li>
+            <li class="short"><span class="tit">网站状态：</span><span class="info">{ocs_status}</span></li>
+            <li class="short"><span class="tit">单位性质：</span><span class="info">{ocs_hostType}</span></li>
+        </ul>
+        <i class="rank">{page}</i>
+    </li>
+</script>
+
+<script type="text/html" class="czxxwzxx-template" title="参展信息">
+    <ul class="art-basic list-zhxx ">
+        <li class="short"><span class="tit">联系人：</span><span class="info">{ee_contact}</span></li>
+        <li class="short"><span class="tit">展会名称：</span><span class="info"><a href="#" target="_blank" class="url">{ee_exhName}</a></span></li>
+        <li class="short"><span class="tit">展会行业：</span><span class="info">{ee_exhTrade}</span></li>
+        <li class="short"><span class="tit">邮箱：</span><span class="info">{ee_mail}</span></li>
+        <li class="short"><span class="tit">站点：</span><span class="info">{ee_site}</span></li>
+    </ul>
+</script>
+<script type="text/javascript" charset="utf-8">
+         window.wxShareTitle = $("#hdct_name").val() + "@企业查询宝";
+         $(document).ready(searchitemdtl);
+     </script>
+

@@ -1,0 +1,3 @@
+2016-11-17 14:42:14,023 13228 MainThread INFO starts to process company: 宁海县鹰峤电气有限公司, id: 1, the id of es document is: fc3d2ff5c0e6036f532be9d20a1c6d36 
+2016-11-17 14:43:41,701 13028 MainThread INFO starts to process company: 宁海县鹰峤电气有限公司, id: 1, the id of es document is: fc3d2ff5c0e6036f532be9d20a1c6d36 
+2016-11-17 14:48:05,280 13028 MainThread INFO inserted into es

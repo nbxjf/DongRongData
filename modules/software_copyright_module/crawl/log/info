@@ -1,0 +1,1631 @@
+2016-10-25 17:29:02,677 24176 MainThread INFO start to get proxyip
+2016-10-25 17:29:03,806 24176 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.18:8888
+2016-10-25 17:30:08,484 24940 MainThread INFO start to get proxyip
+2016-10-25 17:30:15,786 24940 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.238.142.101:8888
+2016-10-25 17:30:19,411 24296 MainThread INFO start to get proxyip
+2016-10-25 17:30:19,536 24296 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.107.46.183:8888
+2016-10-25 18:19:58,642 25840 MainThread INFO start to get proxyip
+2016-10-25 18:19:58,760 25840 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.63:8888
+2016-10-25 18:20:38,542 26076 MainThread INFO start to get proxyip
+2016-10-25 18:20:38,644 26076 MainThread INFO suc got proxyip: http://rongzi:rongzi@114.217.173.185:8888
+2016-10-26 10:56:24,019 4296 MainThread INFO start to get proxyip
+2016-10-26 10:56:24,280 4296 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.239.154.129:8888
+2016-10-26 10:59:14,980 5628 MainThread INFO start to get proxyip
+2016-10-26 10:59:15,062 5628 MainThread INFO suc got proxyip: http://rongzi:rongzi@114.216.107.45:8888
+2016-10-26 17:08:06,884 14848 MainThread INFO start to get proxyip
+2016-10-26 17:08:07,897 14848 MainThread ERROR failed get proxyip
+2016-10-26 17:08:07,898 14848 MainThread ERROR HTTPConnectionPool(host='10.51.1.201', port=3350): Max retries exceeded with url: /getproxy?site=software_copyright& (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x00000000032AAA58>: Failed to establish a new connection: [Errno 10061] ',))
+Traceback (most recent call last):
+  File "E:\drdata\crawling\common\proxy.py", line 30, in get_proxy
+    r = s.get(url)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 487, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 585, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\adapters.py", line 467, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPConnectionPool(host='10.51.1.201', port=3350): Max retries exceeded with url: /getproxy?site=software_copyright& (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x00000000032AAA58>: Failed to establish a new connection: [Errno 10061] ',))
+2016-10-26 17:09:49,056 15136 MainThread INFO start to get proxyip
+2016-10-26 17:09:50,069 15136 MainThread ERROR failed get proxyip
+2016-10-26 17:09:50,072 15136 MainThread ERROR HTTPConnectionPool(host='10.51.1.201', port=3350): Max retries exceeded with url: /getproxy?site=software_copyright& (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x00000000032669B0>: Failed to establish a new connection: [Errno 10061] ',))
+Traceback (most recent call last):
+  File "E:\drdata\crawling\common\proxy.py", line 30, in get_proxy
+    r = s.get(url)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 487, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 585, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\adapters.py", line 467, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPConnectionPool(host='10.51.1.201', port=3350): Max retries exceeded with url: /getproxy?site=software_copyright& (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x00000000032669B0>: Failed to establish a new connection: [Errno 10061] ',))
+2016-10-26 17:18:22,460 14464 MainThread ERROR Exception occurs when executing statements
+Traceback (most recent call last):
+  File "E:\drdata\crawling\persist\dbhelper.py", line 67, in execute
+    cursor.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 503, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 386, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type
+2016-10-26 17:18:22,480 14464 MainThread ERROR Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "E:\drdata\crawling\persist\dbhelper.py", line 67, in execute
+    cursor.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 503, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 386, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type
+2016-10-26 17:56:09,447 15860 MainThread INFO Batch Processing Begins
+2016-10-26 17:56:14,753 15860 MainThread INFO Get Companys From ES, And Size is : 100
+2016-10-26 17:56:15,723 15860 MainThread INFO Begins to Crawl Info, the CmpName:南安市仑苍亚芳水暖配件店, CmpId:4e394ad9d230e6d54926351d052bddae 
+2016-10-26 18:04:31,950 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:13,940 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:22,839 15860 MainThread INFO Begins to Crawl Info, the CmpName:屏南县城辉竹工艺品经营部, CmpId:5474121a3a58ef7bf032459152e9befb 
+2016-10-26 18:05:22,951 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:23,023 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:26,023 15860 MainThread INFO Begins to Crawl Info, the CmpName:武平县优尼玛服装店, CmpId:b80ee0e693908d1a7daecc8d0eb8c5a7 
+2016-10-26 18:05:26,164 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:26,250 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:29,252 15860 MainThread INFO Begins to Crawl Info, the CmpName:闽侯县青口佳源建筑装璜材料商店, CmpId:20322b5020d2057db949a253b0f99d2b 
+2016-10-26 18:05:29,388 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:29,473 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:32,473 15860 MainThread INFO Begins to Crawl Info, the CmpName:仙游县鲤南新品新百伦鞋服商行, CmpId:6e23a47ca8fef22bc05057fbc5b37352 
+2016-10-26 18:05:32,605 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:32,687 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:35,687 15860 MainThread INFO Begins to Crawl Info, the CmpName:仙游县榜头如意藏香珠行, CmpId:1e2e68c71e88bd20951307a768f95011 
+2016-10-26 18:05:35,832 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:35,920 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:38,921 15860 MainThread INFO Begins to Crawl Info, the CmpName:晋江市青阳盛腾鞋厂, CmpId:939ebf4558bff9f12abb1e5c2f65a0a2 
+2016-10-26 18:05:39,062 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:39,151 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:42,151 15860 MainThread INFO Begins to Crawl Info, the CmpName:金佳润（厦门）工贸有限公司, CmpId:86915f852d58d83d1f1f861365dad28a 
+2016-10-26 18:05:42,316 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:42,405 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:45,407 15860 MainThread INFO Begins to Crawl Info, the CmpName:德化县聚瓷堂日用陶瓷工艺厂, CmpId:766670449e87309a1f816284d4aa9190 
+2016-10-26 18:05:45,540 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:45,630 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:48,631 15860 MainThread INFO Begins to Crawl Info, the CmpName:平衡力（厦门）机电设备有限公司, CmpId:31a4252cb55f3a5ce77a59aa5e83cae1 
+2016-10-26 18:05:48,786 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:48,874 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:51,875 15860 MainThread INFO Begins to Crawl Info, the CmpName:石狮市登得宝服饰商行, CmpId:5ce002b9c8e2818060871d748ce43015 
+2016-10-26 18:05:52,007 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:52,096 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:55,098 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆八达科技发展有限公司喀什分公司, CmpId:4022df95587462c69d77620e47a9af08 
+2016-10-26 18:05:55,230 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:55,332 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:05:58,334 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆八钢板簧有限公司工贸分公司, CmpId:82995e8ac15e6fc794e98e30ebde71ae 
+2016-10-26 18:05:58,460 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:05:58,551 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:01,552 15860 MainThread INFO Begins to Crawl Info, the CmpName:仙游县臻镒坊佛珠商行, CmpId:80446fbb60f559763fb71d31f8610fcb 
+2016-10-26 18:06:01,724 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:01,818 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:04,819 15860 MainThread INFO Begins to Crawl Info, the CmpName:南安市吉辉卫浴洁具厂, CmpId:dcaf1f67967e27ec89e6c28fd46aa0d8 
+2016-10-26 18:06:04,956 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:05,046 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:08,048 15860 MainThread INFO Begins to Crawl Info, the CmpName:乌鲁木齐市八一面粉厂劳动服务公司白云商店, CmpId:aeb6da184ac8432b1ab4d8fd494f7110 
+2016-10-26 18:06:08,187 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:08,282 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:11,282 15860 MainThread INFO Begins to Crawl Info, the CmpName:泉州玖岱轻纺有限公司, CmpId:430c5c19bee286cf1fd790f63a5c848a 
+2016-10-26 18:06:11,413 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:11,500 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:14,503 15860 MainThread INFO Begins to Crawl Info, the CmpName:中石油新疆销售有限公司喀什分公司莎车迎宾大道加油站, CmpId:04087826bd837ef69e750d9056dada25 
+2016-10-26 18:06:14,641 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:14,732 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:17,733 15860 MainThread INFO Begins to Crawl Info, the CmpName:中石油新疆销售有限公司喀什分公司世纪大道加油站, CmpId:fe14a1a69465b3c34d275265c2bbd7f9 
+2016-10-26 18:06:17,904 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:17,993 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:20,996 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆大地地产评估咨询有限责任公司和田地产评估分公司, CmpId:a2ba5d7196a53fd99694c05361667cc7 
+2016-10-26 18:06:26,171 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:31,267 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:34,269 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆兰通石油机械配件有限公司项目修理分公司, CmpId:a8e351a35d7e81736431cdc93b9549f6 
+2016-10-26 18:06:34,417 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:34,507 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:37,509 15860 MainThread INFO Begins to Crawl Info, the CmpName:泉州市丰泽区博古书斋, CmpId:d2c009fa815b3a4fbc3ffde729173d45 
+2016-10-26 18:06:37,654 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:37,740 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:40,743 15860 MainThread INFO Begins to Crawl Info, the CmpName:福州美丽邦贸易有限公司, CmpId:6ebf28c58b1e81d6d19f3121e00b717c 
+2016-10-26 18:06:46,010 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:46,095 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:49,096 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆乐华国际旅行社有限责任公司乌鲁木齐高新区营业部, CmpId:4f278cc4429c27f9945bb4d7c43d75b7 
+2016-10-26 18:06:49,233 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:49,315 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:52,316 15860 MainThread INFO Begins to Crawl Info, the CmpName:珠海方华医疗投资管理有限公司, CmpId:b0affc46fc82a81f3593ddcccb73cb17 
+2016-10-26 18:06:52,454 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:52,545 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:55,546 15860 MainThread INFO Begins to Crawl Info, the CmpName:珠海华夏医学投资管理有限公司, CmpId:f950fd639a77fc9a73de0899f01837e6 
+2016-10-26 18:06:55,698 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:55,793 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:06:58,795 15860 MainThread INFO Begins to Crawl Info, the CmpName:百色市农业生产资料总公司平洪直销店, CmpId:51dfa5cfb7092b54668ee50004fcc393 
+2016-10-26 18:06:58,941 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:06:59,036 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:02,036 15860 MainThread INFO Begins to Crawl Info, the CmpName:山西鹏天装饰工程有限公司, CmpId:5fb783e93ed47c444d2847f12e033859 
+2016-10-26 18:07:02,180 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:02,270 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:05,273 15860 MainThread INFO Begins to Crawl Info, the CmpName:安康市华龙医药连锁有限责任公司祝尔慷店, CmpId:a8c02ffa9f5267b73949cc618436dc77 
+2016-10-26 18:07:05,413 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:05,500 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:08,500 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西玉林桂冠通讯设备有限公司博白分公司, CmpId:45f829e3e2ec9397a4a4e2102592d2f7 
+2016-10-26 18:07:08,638 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:08,732 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:11,733 15860 MainThread INFO Begins to Crawl Info, the CmpName:动视信息技术（上海）有限公司, CmpId:91d6e6b6aae0c0d76fe8d46399a4357d 
+2016-10-26 18:07:16,924 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:21,908 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:24,911 15860 MainThread INFO Begins to Crawl Info, the CmpName:东莞市普朗斯电子科技有限公司, CmpId:247dd19918c0ddc7cd364c55e75e2865 
+2016-10-26 18:07:25,043 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:25,138 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:28,138 15860 MainThread INFO Begins to Crawl Info, the CmpName:西安宇华建筑安装工程有限公司北川分公司, CmpId:1612d96b56e542a704810bbbe21e319c 
+2016-10-26 18:07:33,335 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:33,424 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:36,427 15860 MainThread INFO Begins to Crawl Info, the CmpName:鹤岗市济世堂医药连锁零售有限公司十五分店, CmpId:8abf6a1cd1aab10efcfc4c82659f5780 
+2016-10-26 18:07:36,545 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:36,627 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:39,628 15860 MainThread INFO Begins to Crawl Info, the CmpName:河南博恩医疗新技术有限公司滑县分公司, CmpId:c74d0d3e9c04c9adf669a74e2fc2eb09 
+2016-10-26 18:07:39,763 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:39,854 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:42,855 15860 MainThread INFO Begins to Crawl Info, the CmpName:福州市台江区一品万达贸易有限公司, CmpId:3972492f9aab037c06549493c09d469c 
+2016-10-26 18:07:48,023 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:48,197 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:51,198 15860 MainThread INFO Begins to Crawl Info, the CmpName:中铝国际山东建设有限公司泰安分公司, CmpId:7b8c5337fe01039beed3198884bbfbde 
+2016-10-26 18:07:51,420 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:51,612 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:54,614 15860 MainThread INFO Begins to Crawl Info, the CmpName:聚采实业（上海）有限公司, CmpId:3094fed308a5e0a7029f80cf3e8796d1 
+2016-10-26 18:07:54,835 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:55,029 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:07:58,029 15860 MainThread INFO Begins to Crawl Info, the CmpName:中国国旅（山西）国际旅行社有限公司孝义分公司, CmpId:1ea4d42853748f0708dcc0f126dbc4e6 
+2016-10-26 18:07:58,253 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:07:58,434 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:01,436 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西防城港市亿源农业科技开发有限责任公司钦州分公司, CmpId:961249068dcf3e3e9d4c9bf20c083c76 
+2016-10-26 18:08:01,671 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:01,901 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:04,903 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连烔天建筑装饰设计工程有限公司旅顺分公司, CmpId:e8ab718017456aa5d43cbf44c290233e 
+2016-10-26 18:08:05,158 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:05,792 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:08,792 15860 MainThread INFO Begins to Crawl Info, the CmpName:广州市经策投资管理有限公司, CmpId:962d67d3070b1f56f00ab0a5e6b8039c 
+2016-10-26 18:08:08,934 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:09,025 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:12,026 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连经济技术开发区兴国超级市场商品供应有限公司, CmpId:76ff280ccd023159edc021d5865d6fdb 
+2016-10-26 18:08:12,178 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:12,279 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:15,280 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京骏东汽车销售服务有限公司, CmpId:ab1cc182097cf649508fedc8d92a6f5b 
+2016-10-26 18:08:15,460 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:15,546 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:18,549 15860 MainThread INFO Begins to Crawl Info, the CmpName:桐乡市花都美新娘婚纱摄影有限公司, CmpId:f5353c75c39b8f9dab0b97ce122fa6c1 
+2016-10-26 18:08:18,654 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:18,734 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:21,736 15860 MainThread INFO Begins to Crawl Info, the CmpName:北宜电子工业（上海）有限公司, CmpId:00b1bfc24448607eaf81c08257b69b4a 
+2016-10-26 18:08:21,892 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:21,987 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:24,989 15860 MainThread INFO Begins to Crawl Info, the CmpName:东营市东营区土地管理局劳动服务公司辛店分公司, CmpId:ec1acbe874ee3c45f00304dcbb469b3d 
+2016-10-26 18:08:25,125 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:25,226 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:28,227 15860 MainThread INFO Begins to Crawl Info, the CmpName:华夏金源（北京）民族医药研究院有限公司, CmpId:0dc1ae63adcdec4e197a0cf41b873fd5 
+2016-10-26 18:08:28,365 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:28,457 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:31,459 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连中兴实业总公司压铸厂, CmpId:48c6d30ff99ff32754cea1ed2083c96c 
+2016-10-26 18:08:31,596 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:31,700 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:34,700 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连中兴实业总公司铆焊厂, CmpId:0d1b2815c8f0e581609a903500314d74 
+2016-10-26 18:08:34,835 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:34,923 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:37,924 15860 MainThread INFO Begins to Crawl Info, the CmpName:天津华文经典图书商贸有限公司八里台新文化广场店, CmpId:3539cdf70e106022461b5a04141ab350 
+2016-10-26 18:08:38,036 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:38,115 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:41,115 15860 MainThread INFO Begins to Crawl Info, the CmpName:天津市滨海新区塘沽宝路达船舶修理有限公司, CmpId:18c3ad29c87ec249ae452e98a4bd6139 
+2016-10-26 18:08:41,240 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:41,316 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:44,318 15860 MainThread INFO Begins to Crawl Info, the CmpName:青岛聚福源工贸有限公司加油站, CmpId:d31c59ca82883eeaf1841bacc50469f8 
+2016-10-26 18:08:44,862 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:44,990 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:47,992 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海嘉成贸易有限公司分公司, CmpId:210f58e2d47bba7af2fe47cd7d6246a4 
+2016-10-26 18:08:48,128 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:48,210 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:51,211 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海劲悦实业有限公司, CmpId:2328f7912bea96ad5232077475be5fa2 
+2016-10-26 18:08:51,335 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:51,417 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:54,418 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海劲萱实业有限公司, CmpId:b2caa3d5032b2c1ae254ae25b668b533 
+2016-10-26 18:08:54,559 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:54,650 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:08:57,651 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西壮族自治区机电设备贵港公司汽车销售部, CmpId:76391f2f057717d1d74d717442275d09 
+2016-10-26 18:08:57,803 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:08:57,887 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:00,888 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海津源环保建材有限公司, CmpId:3ef877a3907887097d47ed2a1f74de1f 
+2016-10-26 18:09:01,081 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:01,157 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:04,157 15860 MainThread INFO Begins to Crawl Info, the CmpName:铁岭市清河区交通货物运输有限公司孙新昊（一）运输户, CmpId:0e561f03fcf2b03ba11b12db23879fb5 
+2016-10-26 18:09:04,299 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:04,390 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:07,391 15860 MainThread INFO Begins to Crawl Info, the CmpName:射阳县惠民农业生产资料有限公司城北分公司, CmpId:74316765b0c7b4db35cf42cea0d274ea 
+2016-10-26 18:09:07,528 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:07,618 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:10,621 15860 MainThread INFO Begins to Crawl Info, the CmpName:三井物产(青岛)有限公司, CmpId:a2c07531df1f485bc2b456f0b7006312 
+2016-10-26 18:09:10,792 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:10,875 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:13,878 15860 MainThread INFO Begins to Crawl Info, the CmpName:东莞市誉宏五金制品有限公司, CmpId:12d83c47ef18a870a2f882deb1e0f743 
+2016-10-26 18:09:14,012 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:14,101 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:17,102 15860 MainThread INFO Begins to Crawl Info, the CmpName:章丘市东辰矿业有限公司, CmpId:51a641dfe3be2deece297f884a089a57 
+2016-10-26 18:09:17,226 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:17,306 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:20,308 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京联合华一电气信息技术有限公司, CmpId:4d0f7e2d61aa5e7276b16f77239b184f 
+2016-10-26 18:09:20,467 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:20,568 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:23,569 15860 MainThread INFO Begins to Crawl Info, the CmpName:陕西浦思金融网络科技有限公司辽宁分公司, CmpId:364fed32f986896b90e5925b523b7240 
+2016-10-26 18:09:23,709 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:23,802 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:26,803 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西荔浦大旺食品有限公司, CmpId:2e9a243d2f5bd931bcc8c7044da95ea8 
+2016-10-26 18:09:26,940 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:27,030 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:30,032 15860 MainThread INFO Begins to Crawl Info, the CmpName:新疆世纪情缘珠宝商贸有限公司, CmpId:c348f093e163ccbc42c28c7e6af08c69 
+2016-10-26 18:09:30,171 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:30,260 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:33,263 15860 MainThread INFO Begins to Crawl Info, the CmpName:阳江市侨雅建筑安装装饰工程有限公司, CmpId:034d02bee4ddc75aba9cf144d3a1af63 
+2016-10-26 18:09:33,398 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:33,494 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:36,496 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海进洋贸易有限公司普陀分公司, CmpId:039c8a9d11077a97e5b93869cc23aee9 
+2016-10-26 18:09:36,634 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:36,717 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:39,719 15860 MainThread INFO Begins to Crawl Info, the CmpName:宝鸡市建筑材料总公司新型装饰材料经营部, CmpId:d80ade20520bd1cded311f0f2a40daee 
+2016-10-26 18:09:39,875 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:39,970 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:42,971 15860 MainThread INFO Begins to Crawl Info, the CmpName:中国科技图书公司上海建筑材料工业学院书亭, CmpId:106e1c98f9f9169767a094bd20f1768a 
+2016-10-26 18:09:43,105 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:43,194 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:46,196 15860 MainThread INFO Begins to Crawl Info, the CmpName:山西太子龙服饰有限公司大同小南街分公司, CmpId:e03d4e187283c13a1954fdfe61afc6d2 
+2016-10-26 18:09:46,336 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:46,424 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:49,426 15860 MainThread INFO Begins to Crawl Info, the CmpName:大同市商贸国有资产经营有限责任公司信息服务分公司, CmpId:568d9108ef611e0a21cb4a579ac34e66 
+2016-10-26 18:09:49,563 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:49,654 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:52,657 15860 MainThread INFO Begins to Crawl Info, the CmpName:昆明纳康科技发展有限公司曲靖分公司, CmpId:c94a52c7a56637c69f429659a7b22647 
+2016-10-26 18:09:52,801 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:09:52,888 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:09:55,890 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京颐尊康体俱乐部有限公司朝阳美容美发分公司, CmpId:5e3128924d91495ec66f706d99641be4 
+2016-10-26 18:10:00,993 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:01,078 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:04,078 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西壮族自治区邮政速递物流有限公司容县营业部, CmpId:38bf28689cea4005628d3014a8131d09 
+2016-10-26 18:10:04,233 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:04,315 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:07,318 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西壮族自治区邮政速递物流有限公司北海市分公司四川路营业部, CmpId:ff72461064d454275157fd4c258860a3 
+2016-10-26 18:10:07,456 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:07,546 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:10,548 15860 MainThread INFO Begins to Crawl Info, the CmpName:中国旅行社总社（上海）有限公司龙茗路营业部, CmpId:05c25bac28576894b8b79074ad9e4553 
+2016-10-26 18:10:10,687 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:10,772 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:13,773 15860 MainThread INFO Begins to Crawl Info, the CmpName:山西晋中开发区远东房地产开发有限责任公司, CmpId:88ea7e828f92dfb7af31ff9e7d549a14 
+2016-10-26 18:10:13,911 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:14,000 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:17,000 15860 MainThread INFO Begins to Crawl Info, the CmpName:中国石油天然气股份有限公司陕西铜川分公司联兴玉华加油站, CmpId:5f3a1f0c046f72a8a914d3d8bf9d36e4 
+2016-10-26 18:10:17,135 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:17,224 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:20,226 15860 MainThread INFO Begins to Crawl Info, the CmpName:贵州新华邦汽车服务有限公司, CmpId:cf76ebcb2e31fc20910aa3d21211c5f4 
+2016-10-26 18:10:20,367 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:20,457 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:23,459 15860 MainThread INFO Begins to Crawl Info, the CmpName:巨星贸易（上海）有限公司青浦分公司, CmpId:ad393a8b2a91ed954f9b860944ef5ec5 
+2016-10-26 18:10:23,601 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:23,688 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:26,690 15860 MainThread INFO Begins to Crawl Info, the CmpName:信恒餐饮管理（上海）有限公司天钥桥店, CmpId:7765893af4cd23720d1a5942d0b7edcd 
+2016-10-26 18:10:26,831 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:26,917 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:29,917 15860 MainThread INFO Begins to Crawl Info, the CmpName:江阴华西新能源投资发展有限公司, CmpId:ce7e8491e59a9a609e726b2380d695e4 
+2016-10-26 18:10:30,065 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:30,148 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:33,148 15860 MainThread INFO Begins to Crawl Info, the CmpName:成都坤耀投资有限责任公司, CmpId:ab9e5180ec9cde12c7e764ee88ddc9be 
+2016-10-26 18:10:33,299 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:33,388 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:36,390 15860 MainThread INFO Begins to Crawl Info, the CmpName:广东阳春市嘉利达食品饮料有限公司, CmpId:a425a0b0a9f9b53572c062206d4ec8ec 
+2016-10-26 18:10:36,526 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:36,615 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:39,617 15860 MainThread INFO Begins to Crawl Info, the CmpName:桃江县景星房地产综合开发有限公司, CmpId:4292ef4603a5fb870145dfe416494f41 
+2016-10-26 18:10:39,752 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:39,838 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:42,839 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市康达国际企业管理服务有限公司, CmpId:35806482e561332ea07b6d9b59a27e33 
+2016-10-26 18:10:42,980 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:43,069 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:46,071 15860 MainThread INFO Begins to Crawl Info, the CmpName:太康县豫康医药连锁有限责任公司同济堂分店, CmpId:daef9d8c9e4321bd50de799a190995a2 
+2016-10-26 18:10:46,209 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:46,299 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:49,301 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京利为汇国际教育科技有限公司, CmpId:8ce15531d0ebe424d429228339a55e04 
+2016-10-26 18:10:49,440 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:49,529 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:52,529 15860 MainThread INFO Begins to Crawl Info, the CmpName:重庆同汇土地房屋勘测规划有限公司, CmpId:99b5206feada422c0a6e5a682616d483 
+2016-10-26 18:10:52,686 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:52,801 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:55,802 15860 MainThread INFO Begins to Crawl Info, the CmpName:湖北省阳新蔚蓝节能科技有限公司, CmpId:37fb2218d919dc327fb0b244a32ccfaa 
+2016-10-26 18:10:55,937 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:56,026 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:10:59,026 15860 MainThread INFO Begins to Crawl Info, the CmpName:湖北桃源生态农业发展有限公司, CmpId:324149779e275b25bd235ee8a1e09ca8 
+2016-10-26 18:10:59,180 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:10:59,273 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:02,273 15860 MainThread INFO Begins to Crawl Info, the CmpName:琴瑞宏丰（北京）投资管理有限公司, CmpId:8101c860cdff8669f899f16c3aa38561 
+2016-10-26 18:11:02,423 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:02,509 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:05,510 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京京城通达商贸有限公司, CmpId:6d441dc5d43470723bdd2b1f87196814 
+2016-10-26 18:11:05,644 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:05,742 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:08,743 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川鑫阳矿业有限责任公司, CmpId:93ba3d981a799b9a8b4bb7a5a9d86bae 
+2016-10-26 18:11:08,885 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:08,973 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:11,973 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川景鑫矿业有限公司, CmpId:6cdad51faefa1f6074bc5f542454e88b 
+2016-10-26 18:11:12,115 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:12,203 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:15,203 15860 MainThread INFO Begins to Crawl Info, the CmpName:铁岭市融利电子科技有限公司, CmpId:53cc68cfcd71541132f77713535b1875 
+2016-10-26 18:11:15,345 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:15,440 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:18,440 15860 MainThread INFO Begins to Crawl Info, the CmpName:广西南宁市纳宝物资回收有限责任公司, CmpId:4d063f631be6348390c679a16cf9625a 
+2016-10-26 18:11:18,576 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:18,667 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:21,670 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市晨志实业有限公司新发分公司, CmpId:066b790d56a25b023a7bfe8e15da354e 
+2016-10-26 18:11:21,858 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:21,941 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:24,941 15860 MainThread INFO Batch Processing Ends
+2016-10-26 18:11:24,944 15860 MainThread INFO Batch Processing Begins
+2016-10-26 18:11:25,680 15860 MainThread INFO Get Companys From ES, And Size is : 100
+2016-10-26 18:11:25,681 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市瑜家网络科技有限公司, CmpId:0473c42a7dcf4f8bc60fa2c5209c3794 
+2016-10-26 18:11:25,865 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:25,954 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:28,956 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海千盏灯国际贸易有限公司, CmpId:56283afb4ad36976c34e8387ef738437 
+2016-10-26 18:11:29,094 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:29,181 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:32,183 15860 MainThread INFO Begins to Crawl Info, the CmpName:聊城市聚集投资咨询有限公司, CmpId:976a4187939f1f08804f542f38d0c3ab 
+2016-10-26 18:11:32,305 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:32,387 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:35,387 15860 MainThread INFO Begins to Crawl Info, the CmpName:成都通利佳科技有限公司, CmpId:98266073ccea09ee2abcf8abb147a581 
+2016-10-26 18:11:35,535 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:35,630 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:38,631 15860 MainThread INFO Begins to Crawl Info, the CmpName:安岳县恒通金属回收有限责任公司岳阳八门市, CmpId:709c49f3f046ad0bfeb37def9554faac 
+2016-10-26 18:11:43,884 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:43,987 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:46,989 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川苍溪农村商业银行股份有限公司文昌支行, CmpId:11313a7cc9d379e356fb8f59b6530579 
+2016-10-26 18:11:47,158 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:47,246 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:50,247 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川苍溪农村商业银行股份有限公司歧坪支行, CmpId:684de7271c63eadd5da810dd382827f4 
+2016-10-26 18:11:50,390 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:50,476 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:53,477 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川苍溪农村商业银行股份有限公司龙王支行, CmpId:530727a4969c551790092b479e4000f0 
+2016-10-26 18:11:53,619 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:53,710 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:56,711 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市洪涛装饰股份有限公司东莞分公司, CmpId:23c1300d204f3464277e4069b5ca1634 
+2016-10-26 18:11:56,862 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:11:56,953 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:11:59,953 15860 MainThread INFO Begins to Crawl Info, the CmpName:湖州中植永兴达投资管理有限公司, CmpId:4dd9e6a7d476fce62f1708646c49dc15 
+2016-10-26 18:12:00,098 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:00,186 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:03,187 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市华江南建材有限公司, CmpId:84916ce735ee195c77fb87151510533c 
+2016-10-26 18:12:03,326 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:03,415 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:06,417 15860 MainThread INFO Begins to Crawl Info, the CmpName:济宁辰光杰科特煤化有限公司, CmpId:97a1d6fe5fd3e92253eab25eb9a31f4d 
+2016-10-26 18:12:06,562 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:06,651 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:09,651 15860 MainThread INFO Begins to Crawl Info, the CmpName:金茂(上海）置业有限公司, CmpId:b9af514c4b790cc3a18ab8ef5a830968 
+2016-10-26 18:12:09,798 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:09,884 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:12,885 15860 MainThread INFO Begins to Crawl Info, the CmpName:南宁市胜味香食品有限公司柳南高速公路宾阳服务区东区店, CmpId:24511bc21934665976d5f86de2deeca5 
+2016-10-26 18:12:13,036 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:13,148 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:16,150 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海烟草集团青浦烟草糖酒有限公司四分店, CmpId:1157ffea4b0544cca1d5a3c50476c242 
+2016-10-26 18:12:16,286 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:16,375 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:19,377 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海烟草集团青浦烟草糖酒有限公司金叶贸易分公司, CmpId:856605e257d1aaf3d79fb42e7e5ff2fe 
+2016-10-26 18:12:24,522 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:24,609 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:27,611 15860 MainThread INFO Begins to Crawl Info, the CmpName:苏州市吴门经济发展总公司江南工贸实业公司丝绸纺织经营部, CmpId:ed812c513ac7ef3b78419a6d9f5e60f7 
+2016-10-26 18:12:27,762 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:27,848 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:30,849 15860 MainThread INFO Begins to Crawl Info, the CmpName:长治市紫光房地产开发有限公司潞城市分公司, CmpId:2ba27167a737d19bce40b8f82c0627ae 
+2016-10-26 18:12:31,056 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:31,181 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:34,184 15860 MainThread INFO Begins to Crawl Info, the CmpName:哈尔滨塑五有限公司集贤分公司, CmpId:c42f052482b43add5fe21e6a251467ef 
+2016-10-26 18:12:34,328 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:34,418 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:37,420 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市东彩源印刷包装有限公司, CmpId:a287fc8335fe997c81760cfd9e6d3279 
+2016-10-26 18:12:37,553 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:37,654 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:40,654 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市智强奇彩印刷设计有限公司东莞分公司, CmpId:ebd346ddbf0560fc407c370baa010b26 
+2016-10-26 18:12:40,801 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:40,887 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:43,888 15860 MainThread INFO Begins to Crawl Info, the CmpName:广东中南建设物业发展总公司北京工程处, CmpId:220a52db3f8df393d0ef4231cb4ddc75 
+2016-10-26 18:12:44,022 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:44,115 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:47,115 15860 MainThread INFO Begins to Crawl Info, the CmpName:青铜峡市长明天然气有限公司, CmpId:35993eaabe02b8749e64b92d7c0fd7c6 
+2016-10-26 18:12:47,252 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:47,344 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:50,345 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京亿万德商贸有限公司, CmpId:b413280f3982abb68e7585d50f9d7c88 
+2016-10-26 18:12:50,489 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:50,581 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:53,582 15860 MainThread INFO Begins to Crawl Info, the CmpName:河南地久置业有限公司洛阳市滨河新村售房部, CmpId:96185adf45c0ecaaf8881b622dcf6105 
+2016-10-26 18:12:53,723 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:53,813 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:12:56,815 15860 MainThread INFO Begins to Crawl Info, the CmpName:广州市飞特天源环保科技有限公司, CmpId:30f3804c929a2c88a46fd4461e83d361 
+2016-10-26 18:12:56,947 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:12:57,036 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:00,036 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市五冶机电安装有限公司东莞分公司, CmpId:86e27be2a79023e6253e3ebf4032585b 
+2016-10-26 18:13:00,186 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:00,275 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:03,276 15860 MainThread INFO Begins to Crawl Info, the CmpName:贵州长城建筑设计有限责任公司都匀分公司, CmpId:54658102f80566e5cd82bf49c97e0cb7 
+2016-10-26 18:13:03,418 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:08,805 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:11,806 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川华荣旅游有限责任公司南方旅游部, CmpId:f5647afcd1e64a0a068fe48cc45fbcf9 
+2016-10-26 18:13:11,979 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:12,061 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:15,061 15860 MainThread INFO Begins to Crawl Info, the CmpName:青岛高科技工业园爱迪克森工贸有限公司木业分公司, CmpId:1c042790d04d5a758e92173388723377 
+2016-10-26 18:13:15,207 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:15,292 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:18,293 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海欢沁餐饮管理有限公司, CmpId:2ed5f854254cd7706b1a1dfd8ad1554b 
+2016-10-26 18:13:18,434 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:18,555 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:21,558 15860 MainThread INFO Begins to Crawl Info, the CmpName:河南中天圣宇文化传播有限公司, CmpId:5e655648d9b5be76a9489d61c31ae0eb 
+2016-10-26 18:13:21,700 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:21,795 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:24,795 15860 MainThread INFO Begins to Crawl Info, the CmpName:辽宁千业商贸有限公司杭州拱墅分公司, CmpId:371b458a8a8d923b782a9a763dcc5d3d 
+2016-10-26 18:13:24,910 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:24,990 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:27,990 15860 MainThread INFO Begins to Crawl Info, the CmpName:辽宁千业商贸有限公司大连开发区分公司, CmpId:60e807591edadf0eb474c22f9c148220 
+2016-10-26 18:13:28,134 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:28,221 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:31,223 15860 MainThread INFO Begins to Crawl Info, the CmpName:下一站信息技术（上海）有限公司北京分公司, CmpId:ccc2f4c9f1df3ac5be392c5ef61698c1 
+2016-10-26 18:13:31,357 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:31,441 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:34,443 15860 MainThread INFO Begins to Crawl Info, the CmpName:延津县天苑商贸有限公司, CmpId:ce1ec6e4ddbba9a8da941f5ae90bc1f6 
+2016-10-26 18:13:34,575 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:34,651 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:37,653 15860 MainThread INFO Begins to Crawl Info, the CmpName:兰考县园林木业有限公司, CmpId:54899c678969bc44c47ba322c85a5284 
+2016-10-26 18:13:37,809 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:37,904 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:40,905 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海罗神服饰有限公司分公司, CmpId:aa245f98734b5b3cd86b633eca6d3358 
+2016-10-26 18:13:41,048 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:41,135 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:44,138 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海醉佳餐饮有限公司, CmpId:ba398c363ee433478e250dc64e00eca3 
+2016-10-26 18:13:44,283 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:44,371 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:47,372 15860 MainThread INFO Begins to Crawl Info, the CmpName:海南锐昌节能环保科技发展有限公司, CmpId:c66e97de34925db94bf12b374a5d0ca6 
+2016-10-26 18:13:47,517 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:47,611 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:50,611 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连新博文科技有限公司, CmpId:9a939527eda79739eac15235ff010587 
+2016-10-26 18:13:50,770 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:50,864 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:53,864 15860 MainThread INFO Begins to Crawl Info, the CmpName:济南东宇商贸有限公司, CmpId:e20ca94e3458fd8e9d105d2110cbf653 
+2016-10-26 18:13:54,013 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:54,144 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:13:57,145 15860 MainThread INFO Begins to Crawl Info, the CmpName:孝义市新型电力变压器制造有限公司太原分公司, CmpId:6eb7c56ee897a17c4d6c17801c2b0581 
+2016-10-26 18:13:57,282 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:13:57,388 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:00,388 15860 MainThread INFO Begins to Crawl Info, the CmpName:中佳华美（北京）投资咨询有限公司, CmpId:e20093046373740ab6ca58db28c9357d 
+2016-10-26 18:14:00,555 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:00,654 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:03,655 15860 MainThread INFO Begins to Crawl Info, the CmpName:广州万达广场商业物业管理有限公司, CmpId:c5dfb97dad4c736f94945095eba1ac19 
+2016-10-26 18:14:03,816 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:03,904 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:06,904 15860 MainThread INFO Begins to Crawl Info, the CmpName:湖南省湘潭市莲乡仓储物流有限责任公司, CmpId:88c74ffe855e98be549920fcb216b0ae 
+2016-10-26 18:14:07,039 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:07,132 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:10,134 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连长兴岛临港工业区新城电力安装有限公司, CmpId:355357865a975b76008e936a0a4ce620 
+2016-10-26 18:14:10,273 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:10,364 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:13,365 15860 MainThread INFO Begins to Crawl Info, the CmpName:延安市建筑安装工程公司绵阳分公司, CmpId:1a6e806c77855ccb43cbf42cacb34e95 
+2016-10-26 18:14:18,476 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:23,561 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:26,562 15860 MainThread INFO Begins to Crawl Info, the CmpName:苏州市恒孚首饰集团有限公司观前分店, CmpId:c5506214a655de97e2c7d98e54eaa421 
+2016-10-26 18:14:26,710 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:26,808 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:29,809 15860 MainThread INFO Begins to Crawl Info, the CmpName:苏州市恒孚首饰集团有限公司张家港分店, CmpId:c6b520ceae64a55448dbd29a6d553545 
+2016-10-26 18:14:29,953 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:30,045 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:33,046 15860 MainThread INFO Begins to Crawl Info, the CmpName:云南鸿翔一心堂药业(集团)股份有限公司昆明虹山西路连锁店, CmpId:d702386519915060c33f14e2062cca34 
+2016-10-26 18:14:33,197 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:33,296 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:36,298 15860 MainThread INFO Begins to Crawl Info, the CmpName:张家口风火网络科技有限公司黑蜘蛛分店, CmpId:81780d71e43b7357813ffcf0b93297d3 
+2016-10-26 18:14:36,437 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:36,828 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:39,828 15860 MainThread INFO Begins to Crawl Info, the CmpName:河北翰古易股权投资基金管理有限公司石家庄分公司, CmpId:55f09d07bb905e94af45cea5f0e023ed 
+2016-10-26 18:14:39,963 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:40,052 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:43,053 15860 MainThread INFO Begins to Crawl Info, the CmpName:泸州宝光药房连锁有限公司龙马潭区石洞分店, CmpId:119a946f1591125fb8342b15f375b3e2 
+2016-10-26 18:14:43,193 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:43,292 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:46,293 15860 MainThread INFO Begins to Crawl Info, the CmpName:四川省成都市煤建有限责任公司第一分公司, CmpId:9acc8485409078049be6171c7c95139e 
+2016-10-26 18:14:46,426 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:46,515 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:49,515 15860 MainThread INFO Begins to Crawl Info, the CmpName:河北省物产企业(集团)公司物资储运公司(河北省物资储运总公司), CmpId:e1b2c226ffe48e0fcf31c5c62122c909 
+2016-10-26 18:14:49,657 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:49,746 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:52,747 15860 MainThread INFO Begins to Crawl Info, the CmpName:河南丰业建筑劳务有限公司, CmpId:c43ed2bcd6043a7c0a16f39a24d1b6fc 
+2016-10-26 18:14:52,885 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:52,976 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:55,977 15860 MainThread INFO Begins to Crawl Info, the CmpName:河南民业建筑劳务有限公司, CmpId:220a98e9b901941a66eef48947e131e9 
+2016-10-26 18:14:56,132 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:56,217 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:14:59,217 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海洲环信息技术有限公司, CmpId:fcdbcc90b744588bb9f5968dd8b3a279 
+2016-10-26 18:14:59,355 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:14:59,739 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:02,756 15860 MainThread INFO Begins to Crawl Info, the CmpName:平顶山市驿马旅行社有限责任公司光明路服务网点, CmpId:b1524001e352c8eceee59cc1e12f4708 
+2016-10-26 18:15:02,888 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:02,979 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:05,980 15860 MainThread INFO Begins to Crawl Info, the CmpName:白城市同泰药业有限公司麻纺路医药经销部, CmpId:dac0a98da53d9b05b15855ed6b9a261e 
+2016-10-26 18:15:06,201 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:11,407 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:14,407 15860 MainThread INFO Begins to Crawl Info, the CmpName:江西穗丰农药化工有限公司幽兰鑫农连锁店, CmpId:1ac7304f297c64fe83582c600fbef9f3 
+2016-10-26 18:15:14,552 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:14,641 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:17,644 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京京哈教育科技有限公司赤坎康顺分公司, CmpId:81a8bb8253fbb0a4e3664e3c8ed5013b 
+2016-10-26 18:15:17,782 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:17,875 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:20,875 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京通盈盛创影视文化传媒有限公司, CmpId:79d844185d5b12615289ae90044762d5 
+2016-10-26 18:15:20,996 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:21,069 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:24,069 15860 MainThread INFO Begins to Crawl Info, the CmpName:广州市奥来安汽车配件有限公司, CmpId:6914395b350156b5cf74e585b29c99ce 
+2016-10-26 18:15:24,220 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:24,309 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:27,309 15860 MainThread INFO Begins to Crawl Info, the CmpName:广州市安泰中信汽车配件有限公司, CmpId:d33a2ad94c069cecde912d0d75134bc3 
+2016-10-26 18:15:27,474 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:27,581 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:30,582 15860 MainThread INFO Begins to Crawl Info, the CmpName:重庆渝江汽车租赁有限公司, CmpId:c13fd8e6a2587391440972e82a258941 
+2016-10-26 18:15:30,723 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:30,813 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:33,815 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海伽美服饰有限公司苏州万达广场店, CmpId:cc292134dc5dcc4442d59a3f3a9ee571 
+2016-10-26 18:15:33,959 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:39,029 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:42,032 15860 MainThread INFO Begins to Crawl Info, the CmpName:清净堂微衡（天津）文化传播有限公司, CmpId:303dcbf9ac3f062f3d602422e47c1e1e 
+2016-10-26 18:15:47,171 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:52,272 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:55,273 15860 MainThread INFO Begins to Crawl Info, the CmpName:博胜嘉悦（北京）科技有限公司, CmpId:c4c46f513886ab4dfe7f3d0ed1348755 
+2016-10-26 18:15:55,414 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:55,493 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:15:58,494 15860 MainThread INFO Begins to Crawl Info, the CmpName:豪嘉利（天津）机械成套设备贸易有限公司, CmpId:3297b644524f182cacc5dbfa52c53a8c 
+2016-10-26 18:15:58,612 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:15:58,694 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:01,696 15860 MainThread INFO Begins to Crawl Info, the CmpName:辽宁省粮油食品发展公司直属粮库陵东经销部, CmpId:7ea262ab548f5751a9940003d837b955 
+2016-10-26 18:16:01,828 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:01,904 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:04,904 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海盛来服饰有限公司第一分公司, CmpId:ea91b4fae5677f1445b9cab7812bde47 
+2016-10-26 18:16:05,046 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:14,990 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:17,992 15860 MainThread INFO Begins to Crawl Info, the CmpName:湛江市赤坎大天然海鲜居有限公司, CmpId:6af7e7a2266eb693ef1e3fd2f5478edc 
+2016-10-26 18:16:18,131 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:23,219 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:26,220 15860 MainThread INFO Begins to Crawl Info, the CmpName:深圳市超音速电子有限公司西安分公司, CmpId:b8bd548fa27cbfd880f32016114f9912 
+2016-10-26 18:16:26,367 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:26,448 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:29,450 15860 MainThread INFO Begins to Crawl Info, the CmpName:湖北省齐源融众金融信息服务有限公司襄阳分公司, CmpId:1506974ad24182a2299248a530055154 
+2016-10-26 18:16:29,584 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:29,665 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:32,667 15860 MainThread INFO Begins to Crawl Info, the CmpName:威海金马门窗工业有限公司, CmpId:dd8d944dd62ae753d82e6ca6b0ce5f4d 
+2016-10-26 18:16:32,809 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:32,894 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:35,894 15860 MainThread INFO Begins to Crawl Info, the CmpName:新日石日蓬（上海）贸易有限公司分公司, CmpId:8fa38d56e8356e6ef9d0f4746fca81f4 
+2016-10-26 18:16:36,032 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:36,115 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:39,115 15860 MainThread INFO Begins to Crawl Info, the CmpName:石嘴山市惠农区长兴石油有限公司红果子加油站, CmpId:960c546b3224785169f006485f8d5ead 
+2016-10-26 18:16:39,256 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:39,345 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:42,348 15860 MainThread INFO Begins to Crawl Info, the CmpName:池州市贵池供销商业公司布匹门市部, CmpId:f31b4c9f3ac05405a65c7feea7abf55e 
+2016-10-26 18:16:42,486 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:42,575 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:45,576 15860 MainThread INFO Begins to Crawl Info, the CmpName:池州市贵池供销商业公司土产门市部, CmpId:57ffe9ab6c8ba800b5019d66e82e9136 
+2016-10-26 18:16:45,717 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:45,801 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:48,801 15860 MainThread INFO Begins to Crawl Info, the CmpName:池州市贵池供销商业公司五里分店, CmpId:ed9166621ff251a4daa4a660e05ec4aa 
+2016-10-26 18:16:48,940 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:49,032 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:52,035 15860 MainThread INFO Begins to Crawl Info, the CmpName:营口东和服装有限公司盖州分厂, CmpId:d28df45a14e3a22d24b2fe2f9eba8aa7 
+2016-10-26 18:16:52,178 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:52,269 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:55,269 15860 MainThread INFO Begins to Crawl Info, the CmpName:西安人众人企业管理咨询有限公司, CmpId:cdce394866e832efe951255dd96968df 
+2016-10-26 18:16:55,414 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:55,496 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:16:58,496 15860 MainThread INFO Begins to Crawl Info, the CmpName:吉林省欧美亚经贸有限公司, CmpId:50b3ae743fa00dca6f25a032157dc699 
+2016-10-26 18:16:58,657 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:16:58,743 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:01,744 15860 MainThread INFO Begins to Crawl Info, the CmpName:颖臣机械（上海）有限公司, CmpId:c848255f3e0d08f0aaf6a4ba5258872c 
+2016-10-26 18:17:01,907 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:01,993 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:04,993 15860 MainThread INFO Begins to Crawl Info, the CmpName:煦风信息技术（上海）有限公司, CmpId:cd9cd27ae9f030224103c52b8591592a 
+2016-10-26 18:17:05,131 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:05,220 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:08,221 15860 MainThread INFO Begins to Crawl Info, the CmpName:鹰眼投资管理（上海）有限公司, CmpId:cf32d423a422ae1b3b93461b0371daf7 
+2016-10-26 18:17:08,480 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:08,608 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:11,608 15860 MainThread INFO Begins to Crawl Info, the CmpName:生生不息文化传播（上海）有限公司, CmpId:2e3255493783ea907238e14b9e7352af 
+2016-10-26 18:17:11,757 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:11,848 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:14,849 15860 MainThread INFO Begins to Crawl Info, the CmpName:大连恒通华成汽车贸易有限公司, CmpId:d351eba3a301291c82ee188c9a2f3566 
+2016-10-26 18:17:14,986 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:15,073 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:18,075 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海法昂餐饮管理有限公司高科西路店, CmpId:2e078f000e685a5206e4afd5061351ee 
+2016-10-26 18:17:18,216 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:18,308 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:21,309 15860 MainThread INFO Begins to Crawl Info, the CmpName:阜阳市昌达实业有限公司青年路烟酒门市部, CmpId:f77f9d25ddf6874f9217e636ab5f6c7e 
+2016-10-26 18:17:21,453 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:21,538 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:24,538 15860 MainThread INFO Begins to Crawl Info, the CmpName:本溪宏远集团南地再生资源有限责任公司石子收购站, CmpId:33e99475967cbbf035598414cd225497 
+2016-10-26 18:17:24,684 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:24,828 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:27,829 15860 MainThread INFO Begins to Crawl Info, the CmpName:上海苏武牧羊餐饮管理有限公司金桥分公司, CmpId:e911295ed664f78a65f2e8bc673004cc 
+2016-10-26 18:17:27,969 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:28,052 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:31,053 15860 MainThread INFO Begins to Crawl Info, the CmpName:昇鸿（上海）物流咨询有限公司, CmpId:26cf32ddfcf998323c471f82fd708d43 
+2016-10-26 18:17:31,216 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:31,298 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:34,299 15860 MainThread INFO Begins to Crawl Info, the CmpName:陕西博士通汽车服务有限公司, CmpId:31a219c4ca0364d7a6d11ffde314e956 
+2016-10-26 18:17:34,440 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:34,522 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:37,523 15860 MainThread INFO Begins to Crawl Info, the CmpName:北京中艺宏源餐饮管理有限公司, CmpId:f69ff0ee0ce2fbb157648d338b6a8c1b 
+2016-10-26 18:17:37,660 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:42,628 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:45,630 15860 MainThread INFO Begins to Crawl Info, the CmpName:济南时装总公司正泰服装公司泰安正泰商场, CmpId:eb278da6a4252e3420b9cae15b2c59b5 
+2016-10-26 18:17:45,776 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:45,865 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:48,867 15860 MainThread INFO Begins to Crawl Info, the CmpName:晋江市福大服装织造有限公司, CmpId:cf2064b241799a6fc6d30e0516d5ffc1 
+2016-10-26 18:17:49,006 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:49,094 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:52,095 15860 MainThread INFO Begins to Crawl Info, the CmpName:优传供应链（大连）有限公司, CmpId:2c63e12ee903e62d4924b1e81bb79e90 
+2016-10-26 18:17:52,273 15860 MainThread INFO Page Parsed Successfully
+2016-10-26 18:17:52,359 15860 MainThread INFO Info Crawled Successfully
+2016-10-26 18:17:55,361 15860 MainThread INFO Batch Processing Ends
+2016-10-26 18:17:55,364 15860 MainThread INFO Batch Processing Begins
+2016-10-27 18:26:40,690 18500 MainThread INFO Batch Processing Begins
+2016-10-27 18:26:41,799 18500 MainThread INFO Get Companies From ES, And Size is : 100
+2016-10-27 18:26:41,799 18500 MainThread INFO Begins to Crawl Info, the CmpName:东营晓鸣化工有限责任公司垦利分公司, CmpId:499775863510c7708209dc03fa7d4ad1 
+2016-10-27 18:26:42,186 18500 MainThread INFO Page Parsed Successfully
+2016-10-27 18:26:42,486 18500 MainThread INFO Info Crawled Successfully
+2016-10-27 18:26:45,487 18500 MainThread INFO Begins to Crawl Info, the CmpName:上海瀚阳国际货运代理有限公司杭州分公司, CmpId:00edc09cba86acb717f09fff52d2c89f 
+2016-10-27 18:26:45,747 18500 MainThread INFO Page Parsed Successfully
+2016-10-27 18:26:45,937 18500 MainThread INFO Info Crawled Successfully
+2016-10-27 18:26:48,938 18500 MainThread INFO Begins to Crawl Info, the CmpName:深圳市创贝特电子有限公司, CmpId:85311f230ef8afb743ead92946035529 
+2016-10-27 18:26:49,181 18500 MainThread INFO Page Parsed Successfully
+2016-10-27 18:26:49,345 18500 MainThread INFO Info Crawled Successfully
+2016-10-27 18:26:52,346 18500 MainThread INFO Begins to Crawl Info, the CmpName:深圳市胜创特电子有限公司, CmpId:40e095d4298791b12a6815add9680120 
+2016-11-03 17:58:27,533 21768 MainThread ERROR Exception occurs when executing statements
+Traceback (most recent call last):
+  File "E:\drdata\crawling\persist\dbhelper.py", line 67, in execute
+    cursor.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'set parsed_content = '[{\"\\u8f6f\\u4ef6\\u7b80\\u79f0\": null, \"\\u7248\\u672c' at line 1
+2016-11-03 17:58:27,584 21768 MainThread ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'set parsed_content = '[{\"\\u8f6f\\u4ef6\\u7b80\\u79f0\": null, \"\\u7248\\u672c' at line 1
+Traceback (most recent call last):
+  File "E:\drdata\crawling\persist\dbhelper.py", line 67, in execute
+    cursor.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'set parsed_content = '[{\"\\u8f6f\\u4ef6\\u7b80\\u79f0\": null, \"\\u7248\\u672c' at line 1
+2016-11-03 18:05:32,421 22440 MainThread INFO Batch Processing Begins
+2016-11-03 18:05:33,829 22440 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:05:33,831 22440 MainThread INFO Begins to Crawl Info, the CmpName:合川区浩文汽车信息咨询服务部, CmpId:3e3de4f79f62848a79655d65fa67e6be 
+2016-11-03 18:05:33,834 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:33,924 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:05:34,187 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:34,275 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:37,276 22440 MainThread INFO Begins to Crawl Info, the CmpName:丰都县燎原汽车装饰经营部, CmpId:0a3647cf8aa387c47c0c275d865366b0 
+2016-11-03 18:05:37,279 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:37,331 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:05:37,533 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:37,609 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:40,611 22440 MainThread INFO Begins to Crawl Info, the CmpName:东莞宜田打印耗材有限公司, CmpId:40010f9387d9e72644b4276fa52836b6 
+2016-11-03 18:05:40,615 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:40,703 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:05:40,914 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:41,003 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:44,003 22440 MainThread INFO Begins to Crawl Info, the CmpName:广州绿保节能科技有限公司, CmpId:c5168a838cc840136a629f26041513a9 
+2016-11-03 18:05:44,006 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:44,066 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:05:44,312 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:44,394 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:47,395 22440 MainThread INFO Begins to Crawl Info, the CmpName:石柱土家族自治县森泉酒店, CmpId:62e4ccfe8f6b2f787651f5ee3f11fd07 
+2016-11-03 18:05:47,398 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:47,436 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:05:47,706 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:47,796 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:50,798 22440 MainThread INFO Begins to Crawl Info, the CmpName:彭水县容涛副食店, CmpId:57ad8bdc1d2d800c71b1ada0139f8938 
+2016-11-03 18:05:50,801 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:50,895 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:05:52,492 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:52,882 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:55,884 22440 MainThread INFO Begins to Crawl Info, the CmpName:韶关市第一运输公司, CmpId:1af1f6b5d183491ff7d92b22d8a7cfaf 
+2016-11-03 18:05:55,887 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:55,937 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:05:56,158 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:05:56,565 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:05:59,566 22440 MainThread INFO Begins to Crawl Info, the CmpName:荣昌县昌元街道成敏食品店, CmpId:448afb21e0fd2b615c0c7c090c42d993 
+2016-11-03 18:05:59,569 22440 MainThread INFO start to get proxyip
+2016-11-03 18:05:59,607 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:05:59,805 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:06:00,216 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:06:03,217 22440 MainThread INFO Begins to Crawl Info, the CmpName:荣昌区峰高街道吴二姐饭店, CmpId:31ab6481344434804afca52499682160 
+2016-11-03 18:06:03,220 22440 MainThread INFO start to get proxyip
+2016-11-03 18:06:03,299 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:06:03,448 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:06:03,546 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:06:06,549 22440 MainThread INFO Begins to Crawl Info, the CmpName:彭水县双双副食店, CmpId:722248f63bb18a12df7d032cf8e4d903 
+2016-11-03 18:06:06,551 22440 MainThread INFO start to get proxyip
+2016-11-03 18:06:06,647 22440 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:06:06,841 22440 MainThread INFO Page Parsed Successfully
+2016-11-03 18:06:06,927 22440 MainThread INFO Info Crawled Successfully
+2016-11-03 18:07:44,096 22264 MainThread INFO Batch Processing Begins
+2016-11-03 18:07:45,119 22264 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:07:45,121 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头轻工业机械厂, CmpId:b3661d6ece33a00e3a547b9feae9efe1 
+2016-11-03 18:07:45,124 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:45,259 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:07:45,426 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:45,427 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头经济特区协联经济发展公司雅典奴西餐厅, CmpId:1482c90cf961e4a9ce2744922ac195aa 
+2016-11-03 18:07:45,428 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:45,505 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:48,667 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:48,667 22264 MainThread INFO Begins to Crawl Info, the CmpName:云阳县南溪镇蔡豆腐, CmpId:adb5a28700be4c8805e346841b0c3de7 
+2016-11-03 18:07:48,671 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:48,759 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:07:48,924 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:48,924 22264 MainThread INFO Begins to Crawl Info, the CmpName:秀山县渝湘阁食府, CmpId:573c13d19bf8818c17d8ed0ad7aaddcb 
+2016-11-03 18:07:48,927 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:48,984 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:49,197 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:49,197 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮阳市弗兰克保税油库有限公司, CmpId:e25b29fb962fa27ff521b5c0911c1c8a 
+2016-11-03 18:07:49,197 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:49,292 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:49,411 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:49,411 22264 MainThread INFO Begins to Crawl Info, the CmpName:黔江区嘉顺印刷厂, CmpId:5790f1f141940e74502047bad3ed9998 
+2016-11-03 18:07:49,414 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:49,473 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:49,634 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:49,634 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮阳市和平五金厂, CmpId:dddce2cdcffe605283a606532ee90085 
+2016-11-03 18:07:49,637 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:49,673 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:49,790 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:49,792 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮阳市灶浦中贸工业发展公司英德机绣服装厂, CmpId:b2c523248c7cd1d11be351601ba87984 
+2016-11-03 18:07:49,793 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:49,888 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:50,009 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:50,010 22264 MainThread INFO Begins to Crawl Info, the CmpName:高新技术产业开发区阿敏机电设备经营部, CmpId:8962d4c40d10424fa9a0f8d836a4cf40 
+2016-11-03 18:07:50,013 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:50,049 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:07:50,446 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:50,447 22264 MainThread INFO Begins to Crawl Info, the CmpName:澄海市莲华生物药制厂, CmpId:aa38982be2d4ed0521b721cb5d100044 
+2016-11-03 18:07:50,448 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:50,533 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:50,930 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:50,931 22264 MainThread INFO Begins to Crawl Info, the CmpName:忠县康明面馆, CmpId:15f6dc3caae5c0f8f863cd49f089a630 
+2016-11-03 18:07:50,934 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:51,056 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:07:51,186 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:51,187 22264 MainThread INFO Begins to Crawl Info, the CmpName:顺德市乐从镇小涌油料化工厂门市部, CmpId:7324b9b896ca9eae7842fde92f97d8a9 
+2016-11-03 18:07:51,190 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:51,283 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:07:51,411 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:51,413 22264 MainThread INFO Begins to Crawl Info, the CmpName:顺德市钢铁中心物资公司, CmpId:2e9798236fc016d55a8ac3a254d97671 
+2016-11-03 18:07:51,414 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:51,641 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:51,750 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:51,750 22264 MainThread INFO Begins to Crawl Info, the CmpName:顺德市容奇机械厂, CmpId:6b2720571a445d0b0e7a2fb2b4d6a3c5 
+2016-11-03 18:07:51,753 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:51,808 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:07:51,934 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:51,934 22264 MainThread INFO Begins to Crawl Info, the CmpName:江北区法蝶餐厅, CmpId:c14636d07b99d09ecafe8b5464ab7eea 
+2016-11-03 18:07:51,937 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:51,973 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:52,141 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:52,142 22264 MainThread INFO Begins to Crawl Info, the CmpName:高新技术产业开发区喵爪餐馆, CmpId:10417349b871f5356745602eb383154d 
+2016-11-03 18:07:52,144 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:52,220 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:07:52,335 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:52,336 22264 MainThread INFO Begins to Crawl Info, the CmpName:南岸区小蜜蜂汽车美容服务中心, CmpId:74ce4d76a59d964834f44271ef787298 
+2016-11-03 18:07:52,338 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:52,368 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:52,466 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:52,466 22264 MainThread INFO Begins to Crawl Info, the CmpName:渝北区祥瑞广告经营部, CmpId:659883b9a5dceb964c3450dc85f9d3f7 
+2016-11-03 18:07:52,467 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:52,510 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:52,625 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:52,625 22264 MainThread INFO Begins to Crawl Info, the CmpName:佛山市港达贸易有限公司, CmpId:beb075d8f625ff001e800f7907bfcbea 
+2016-11-03 18:07:52,628 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:52,845 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:07:52,960 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:52,961 22264 MainThread INFO Begins to Crawl Info, the CmpName:秀山县过桥村过桥米线餐饮店, CmpId:93a5e46527487fd9cdaa57fc66cee063 
+2016-11-03 18:07:52,963 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:53,006 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:53,122 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:53,124 22264 MainThread INFO Begins to Crawl Info, the CmpName:高明市西苑皇宫大酒店, CmpId:b4fcd8964aaa58e8e29edb0c510f00a4 
+2016-11-03 18:07:53,125 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:53,174 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:53,305 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:53,305 22264 MainThread INFO Begins to Crawl Info, the CmpName:江津区三十四度奶茶店, CmpId:26fa51cb039e6cb8e63f080beddb8710 
+2016-11-03 18:07:53,309 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:53,398 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:07:54,286 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:54,286 22264 MainThread INFO Begins to Crawl Info, the CmpName:忠县丰收场袁豆腐食品店, CmpId:ff851158b405077633e232a14a41979a 
+2016-11-03 18:07:54,289 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:54,325 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:54,440 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:54,440 22264 MainThread INFO Begins to Crawl Info, the CmpName:云阳县高阳镇陈明祥炸鸡店, CmpId:6f93f8be357bf2e020be776d96cf2e5a 
+2016-11-03 18:07:54,443 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:54,522 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:54,634 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:54,635 22264 MainThread INFO Begins to Crawl Info, the CmpName:长寿区廖阳豆花馆, CmpId:c3fcc65a49bad809bd0ec713d32705e1 
+2016-11-03 18:07:54,638 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:54,677 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:54,799 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:54,801 22264 MainThread INFO Begins to Crawl Info, the CmpName:云阳县渠马镇邓小兵副食店, CmpId:a0cb05d105758cd077cd445db5ff74bc 
+2016-11-03 18:07:54,803 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:54,862 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:54,971 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:54,973 22264 MainThread INFO Begins to Crawl Info, the CmpName:新会市双水镇建委液化石油气储配站永安供应店, CmpId:1b4b289da8fa655da4722d9cdd35f308 
+2016-11-03 18:07:54,976 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:55,096 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:07:55,219 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:55,220 22264 MainThread INFO Begins to Crawl Info, the CmpName:石柱土家族自治县伴身原发艺店, CmpId:4f5f005f509bfaa096b0adf36c974de0 
+2016-11-03 18:07:55,221 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:55,257 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:55,372 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:55,374 22264 MainThread INFO Begins to Crawl Info, the CmpName:台山市水步镇冈宁振兴色纸厂, CmpId:91d4dd92df3b22e3ed598aff579d9760 
+2016-11-03 18:07:55,375 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:55,407 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:07:55,517 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:55,519 22264 MainThread INFO Begins to Crawl Info, the CmpName:江津区陈洁洗烫店, CmpId:e5e54c7fcf1b1a55d7e08b00231ed8f6 
+2016-11-03 18:07:55,520 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:55,726 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:55,855 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:55,857 22264 MainThread INFO Begins to Crawl Info, the CmpName:吴川市黄坡彩虹五金商店, CmpId:2c0335f942ce3d4898a13a2b7a132d27 
+2016-11-03 18:07:55,858 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:55,924 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:07:56,051 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:56,052 22264 MainThread INFO Begins to Crawl Info, the CmpName:高新技术产业开发区朝中建材经营部, CmpId:226994182ac15d3fa75e7730eadc07a9 
+2016-11-03 18:07:56,055 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:56,125 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:56,232 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:56,233 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江声屏书刊批发部, CmpId:32623b2270a9e502a92f18028df66e74 
+2016-11-03 18:07:56,236 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:56,351 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:56,467 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:56,467 22264 MainThread INFO Begins to Crawl Info, the CmpName:黔江区精密不锈钢加工部, CmpId:1a7efae9e238d1af6a530555a9e1d1e1 
+2016-11-03 18:07:56,470 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:56,509 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:07:56,684 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:56,686 22264 MainThread INFO Begins to Crawl Info, the CmpName:江门市蓬江区东明化建营业部, CmpId:e670199aa4749cc5a761b555c61b2204 
+2016-11-03 18:07:56,687 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:56,717 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:56,849 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:56,851 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区玮玮面馆, CmpId:ab8d8f077979635227ef9aa53c4fdc23 
+2016-11-03 18:07:56,854 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:56,928 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:57,342 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:57,344 22264 MainThread INFO Begins to Crawl Info, the CmpName:两江新区源泉广告设计制作部, CmpId:e8aa2737d02d34497aff2e62b80b6c8d 
+2016-11-03 18:07:57,345 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:57,380 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:57,490 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:57,492 22264 MainThread INFO Begins to Crawl Info, the CmpName:吴川市吴阳供销社百货商店, CmpId:810b71c6f65196c430c902b3138a8a73 
+2016-11-03 18:07:57,493 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:57,539 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:57,667 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:57,668 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区朱沱镇刘江波餐馆, CmpId:f8203fae9084c8ebdd98bbe5ee41b6e4 
+2016-11-03 18:07:57,671 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:57,845 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:57,963 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:57,963 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区新鑫源房产中介服务部, CmpId:21a1a9b7695a1c50a45adee612ea26b7 
+2016-11-03 18:07:57,967 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:58,003 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:58,125 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:58,125 22264 MainThread INFO Begins to Crawl Info, the CmpName:开县面香源面馆, CmpId:aba8ca147404e5e35c0bf0b75c79af3b 
+2016-11-03 18:07:58,128 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:58,167 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:58,295 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:58,296 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区发财树二手房屋中介服务部, CmpId:bb8b1655ffeff57e3c8131fbaa06b863 
+2016-11-03 18:07:58,299 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:58,483 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:07:58,608 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:58,609 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市汇成塑胶染料商行, CmpId:d529298b6c0d335853ace46d46ef6cb7 
+2016-11-03 18:07:58,611 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:58,686 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:07:58,831 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:58,832 22264 MainThread INFO Begins to Crawl Info, the CmpName:城口县兴娥副食经营部, CmpId:8238b53c698b8ec077c4cf0571a0f38b 
+2016-11-03 18:07:58,835 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:59,042 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:59,174 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:59,174 22264 MainThread INFO Begins to Crawl Info, the CmpName:万州区清堰坡兴固建材经营部, CmpId:4a92df88b924cf176e22c1be7cf90985 
+2016-11-03 18:07:59,177 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:59,223 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:07:59,358 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:59,359 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市卫生保健食品厂, CmpId:1db60955813d7a8821c20ac45f5ed1ad 
+2016-11-03 18:07:59,361 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:59,398 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:07:59,523 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:59,525 22264 MainThread INFO Begins to Crawl Info, the CmpName:荣昌县昌元街道玉全药店, CmpId:32f8d1f885a420dda5b0abd531d7d68a 
+2016-11-03 18:07:59,526 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:59,704 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:07:59,834 22264 MainThread INFO No software copyright found
+2016-11-03 18:07:59,835 22264 MainThread INFO Begins to Crawl Info, the CmpName:高新技术产业开发区浩顺建材经营部, CmpId:fe48264315fe23ef17e9de4ad3cdb20a 
+2016-11-03 18:07:59,836 22264 MainThread INFO start to get proxyip
+2016-11-03 18:07:59,894 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:00,017 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:00,019 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区福兰豆花馆, CmpId:2cddf2ed7e173c2cfdac875f72f6b9b8 
+2016-11-03 18:08:00,022 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:00,078 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:00,233 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:00,233 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市凤洲金属门窗厂, CmpId:fbaae15b077b6c61312f80e8998c0097 
+2016-11-03 18:08:00,234 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:00,572 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:00,694 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:00,696 22264 MainThread INFO Begins to Crawl Info, the CmpName:广东省信宜732台科技开发部, CmpId:d513b7536c742f8e06a5b954e70ffe7b 
+2016-11-03 18:08:00,698 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:00,823 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:00,973 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:00,974 22264 MainThread INFO Begins to Crawl Info, the CmpName:巴南区杰琳便利超市, CmpId:4262f60d26261ace57f32bdae5d3ccc2 
+2016-11-03 18:08:00,977 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:01,025 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:01,140 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:01,141 22264 MainThread INFO Begins to Crawl Info, the CmpName:巴南区霞光餐馆, CmpId:fe33253e79e68db5e02f1a0dd3f3211d 
+2016-11-03 18:08:01,144 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:01,372 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:01,506 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:01,506 22264 MainThread INFO Begins to Crawl Info, the CmpName:高州市劳动皮件厂, CmpId:3c33527fe83a4b39ff87b19f94ee85e6 
+2016-11-03 18:08:01,509 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:01,602 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:01,750 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:01,750 22264 MainThread INFO Begins to Crawl Info, the CmpName:铜梁区李春宏理发店, CmpId:602aafc5e019fc73d6833a386462d206 
+2016-11-03 18:08:01,753 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:01,782 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:01,911 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:01,913 22264 MainThread INFO Begins to Crawl Info, the CmpName:九龙坡区杨家坪二十四城家居装饰材料经营部, CmpId:c29e5b355f8c9a28b326049bcc61d1a4 
+2016-11-03 18:08:01,914 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:02,145 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:02,272 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:02,273 22264 MainThread INFO Begins to Crawl Info, the CmpName:化州市长岐兴发羽绒厂, CmpId:a26c317ad41e939a06e864a37d9dccda 
+2016-11-03 18:08:02,276 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:02,311 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:02,427 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:02,427 22264 MainThread INFO Begins to Crawl Info, the CmpName:化州市长岐佳信羽绒厂, CmpId:c4adf16b6935fbf7be2bbc9f46178a87 
+2016-11-03 18:08:02,430 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:02,471 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:02,579 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:02,581 22264 MainThread INFO Begins to Crawl Info, the CmpName:忠县晓廷中老年用品店, CmpId:eee31584201e13db0d43a638a2eb0f9d 
+2016-11-03 18:08:02,582 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:02,622 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:02,746 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:02,747 22264 MainThread INFO Begins to Crawl Info, the CmpName:化州市工商联塑料金属制品厂, CmpId:4a2e4fa7f4f7acd7f9bcfa767d35bfdc 
+2016-11-03 18:08:02,750 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:02,881 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:02,986 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:02,986 22264 MainThread INFO Begins to Crawl Info, the CmpName:高州市祥山新华铸钢厂, CmpId:cad09beb27229173cfc5bffda76e34d0 
+2016-11-03 18:08:02,989 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:03,028 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:03,155 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:03,157 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区壹零壹御厨饭店, CmpId:5f653e40924669d06be9e2539ca54234 
+2016-11-03 18:08:03,160 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:03,200 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:03,322 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:03,323 22264 MainThread INFO Begins to Crawl Info, the CmpName:化州粤港裕华家具有限公司茂名配销中心, CmpId:97a11d902a5c0fe601eaedffd8d975ba 
+2016-11-03 18:08:03,325 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:03,384 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:03,510 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:03,512 22264 MainThread INFO Begins to Crawl Info, the CmpName:丰都县天趣阁茶楼, CmpId:15d14bf9b7b1f8c084512e8e642a39d4 
+2016-11-03 18:08:03,515 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:03,749 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:03,868 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:03,869 22264 MainThread INFO Begins to Crawl Info, the CmpName:桐君阁大药房南岸区龙太药店, CmpId:baae4275c1345f48a24de1f63268bcc8 
+2016-11-03 18:08:03,872 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:03,934 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:04,052 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:04,052 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社, CmpId:b97228bbaa80291494acbbd1e09e18b3 
+2016-11-03 18:08:04,055 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:04,137 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:04,247 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:04,249 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社华江商场, CmpId:13fceefb2af4b5a4ebe541358f528ffb 
+2016-11-03 18:08:04,250 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:04,496 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:04,631 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:04,631 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社农资门市部, CmpId:f71a80f292a0042e5af97c91a1484e49 
+2016-11-03 18:08:04,634 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:04,684 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:04,809 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:04,811 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社盘龙双代店, CmpId:47d566b56767f4901f205a59efd822c3 
+2016-11-03 18:08:04,812 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:04,858 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:04,976 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:04,976 22264 MainThread INFO Begins to Crawl Info, the CmpName:涪陵区时尚宝贝生活馆, CmpId:6868f949c970037dcaa3c2f4d9b560aa 
+2016-11-03 18:08:04,980 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:05,177 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:05,312 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:05,312 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社百货文具门市部, CmpId:4b7f04495fe98f9ead7976e6c96aec6a 
+2016-11-03 18:08:05,313 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:05,336 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:05,457 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:05,459 22264 MainThread INFO Begins to Crawl Info, the CmpName:信宜市旺沙供销社五金副食门市部, CmpId:e195464e68114219d7a868b44017c174 
+2016-11-03 18:08:05,460 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:05,515 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:05,660 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:05,661 22264 MainThread INFO Begins to Crawl Info, the CmpName:电白县油脂化工厂, CmpId:36c1549053d807661956a3e7b8f1e168 
+2016-11-03 18:08:05,663 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:05,710 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:05,861 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:05,861 22264 MainThread INFO Begins to Crawl Info, the CmpName:开县全胜印刷厂, CmpId:0a76a02027be20b88933c23985e0dec4 
+2016-11-03 18:08:05,865 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:06,009 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:06,141 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:06,141 22264 MainThread INFO Begins to Crawl Info, the CmpName:高新技术产业开发区天雷建材经营部, CmpId:df83d2fb8171b359660e418b1d99ac4d 
+2016-11-03 18:08:06,144 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:06,249 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:06,391 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:06,392 22264 MainThread INFO Begins to Crawl Info, the CmpName:渝北区富雅商务信息咨询服务部, CmpId:b447b75b10d765dbd658563b163a72c5 
+2016-11-03 18:08:06,394 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:06,638 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:06,776 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:06,776 22264 MainThread INFO Begins to Crawl Info, the CmpName:高州市顿梭华泰瓷土矿, CmpId:884831517d8511939099d7dea2b0bc54 
+2016-11-03 18:08:06,779 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:06,838 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:06,957 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:06,957 22264 MainThread INFO Begins to Crawl Info, the CmpName:九龙坡区耀文建材经营部, CmpId:6f571aeba812e956145883fdcf972f9b 
+2016-11-03 18:08:06,960 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:07,108 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:07,224 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:07,224 22264 MainThread INFO Begins to Crawl Info, the CmpName:高州市顿梭茶亭腰古南坑瓷土矿, CmpId:08bef896f7dfdf7171a04e3e75ae959b 
+2016-11-03 18:08:07,226 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:07,309 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:07,434 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:07,436 22264 MainThread INFO Begins to Crawl Info, the CmpName:吴川市吴阳供销社生产资料门市部, CmpId:74b96a9a21ff5f43dc7f71149ebc45cf 
+2016-11-03 18:08:07,437 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:07,493 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:07,608 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:07,608 22264 MainThread INFO Begins to Crawl Info, the CmpName:吴川市吴阳供销社白沙农资门市部, CmpId:cd0b47b39a96838d7ac232e4f2b7ccd8 
+2016-11-03 18:08:07,611 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:09,917 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:10,026 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:10,028 22264 MainThread INFO Begins to Crawl Info, the CmpName:吴川市吴阳供销社姗妮卡拉OK娱乐城, CmpId:ec2a351334c8265d68861256b88c78dc 
+2016-11-03 18:08:10,029 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:10,112 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:10,230 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:10,232 22264 MainThread INFO Begins to Crawl Info, the CmpName:江门市蓬江区广新汽车修配有限公司, CmpId:a4aaa3fe35f30dd5fafcaf857859e33c 
+2016-11-03 18:08:10,234 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:12,907 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:13,036 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:13,038 22264 MainThread INFO Begins to Crawl Info, the CmpName:江门市电化厂技协服务部, CmpId:f82f22abbe41deba603789fc2101ec51 
+2016-11-03 18:08:13,039 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:13,671 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:13,789 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:13,789 22264 MainThread INFO Begins to Crawl Info, the CmpName:合川区老村长石锅鱼餐饮店, CmpId:d69284770179141a0fd3b76cec458495 
+2016-11-03 18:08:13,792 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:13,828 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:13,970 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:13,971 22264 MainThread INFO Begins to Crawl Info, the CmpName:江门市蓬江区威鸿不锈钢有限公司, CmpId:93c2b85dddce3329fd3f5ecb30872cae 
+2016-11-03 18:08:13,973 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:14,066 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:14,180 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:14,181 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区李凤家电经营部, CmpId:1189c3e8cd16cdd51b135f1be2120dd1 
+2016-11-03 18:08:14,184 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:14,601 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:14,726 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:14,726 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江新世界彩色摄影中心, CmpId:ae4b9e56112260e617ef03a3b5451dc7 
+2016-11-03 18:08:14,729 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:14,801 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:14,920 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:14,921 22264 MainThread INFO Begins to Crawl Info, the CmpName:彭水县水乡缘饭馆, CmpId:b06d8c66e0b7e3f5e9f8f3ec2c81fba7 
+2016-11-03 18:08:14,923 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:14,957 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:15,082 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:15,082 22264 MainThread INFO Begins to Crawl Info, the CmpName:丰都县协同副食商行, CmpId:83953f10e6550519376b76a4a0c4ca12 
+2016-11-03 18:08:15,085 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:15,316 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:15,428 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:15,430 22264 MainThread INFO Begins to Crawl Info, the CmpName:渝北区沙瑞服饰经营部, CmpId:fe9675fba6c7a1d49bcb2e1dc6f3fa54 
+2016-11-03 18:08:15,433 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:15,467 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:15,592 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:15,592 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区艺佳玻璃经营部, CmpId:7e3a2cab9f623b45bac5fef064b55354 
+2016-11-03 18:08:15,595 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:15,660 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:15,769 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:15,770 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江市金兴信托贸易公司金辉音像经营部, CmpId:03327ad67f8615e8e58c1e072726c063 
+2016-11-03 18:08:15,773 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,040 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:16,150 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:16,151 22264 MainThread INFO Begins to Crawl Info, the CmpName:巫山县晓琴副食批发部, CmpId:f1ffdb5bd81ae3618c5f2e4421175c3e 
+2016-11-03 18:08:16,154 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,191 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:16,309 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:16,311 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江市霞山区糖烟酒公司批发部(2003.12吊销), CmpId:9628e8b2ff7347791e073ea74ed3c4b7 
+2016-11-03 18:08:16,313 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,358 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:16,486 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:16,487 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江市霞山区商业综合公司利众糖烟酒商店(95.10.30.吊销), CmpId:475c3942e5e7605e4864eb95dc1bc44b 
+2016-11-03 18:08:16,490 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,650 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:16,767 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:16,769 22264 MainThread INFO Begins to Crawl Info, the CmpName:湛江市霞山区商业综合公司海新糖烟酒商店 (95.10.30.吊销), CmpId:46cf20045b1d459d9f0b3519fc394652 
+2016-11-03 18:08:16,770 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,802 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:16,921 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:16,923 22264 MainThread INFO Begins to Crawl Info, the CmpName:合川区春梅副食店, CmpId:ff57e89f321cd4721119d20ad9add6a6 
+2016-11-03 18:08:16,924 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:16,953 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:17,075 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:17,075 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市枫溪金山瓷厂, CmpId:59a9ad0104eff5480c44bf96cd539740 
+2016-11-03 18:08:17,078 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:17,257 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:17,375 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:17,375 22264 MainThread INFO Begins to Crawl Info, the CmpName:奉节县德学百货店, CmpId:8b6e00d5bbcc74222af0fff0cb8a2cba 
+2016-11-03 18:08:17,378 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:17,420 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:17,533 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:17,535 22264 MainThread INFO Batch Processing Ends
+2016-11-03 18:08:17,536 22264 MainThread INFO Batch Processing Begins
+2016-11-03 18:08:18,812 22264 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:08:18,812 22264 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区姚燕电器经营部, CmpId:078788e065bcea57378971bb0f63120a 
+2016-11-03 18:08:18,815 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:18,871 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:18,997 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:18,999 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区老彭汽车经纪服务部, CmpId:df8cdb6ec3a851b6ea7476f8345db517 
+2016-11-03 18:08:19,002 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:19,207 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:19,312 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:19,312 22264 MainThread INFO Begins to Crawl Info, the CmpName:北碚区义华超市, CmpId:39b172a61a3af9701823ced1f64638dc 
+2016-11-03 18:08:19,315 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:19,348 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:19,460 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:19,460 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市银城工艺美术有限公司, CmpId:67e90b5b949ec1a14fc29ef5bbdcd7fb 
+2016-11-03 18:08:19,463 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:19,513 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:19,644 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:19,644 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市连思房地产开发公司, CmpId:8d741d933d881a2b2d0f39aaf4c2f124 
+2016-11-03 18:08:19,647 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:19,788 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:19,901 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:19,901 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市城西皮革手袋厂, CmpId:568c81c082449dcc7ab5e129661d4837 
+2016-11-03 18:08:19,904 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:20,005 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:20,119 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:20,121 22264 MainThread INFO Begins to Crawl Info, the CmpName:忠县新立镇婷伟副食店, CmpId:97b6ff0f3419876cd96e3bed6e599db6 
+2016-11-03 18:08:20,122 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:20,164 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:20,295 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:20,296 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市公共汽车公司石油气经营部, CmpId:2705899964e12e72a0cf27bf9efd6151 
+2016-11-03 18:08:20,298 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:20,595 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:20,716 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:20,717 22264 MainThread INFO Begins to Crawl Info, the CmpName:城口县李琼食品批发部, CmpId:68964c67589c55e92dfeef4b4c1453d9 
+2016-11-03 18:08:20,719 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:20,747 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:20,859 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:20,861 22264 MainThread INFO Begins to Crawl Info, the CmpName:九龙坡区杨家坪刘云红健康信息咨询服务部, CmpId:3736ad1c051e996dd0752a90abd52719 
+2016-11-03 18:08:20,862 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:20,911 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:21,029 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:21,029 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市农茂复合肥料厂有限公司, CmpId:a49695e13fe3f8bffc96e63d0305d7f6 
+2016-11-03 18:08:21,030 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:21,286 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:21,408 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:21,410 22264 MainThread INFO Begins to Crawl Info, the CmpName:潮州市经济贸易发展总公司, CmpId:417f671567196511c3e142ab4e3c37ea 
+2016-11-03 18:08:21,411 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:21,448 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:21,561 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:21,562 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市香洲天地科教网络工程有限公司罗定分公司, CmpId:98157806c910ef1dea833b3a22aff868 
+2016-11-03 18:08:21,563 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:21,604 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:21,727 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:21,729 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区云岫火锅店, CmpId:c5c87c2a0825d38f781ae28f8728245b 
+2016-11-03 18:08:21,730 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:21,881 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:22,006 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,006 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海新元成冶金矿产有限公司, CmpId:31cc6565f0b6f59300ffd10888fa272d 
+2016-11-03 18:08:22,009 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:22,065 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:22,194 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,196 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海国家高新区元亨发展有限公司, CmpId:4ffa86d6813cb892c1b1dcd877e01c3e 
+2016-11-03 18:08:22,198 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:22,246 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:22,377 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,378 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市高和节能设备有限公司, CmpId:5be6c0cda2707dc9b2767dbaa233686e 
+2016-11-03 18:08:22,380 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:22,489 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:22,615 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,615 22264 MainThread INFO Begins to Crawl Info, the CmpName:奉节县华莱健电子商务店, CmpId:d28ae0148e7c0b70c10d31a2461cd0d7 
+2016-11-03 18:08:22,618 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:22,691 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:22,808 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,809 22264 MainThread INFO Begins to Crawl Info, the CmpName:璧山区路游皮鞋厂, CmpId:ac0666af9c62732df591525f09e82961 
+2016-11-03 18:08:22,812 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:22,845 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:22,960 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:22,960 22264 MainThread INFO Begins to Crawl Info, the CmpName:奉节县石头服装城, CmpId:9b9b7d77a569aab139c3c435d0d8978b 
+2016-11-03 18:08:22,963 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:23,075 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:23,206 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:23,207 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市兴球有限公司照明分公司, CmpId:ac0a6c667dd2350126de7151da2b1c4c 
+2016-11-03 18:08:23,207 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:23,255 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:23,371 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:23,374 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市润信审计师事务所前山办事处, CmpId:902173505676736f07605db06cbec63d 
+2016-11-03 18:08:23,375 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:23,418 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:23,529 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:23,529 22264 MainThread INFO Begins to Crawl Info, the CmpName:大渡口区鸿茂食品超市, CmpId:6b1dd66cf6dcd5772416941d2df1bf6f 
+2016-11-03 18:08:23,532 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:23,676 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:23,828 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:23,831 22264 MainThread INFO Begins to Crawl Info, the CmpName:垫江县诺美家具店, CmpId:1aacc556b3103460708abc7b647fb0fd 
+2016-11-03 18:08:23,832 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:23,874 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:23,987 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:23,989 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市中德工贸公司, CmpId:7b04e87381617ad094f2c1a7479f079f 
+2016-11-03 18:08:23,990 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:24,178 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:24,288 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:24,289 22264 MainThread INFO Begins to Crawl Info, the CmpName:武隆县捞斋食府, CmpId:a4da1d084e2b0f4c8ddbd3ec6e4d97e4 
+2016-11-03 18:08:24,292 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:24,371 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:24,517 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:24,519 22264 MainThread INFO Begins to Crawl Info, the CmpName:铜梁区成达起重设备经营部, CmpId:7b2f6ed5354e1a029d7f841b08891852 
+2016-11-03 18:08:24,520 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:24,598 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:24,723 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:24,723 22264 MainThread INFO Begins to Crawl Info, the CmpName:长寿区双马密室逃脱店, CmpId:42bcedc813d13c34ead947ddf45245a1 
+2016-11-03 18:08:24,726 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:24,811 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:24,944 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:24,944 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市艺骏广告有限公司, CmpId:254d3561ce23e1ad7b964eb8b6dd4d48 
+2016-11-03 18:08:24,947 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:24,990 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:25,108 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:25,109 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头经济特区升平区红木高级装饰公司, CmpId:9716ad476d0d34374df2323afa5dc010 
+2016-11-03 18:08:25,112 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:25,154 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:25,272 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:25,273 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头市信达企业管理咨询有限公司, CmpId:9b64acfda5ce18c23e0e67213fa50085 
+2016-11-03 18:08:25,276 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:25,397 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:25,513 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:25,513 22264 MainThread INFO Begins to Crawl Info, the CmpName:秀山县林林便利店, CmpId:70f79138921c78a14427311d0a642aa9 
+2016-11-03 18:08:25,516 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:25,572 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:25,684 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:25,686 22264 MainThread INFO Begins to Crawl Info, the CmpName:渝北区雅府正红鱼莊, CmpId:24566cf5dd0e498b92306f7ff2b05177 
+2016-11-03 18:08:25,687 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:25,734 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:25,901 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:25,903 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头市升平区吉祥汽配二厂配件物资供应部, CmpId:b98d892bc18860fc881c038edb2e29d9 
+2016-11-03 18:08:25,904 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:25,969 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:26,082 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:26,082 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头经济特区龙湖房地产开发总公司, CmpId:33730ef7f00bbd2907254449710aadd0 
+2016-11-03 18:08:26,085 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:26,131 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:26,242 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:26,243 22264 MainThread INFO Begins to Crawl Info, the CmpName:荣昌县远觉镇海棠盛世办公用品经营部, CmpId:abec0f9e6656e077f3519cba5e22924a 
+2016-11-03 18:08:26,243 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:26,315 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:26,428 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:26,428 22264 MainThread INFO Begins to Crawl Info, the CmpName:丰都县林冲腊排汤锅店, CmpId:17a22d1f656a054a52406c2cce810d43 
+2016-11-03 18:08:26,430 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:26,562 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:26,683 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:26,684 22264 MainThread INFO Begins to Crawl Info, the CmpName:垫江县蔡余小吃店, CmpId:1032c09b070af627713e19656113192a 
+2016-11-03 18:08:26,686 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:26,716 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:26,861 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:26,861 22264 MainThread INFO Begins to Crawl Info, the CmpName:开县生光网吧, CmpId:1bd6a7d30e87ca6e63b38b4c0061ccfe 
+2016-11-03 18:08:26,864 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:26,901 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:27,022 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:27,023 22264 MainThread INFO Begins to Crawl Info, the CmpName:万州区普子乡向树林生猪屠宰场, CmpId:c3e9db1942fade624e919e49c04ec5dc 
+2016-11-03 18:08:27,023 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:27,121 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:27,266 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:27,266 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头经济特区南澳鸿源经济发展总公司, CmpId:00fe36259f29f4d8f9c1c5482ddfc471 
+2016-11-03 18:08:27,269 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:27,313 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:27,443 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:27,443 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头市广天电子有限公司, CmpId:91c4c33f548cf38f7f9d96edbd3670ee 
+2016-11-03 18:08:27,444 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:27,473 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:27,612 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:27,614 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头经济特区金园工贸总公司进出口部, CmpId:92506b1da2c24092f4f584806e0519b6 
+2016-11-03 18:08:27,615 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:27,707 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:27,838 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:27,841 22264 MainThread INFO Begins to Crawl Info, the CmpName:长寿区凤城街道康悦旅游信息咨询服务部, CmpId:782352697255d43fbd01ce5a5286e8a0 
+2016-11-03 18:08:27,842 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:27,914 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:28,039 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:28,040 22264 MainThread INFO Begins to Crawl Info, the CmpName:汕头市金园区月浦南凯包装厂, CmpId:56439dcbe723a2599b2ad83dd471ab19 
+2016-11-03 18:08:28,042 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:28,203 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:28,323 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:28,325 22264 MainThread INFO Begins to Crawl Info, the CmpName:永川区正威建材经营部, CmpId:64ff5d0d583eeac0154b3f1d3d59de1c 
+2016-11-03 18:08:28,326 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:28,384 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:28,487 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:28,489 22264 MainThread INFO Begins to Crawl Info, the CmpName:潼南县朝霞货运服务部, CmpId:79d077fc658133c80ad22d0762f5c468 
+2016-11-03 18:08:28,490 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:28,556 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:28,678 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:28,680 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海富泰汽车贸易有限公司, CmpId:cf83dd5499eb8e6af95e4a2c22540e66 
+2016-11-03 18:08:28,681 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:28,868 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:28,983 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:28,983 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市鸿兴印刷厂, CmpId:afb5ec0124a31d72dc9301d1d89e9051 
+2016-11-03 18:08:28,984 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,029 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:29,148 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:29,148 22264 MainThread INFO Begins to Crawl Info, the CmpName:云阳县红狮镇学兵副食店, CmpId:3f561c36286eac60db9f7b1b30899026 
+2016-11-03 18:08:29,148 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,178 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:08:29,289 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:29,289 22264 MainThread INFO Begins to Crawl Info, the CmpName:江北区天都餐馆, CmpId:b736450d6009c5838717400a49ea008b 
+2016-11-03 18:08:29,289 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,457 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:08:29,558 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:29,559 22264 MainThread INFO Begins to Crawl Info, the CmpName:石柱土家族自治县登翠面馆, CmpId:28c5448f2a039f3e5456ba99deac0876 
+2016-11-03 18:08:29,559 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,595 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:29,714 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:29,716 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市金海岸津珠酒店, CmpId:e06b3ab354ef7511c8d408a108a1bde4 
+2016-11-03 18:08:29,717 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,744 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:29,849 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:29,851 22264 MainThread INFO Begins to Crawl Info, the CmpName:开县孝财五金便民店, CmpId:9fcd3a993c5199fb63e791a91b8a3b41 
+2016-11-03 18:08:29,854 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:29,980 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:08:30,105 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:30,105 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市百岛天祥旅行社有限公司, CmpId:0ea7f0abfd7b918fdaad4868e8f3fa58 
+2016-11-03 18:08:30,108 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:30,144 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:30,252 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:30,253 22264 MainThread INFO Begins to Crawl Info, the CmpName:石柱土家族自治县万洵副食店, CmpId:8101029a7642441998a2ee7022cae97d 
+2016-11-03 18:08:30,255 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:30,286 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:30,381 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:30,381 22264 MainThread INFO Begins to Crawl Info, the CmpName:巫溪县蒂诺一家俱店, CmpId:50ecc7e62efa551ea9fd16507aa80378 
+2016-11-03 18:08:30,382 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:30,584 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:08:30,710 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:30,711 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市翔游天下国际旅行社有限公司广州分公司, CmpId:bb0bb196fa48e1e9ff96ca9cac1710e2 
+2016-11-03 18:08:30,713 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:30,766 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:30,872 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:30,872 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海怡安集团公司, CmpId:2f4b4ae40ab1a3ab7949e0c68dd95025 
+2016-11-03 18:08:30,872 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:30,937 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:31,072 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:31,072 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市琦伟有限公司, CmpId:8e78fb73101865016ee56f8a0375aada 
+2016-11-03 18:08:31,075 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:31,210 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:08:31,332 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:31,332 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市伟琦网络科技发展有限公司, CmpId:a99331cbf5b17a57e10b44efd489691b 
+2016-11-03 18:08:31,334 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:31,362 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:08:31,487 22264 MainThread INFO No software copyright found
+2016-11-03 18:08:31,489 22264 MainThread INFO Begins to Crawl Info, the CmpName:珠海市兰新电讯技术工程有限公司, CmpId:eb177ceaae87e4edadaeb405eac8a848 
+2016-11-03 18:08:31,490 22264 MainThread INFO start to get proxyip
+2016-11-03 18:08:31,536 22264 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:08:31,773 22264 MainThread INFO Page Parsed Successfully
+2016-11-03 18:08:31,865 22264 MainThread INFO Info Crawled Successfully
+2016-11-03 18:09:45,148 21736 MainThread INFO Batch Processing Begins
+2016-11-03 18:09:46,164 21736 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:09:46,164 21736 MainThread INFO Begins to Crawl Info, the CmpName:巫溪县费依服装店, CmpId:a117e8c6a6e5a5455a511d224cef41f6 
+2016-11-03 18:09:46,167 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:46,285 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:09:46,428 21736 MainThread INFO No software copyright found
+2016-11-03 18:09:48,430 21736 MainThread INFO Begins to Crawl Info, the CmpName:南岸区幻想世界文化用品经营部, CmpId:cc9fc26bf0470ad8e29f37dd61c51325 
+2016-11-03 18:09:48,433 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:48,483 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:09:48,645 21736 MainThread INFO No software copyright found
+2016-11-03 18:09:50,647 21736 MainThread INFO Begins to Crawl Info, the CmpName:南岸区爱尚贵足养生馆, CmpId:b87e60de9e2b1c915c05840b94583d64 
+2016-11-03 18:09:50,650 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:50,793 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:09:50,957 21736 MainThread INFO No software copyright found
+2016-11-03 18:09:52,957 21736 MainThread INFO Begins to Crawl Info, the CmpName:珠海市竹马线行, CmpId:571b08e133ad581d5c2b1d2eecd8677b 
+2016-11-03 18:09:52,960 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:53,111 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:09:53,270 21736 MainThread INFO No software copyright found
+2016-11-03 18:09:55,272 21736 MainThread INFO Begins to Crawl Info, the CmpName:永川区刘奎餐馆, CmpId:2c88c781a3a742ffa41a446c5a801b0e 
+2016-11-03 18:09:55,275 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:55,359 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:09:56,009 21736 MainThread INFO No software copyright found
+2016-11-03 18:09:58,010 21736 MainThread INFO Begins to Crawl Info, the CmpName:珠海繁丰物业有限公司, CmpId:dcefa088de6e93cae4f49bfac2556f48 
+2016-11-03 18:09:58,013 21736 MainThread INFO start to get proxyip
+2016-11-03 18:09:58,140 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:09:58,244 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:00,246 21736 MainThread INFO Begins to Crawl Info, the CmpName:电白县飞乐汽车贸易公司水东分公司, CmpId:e9db647bfe6393af6437a44e4351127c 
+2016-11-03 18:10:00,249 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:00,302 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:10:00,418 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:02,420 21736 MainThread INFO Begins to Crawl Info, the CmpName:珠海家诚清洁服务有限公司, CmpId:8c4c1e2cc72a34f6bdf52b853861ee44 
+2016-11-03 18:10:02,421 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:02,493 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:10:02,677 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:04,678 21736 MainThread INFO Begins to Crawl Info, the CmpName:东莞市长安合力塑胶制品厂, CmpId:bb11814f4793f8339073044ba78d5fe0 
+2016-11-03 18:10:04,681 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:04,832 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:10:04,941 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:06,943 21736 MainThread INFO Begins to Crawl Info, the CmpName:东莞市大岭山镇居委会石油气供应站, CmpId:1f4fad78fc77f59ddde495cd54c6b398 
+2016-11-03 18:10:06,946 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:07,015 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:10:07,142 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:09,144 21736 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区鑫联机械厂, CmpId:c9ca697817cfc9656b9e759e7e35fb4e 
+2016-11-03 18:10:09,147 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:10,096 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:10:10,213 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:12,216 21736 MainThread INFO Begins to Crawl Info, the CmpName:高州市望江楼旅业部, CmpId:b93d6edbe3939eb27452a898a9a83149 
+2016-11-03 18:10:12,219 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:12,253 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:10:12,384 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:14,385 21736 MainThread INFO Begins to Crawl Info, the CmpName:彭水县叶社副食超市, CmpId:825b59faa7738e36c0fc061eed771217 
+2016-11-03 18:10:14,388 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:14,423 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:10:14,582 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:16,584 21736 MainThread INFO Begins to Crawl Info, the CmpName:秀山县德红蔬菜种植场, CmpId:c06c5a7728b99d341db23fd36863b842 
+2016-11-03 18:10:16,586 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:16,622 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:10:16,743 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:18,743 21736 MainThread INFO Begins to Crawl Info, the CmpName:秀山县煌鑫皮革护理店, CmpId:904f8ef866a84b1ec70f3a5e22a32c04 
+2016-11-03 18:10:18,746 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:18,878 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:10:18,997 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:20,999 21736 MainThread INFO Begins to Crawl Info, the CmpName:沙坪坝区西部镭战户外俱乐部, CmpId:77b92b13fa1b699d1d22daca70083fb1 
+2016-11-03 18:10:21,000 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:21,038 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:10:21,191 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:23,193 21736 MainThread INFO Begins to Crawl Info, the CmpName:丰都县维善生态广场火锅, CmpId:faa579d76ab18ccae2dfc8d70d65046e 
+2016-11-03 18:10:23,196 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:23,232 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:10:23,351 21736 MainThread INFO No software copyright found
+2016-11-03 18:10:25,352 21736 MainThread INFO Begins to Crawl Info, the CmpName:垫江县华建汽车配件经营部, CmpId:8e8f38ad5f2e81e480a5264b57c621ef 
+2016-11-03 18:10:25,355 21736 MainThread INFO start to get proxyip
+2016-11-03 18:10:25,453 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:10:59,723 21736 MainThread ERROR Exceptions Occurs During One Batch Process
+Traceback (most recent call last):
+  File "E:/drdata/crawling/tasks/software_copyright_crawling_task/main_software_copyright_crawling.py", line 101, in main
+    process()
+  File "E:/drdata/crawling/tasks/software_copyright_crawling_task/main_software_copyright_crawling.py", line 66, in process
+    crawling_response = requests.get(url=url, headers=headers, proxies=proxies, timeout=15)
+  File "C:\Python27\lib\site-packages\requests\api.py", line 71, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\api.py", line 57, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 585, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\adapters.py", line 465, in send
+    raise ProxyError(e, request=request)
+ProxyError: HTTPConnectionPool(host=u'117.60.182.135', port=8888): Max retries exceeded with url: http://www.ccopyright.com.cn/cpcc/RRegisterAction.do?method=list&no=fck&sql_name=&sql_regnum=&sql_author=%B5%E6%BD%AD%CF%D8%BB%AA%BD%A8%C6%FB%B3%B5%C5%E4%BC%FE%BE%AD%D3%AA%B2%BF&curPage=1 (Caused by ProxyError('Cannot connect to proxy.', error(10053, '')))
+2016-11-03 18:11:00,635 21736 MainThread ERROR HTTPConnectionPool(host=u'117.60.182.135', port=8888): Max retries exceeded with url: http://www.ccopyright.com.cn/cpcc/RRegisterAction.do?method=list&no=fck&sql_name=&sql_regnum=&sql_author=%B5%E6%BD%AD%CF%D8%BB%AA%BD%A8%C6%FB%B3%B5%C5%E4%BC%FE%BE%AD%D3%AA%B2%BF&curPage=1 (Caused by ProxyError('Cannot connect to proxy.', error(10053, '')))
+Traceback (most recent call last):
+  File "E:/drdata/crawling/tasks/software_copyright_crawling_task/main_software_copyright_crawling.py", line 101, in main
+    process()
+  File "E:/drdata/crawling/tasks/software_copyright_crawling_task/main_software_copyright_crawling.py", line 66, in process
+    crawling_response = requests.get(url=url, headers=headers, proxies=proxies, timeout=15)
+  File "C:\Python27\lib\site-packages\requests\api.py", line 71, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\api.py", line 57, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests\sessions.py", line 585, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests\adapters.py", line 465, in send
+    raise ProxyError(e, request=request)
+ProxyError: HTTPConnectionPool(host=u'117.60.182.135', port=8888): Max retries exceeded with url: http://www.ccopyright.com.cn/cpcc/RRegisterAction.do?method=list&no=fck&sql_name=&sql_regnum=&sql_author=%B5%E6%BD%AD%CF%D8%BB%AA%BD%A8%C6%FB%B3%B5%C5%E4%BC%FE%BE%AD%D3%AA%B2%BF&curPage=1 (Caused by ProxyError('Cannot connect to proxy.', error(10053, '')))
+2016-11-03 18:11:01,884 21736 MainThread INFO Batch Processing Ends
+2016-11-03 18:11:03,105 21736 MainThread INFO Batch Processing Begins
+2016-11-03 18:11:05,187 21736 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:11:05,188 21736 MainThread INFO Begins to Crawl Info, the CmpName:佛山市尚育计算机技术开发有限公司, CmpId:283da1e3a207f5ca06bcc95e807b4e46 
+2016-11-03 18:11:05,191 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:05,226 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:05,345 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:07,348 21736 MainThread INFO Begins to Crawl Info, the CmpName:渝北区卓旭广告工作室, CmpId:21be64f6eab285b9e81753bc04adacb4 
+2016-11-03 18:11:07,351 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:07,407 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:07,523 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:09,525 21736 MainThread INFO Begins to Crawl Info, the CmpName:黔江区煲来饱去餐饮店, CmpId:4b565f8f7f0a84a435967cbedfc8cd6e 
+2016-11-03 18:11:09,528 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:09,591 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:11:09,726 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:11,729 21736 MainThread INFO Begins to Crawl Info, the CmpName:渝北区可欣食品经营部, CmpId:50d6f3eaa9ffad8a6380c75fd31932ad 
+2016-11-03 18:11:11,732 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:11,786 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:11:11,904 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:13,905 21736 MainThread INFO Begins to Crawl Info, the CmpName:潮州市建筑材料厂营业部, CmpId:c3f97c801c370b8df6520712eabda9d9 
+2016-11-03 18:11:13,908 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:15,729 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:11:15,877 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:17,878 21736 MainThread INFO Begins to Crawl Info, the CmpName:珠海阳光城实业有限公司, CmpId:8e3403a7181e200848b0288570db1ae4 
+2016-11-03 18:11:17,881 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:17,917 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:11:18,066 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:20,068 21736 MainThread INFO Begins to Crawl Info, the CmpName:江北区顺庆副食店, CmpId:84dbce682f5c147851ea7aac863eb77e 
+2016-11-03 18:11:20,071 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:20,105 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:11:20,259 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:22,262 21736 MainThread INFO Begins to Crawl Info, the CmpName:惠东县永源鞋业有限公司, CmpId:a99f88cfbc0111e8325ea9020914399b 
+2016-11-03 18:11:22,265 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:22,301 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:22,484 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:24,486 21736 MainThread INFO Begins to Crawl Info, the CmpName:江北区励志日用品咨询服务部, CmpId:097397a4013cc4dc63987576375d9def 
+2016-11-03 18:11:24,489 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:24,526 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:24,651 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:26,653 21736 MainThread INFO Begins to Crawl Info, the CmpName:江北区恩典化妆品经营部, CmpId:187a2d9800dc799a152807dbc023d8bc 
+2016-11-03 18:11:26,654 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:26,693 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:11:26,809 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:28,809 21736 MainThread INFO Begins to Crawl Info, the CmpName:渝北区世平火锅店, CmpId:730c9119226c7bfe73b2a36495690ec3 
+2016-11-03 18:11:28,812 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:28,849 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:28,963 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:30,963 21736 MainThread INFO Begins to Crawl Info, the CmpName:中山市黄科电子电器有限公司, CmpId:84c2812d6dfe0466bb4a7ef87313bac0 
+2016-11-03 18:11:30,967 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:31,003 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:31,124 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:33,125 21736 MainThread INFO Begins to Crawl Info, the CmpName:九龙坡区九龙园区艺利佳美容院, CmpId:14099380eccf651fc5a618b67940671e 
+2016-11-03 18:11:33,128 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:33,164 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:33,812 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:35,815 21736 MainThread INFO Begins to Crawl Info, the CmpName:江门市蓬江区源基五金厂, CmpId:c50289cd76ce17248ff39b28ef5099c2 
+2016-11-03 18:11:35,818 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:35,854 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:11:35,993 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:37,994 21736 MainThread INFO Begins to Crawl Info, the CmpName:九龙坡区永琴火锅店, CmpId:a9e73d4bcb06140c7746600cab4bc2db 
+2016-11-03 18:11:37,999 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:38,035 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:38,174 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:40,174 21736 MainThread INFO Begins to Crawl Info, the CmpName:梁平县云龙镇齐岭副食店, CmpId:66514918e2b62223593018d79b01a619 
+2016-11-03 18:11:40,177 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:40,216 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:40,334 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:42,335 21736 MainThread INFO Begins to Crawl Info, the CmpName:万州区龙沙梦之香宾馆, CmpId:6ae9f587a43784c43a5065db31970110 
+2016-11-03 18:11:42,338 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:42,375 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:11:42,496 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:44,497 21736 MainThread INFO Begins to Crawl Info, the CmpName:中山市志新针织厂, CmpId:38edb00b6662af1e18a2ecef3f2b9b31 
+2016-11-03 18:11:44,500 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:44,536 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:11:44,655 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:46,657 21736 MainThread INFO Begins to Crawl Info, the CmpName:开县潇潇家纺经营店, CmpId:8a87e0db0b4dc7e44b4b1ef22a6100d2 
+2016-11-03 18:11:46,661 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:46,698 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:46,831 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:48,832 21736 MainThread INFO Begins to Crawl Info, the CmpName:开县杨群日化经营部, CmpId:baeb9cd7b50c45d9b0265b3285f8212b 
+2016-11-03 18:11:48,835 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:48,875 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:48,996 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:50,997 21736 MainThread INFO Begins to Crawl Info, the CmpName:顺达建筑机械购销部, CmpId:ee51b025a5ce211f67c7901c62dbcc18 
+2016-11-03 18:11:51,002 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:51,036 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:11:51,161 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:53,161 21736 MainThread INFO Begins to Crawl Info, the CmpName:江北区鑫勇美发用品店, CmpId:03009d77e052678696daf45e11ff66ae 
+2016-11-03 18:11:53,164 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:53,201 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:11:53,322 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:55,323 21736 MainThread INFO Begins to Crawl Info, the CmpName:江津区珞璜镇焱其家用电器经营部, CmpId:eeab341aa57fae30ae5e4970d01e4e47 
+2016-11-03 18:11:55,326 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:55,362 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:11:55,471 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:57,473 21736 MainThread INFO Begins to Crawl Info, the CmpName:普宁市食品总公司, CmpId:c0a51b8ef45010a8899c1169c77b7eee 
+2016-11-03 18:11:57,476 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:57,512 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:11:57,869 21736 MainThread INFO No software copyright found
+2016-11-03 18:11:59,871 21736 MainThread INFO Begins to Crawl Info, the CmpName:南岸区羚容按摩服务部, CmpId:0a445c8eff438868835163d17def8a22 
+2016-11-03 18:11:59,874 21736 MainThread INFO start to get proxyip
+2016-11-03 18:11:59,908 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:12:00,020 21736 MainThread INFO No software copyright found
+2016-11-03 18:12:02,022 21736 MainThread INFO Begins to Crawl Info, the CmpName:南岸区来得建材经营部, CmpId:0606cb671a4f7b1e2da01fe9effad5c6 
+2016-11-03 18:12:02,023 21736 MainThread INFO start to get proxyip
+2016-11-03 18:12:02,059 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:12:02,174 21736 MainThread INFO No software copyright found
+2016-11-03 18:12:04,176 21736 MainThread INFO Begins to Crawl Info, the CmpName:巴南区启睿电子工作室, CmpId:bff1e28b3e62a570aa520a6b20a5d85e 
+2016-11-03 18:12:04,178 21736 MainThread INFO start to get proxyip
+2016-11-03 18:12:04,214 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:12:04,332 21736 MainThread INFO No software copyright found
+2016-11-03 18:12:06,335 21736 MainThread INFO Begins to Crawl Info, the CmpName:普宁市立新工艺厂, CmpId:7c398b5b0311ed2d4673660b1ef9aeb2 
+2016-11-03 18:12:06,338 21736 MainThread INFO start to get proxyip
+2016-11-03 18:12:06,375 21736 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:12:06,503 21736 MainThread INFO No software copyright found

@@ -1,0 +1,9 @@
+
+2016-11-16 16:53:31,746 11324 MainThread INFO start to get proxyip
+2016-11-16 16:53:32,115 11324 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.236.29.56:8888
+2016-11-16 16:55:24,411 10964 MainThread INFO start to get proxyip
+2016-11-16 16:55:24,479 10964 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.236.29.56:8888
+2016-11-16 17:03:13,846 12036 MainThread INFO starts to handle id: 105, case id: e9ea6d97-84dd-4aa3-9b54-beb90392a905 
+2016-11-16 17:03:20,342 12036 MainThread INFO start to get proxyip
+2016-11-16 17:03:21,305 12036 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.224.127.228:8888
+2016-11-16 17:03:27,757 12036 MainThread INFO case inserted

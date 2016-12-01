@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+
+    <title>产品认证证书查询</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=GBK"/>
+    <link href="/webdata/styles/global.css" type="text/css" rel="stylesheet"/>
+    <script type="text/javascript" src="/webdata/scripts/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/webdata/scripts/form-plug.js"></script>
+
+
+</head>
+
+<body>
+
+<div align="center">
+    <div class="bodydiv">
+
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr>
+                <td height="20"></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table width="100%" cellspacing="1" cellpadding="0" border="0" bgcolor="#9dc6d8">
+            <tbody>
+            <tr>
+                <td class="headTitle">CCC证书查询</td>
+            </tr>
+            </tbody>
+        </table>
+
+
+        <form id="pageForm" method="post" action="/webdata/query/CCCCerti.do">
+
+
+            <table>
+                <tr>
+                    <td align="left">关键字(Keywords)：</td>
+                    <td align="left"><input type="text" name="keyword" value="华为技术有限公司" style="width: 230px;"></td>
+                    <td align="left">
+                        <input type="hidden" name="_h_select_chaxuntype" value="manuname"/>
+                        <select class="select" name="chaxuntype">
+
+
+                            <option value="certinum">证书编号 Certificte No.</option>
+                            <option value="facname">生产厂名称 Factory Name</option>
+                            <option value="appname">申请人 Applicant</option>
+                            <option value="manuname">制造商 Manufacturer</option>
+                            <option value="product">产品名称 Product Name</option>
+
+
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td colspan="3" align="center"><input type="submit" class="btn btn-primary" value="点击查询(Query)"/></td>
+
+
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <div id="errMessage" style="color: red; font-weight: bold;"></div>
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+
+        <table width="100%" border="0" cellspacing="0" class="gridBody">
+            <thead>
+            <tr>
+                <th width="2%">#</th>
+                <th width="8%">证书编号<br/>Certificte No.</th>
+                <th width="9%">申请人<br/>Applicant</th>
+                <th width="9%">制造商<br/>Manufacturer</th>
+                <th width="9%">生产厂<br/>Factory</th>
+                <th width="9%">产品名称<br/>Product</th>
+                <th width="12%">型号/规格<br/>Model Specification</th>
+                <th width="10%">标准<br/>Standard</th>
+                <th width="4%">发证日期<br/>Issue Date</th>
+                <th width="4%">首次发证日期<br/>Original Issue Date</th>
+                <th width="4%">证书截止日期<br/>Expiry Date</th>
+                <th width="4%">现状态<br/>Status</th>
+                <th width="6%">证书状态变化时间<br/>Status Changing Time</th>
+                <th width="4%">原因<br/>Reason</th>
+                <th width="6%">附件<br/>Attachment</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            <tr class="even">
+                <td>1</td>
+                <td>2016010301912693</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>珠海经济特区光乐电控设备厂<br/>Zhuhai S.E.Z Guangle Electric Factroy</td>
+                <td>母线槽<br/>Busways</td>
+                <td>NMW 母线干线单元:InA=250A～125A,Icw=10kA;分接单元:Inc=125A～32A,Icc=6kA;Ue=400V,Ui=500V;50Hz;IP30;有防止火焰蔓延特性</td>
+                <td>GB 7251.6-2015</td>
+                <td>2016-10-24</td>
+                <td>2016-10-24</td>
+                <td>2021-10-24</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="odd">
+                <td>2</td>
+                <td>2015011608761797</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>武汉华工正源光子技术有限公司<br/>Wuhan Huagong Genuine Optics Technology Co.,Ltd.</td>
+                <td>吉比特无源光纤接入用户端设备(GPON ONU)，以太网无源光纤接入用户端设备(EPON ONU)(带有接口转换器功能)<br/>GPON ONU，EPON ONU</td>
+                <td>EchoLife HG8321R、EchoLife HG8120C 规格：12VDC 1A（对应适配器：UE12L1-120100SPAC、HKA01212010-1H、HW-120100C2W）或 12VDC 0.5A（对应适配器：HW-120050C2W）</td>
+                <td>GB4943.1-2011;GB9254-2008;YD/T993-1998</td>
+                <td>2016-10-24</td>
+                <td>2015-04-10</td>
+                <td>2018-01-29</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="even">
+                <td>3</td>
+                <td>2015011608772621</td>
+                <td>华为技术有限公司<br/>HUAWEI TECHNOLOGIES CO., LTD.</td>
+                <td>华为技术有限公司<br/>HUAWEI TECHNOLOGIES CO., LTD.</td>
+                <td>上海剑桥科技股份有限公司上海分公司<br/>CIG Shanghai Co., Ltd., Shanghai Branch</td>
+                <td>GPON终端、EPON终端、EPON/GPON终端、以太网无源光纤接入用户端设备(EPON ONU)、吉比特无源光纤接入用户端设备(GPON ONU)(具有接口转换器功能)<br/>GPON Terminal,EPON Terminal,EPON/GPON
+                    Terminal,EPON ONU,GPON ONU(Interface Converter);
+                </td>
+                <td>EchoLife HG8321R, EchoLife HG8120C：12VDC,1.0A(电源适配器:UE12L1-120100SPAC; HKA01212010-1H; HW-120100C2W) 或 12VDC 0.5A(电源适配器:HW-120050C2W）
+                </td>
+                <td>GB4943.1-2011;GB9254-2008;YD/T993-1998</td>
+                <td>2016-10-24</td>
+                <td>2015-05-13</td>
+                <td>2020-05-13</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="odd">
+                <td>4</td>
+                <td>2013011608636698</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>亚旭电子科技(江苏)有限公司<br/>Askey Technology(Jiangsu) Ltd.</td>
+                <td>多业务接入设备（带接口转换功能）<br/>Multi-service Access Equipment</td>
+                <td>SmartAX MA5675M，SmartAX MA5672：100-240VAC；50/60Hz；0.5A（销售时电线组件可选）</td>
+                <td>GB4943.1-2011;GB9254-2008;YD/T993-1998</td>
+                <td>2016-10-21</td>
+                <td>2013-08-20</td>
+                <td>2018-08-20</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="even">
+                <td>5</td>
+                <td>2016011606912184</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为机器有限公司<br/>Huawei Machine Co., Ltd.</td>
+                <td>WCDMA无线数据终端<br/>WCDMA Wireless Data Card</td>
+                <td>HUAWEI MU609T（通过主板专用借口供电）</td>
+                <td>GB4943.1-2011;GB/T22450.1-2008;YD/T1595.1-2012</td>
+                <td>2016-10-20</td>
+                <td>2016-10-20</td>
+                <td>2021-10-20</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="odd">
+                <td>6</td>
+                <td>2014011608738028</td>
+                <td>广东海信宽带科技有限公司<br/>Guangdong Hisense Broadband Technology Co., Ltd</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>广东海信宽带科技有限公司<br/>Guangdong Hisense Broadband Technology Co., Ltd</td>
+                <td>吉比特无源光纤接入用户端设备（GPON ONU）、以太网无源光纤接入用户端设备（EPON ONU）(接口转换功能）<br/>GPON ONU、EPON ONU</td>
+                <td>EchoLife HG8321R、EchoLife HG8120C：12VDC 1A 或 12VDC 0.5A （电源适配器：UE12L1-120100SPAC、HKA01212010-1H、HW-120100C2W 输出：12VDC 1.0A；HW-120050C2W
+                    输出：12VDC 0.5A）
+                </td>
+                <td>GB4943.1-2011;GB9254-2008;YD/T993-1998</td>
+                <td>2016-10-20</td>
+                <td>2014-12-09</td>
+                <td>2017-03-01</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="even">
+                <td>7</td>
+                <td>2016011606911657</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>贵州富智康精密电子有限公司<br/>Guizhou rich ZhiKang precision electronics co., LTD</td>
+                <td>TD-LTE数字移动电话机<br/>TD-LTE Digital Mobile Phone</td>
+                <td>BLN-TL00(开关电源适配器: HW-050200C01 输出：5.0VDC 2A)</td>
+                <td>GB4943.1-2011;GB/T22450.1-2008;YD/T1592.1-2012;YD/T2583.14-2013</td>
+                <td>2016-10-20</td>
+                <td>2016-10-20</td>
+                <td>2020-09-12</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="odd">
+                <td>8</td>
+                <td>2016011606911658</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>惠州长城开发科技有限公司<br/>ShHuizhou Kaifa Technology Co., Ltd.</td>
+                <td>TD-LTE数字移动电话机<br/>TD-LTE Digital Mobile Phone</td>
+                <td>BLN-TL00(开关电源适配器：HW-050200C01 输出: 5VDC, 2A）</td>
+                <td>GB4943.1-2011;GB/T22450.1-2008;YD/T1592.1-2012;YD/T2583.14-2013</td>
+                <td>2016-10-20</td>
+                <td>2016-10-20</td>
+                <td>2021-10-20</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="even">
+                <td>9</td>
+                <td>2016011606911659</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>华为技术有限公司<br/>Huawei Technologies Co.,Ltd.</td>
+                <td>惠州比亚迪电子有限公司<br/>Huizhou BYD Electronic Co., Ltd.</td>
+                <td>TD-LTE数字移动电话机<br/>TD-LTE Digital Mobile Phone</td>
+                <td>BLN-TL00(开关电源适配器: HW-050200C01 输出：5.0VDC 2A)</td>
+                <td>GB4943.1-2011;GB/T22450.1-2008;YD/T1592.1-2012;YD/T2583.14-2013</td>
+                <td>2016-10-20</td>
+                <td>2016-10-20</td>
+                <td>2021-10-20</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            <tr class="odd">
+                <td>10</td>
+                <td>2016011608909795</td>
+                <td>四川九州光电子技术有限公司<br/></td>
+                <td>华为技术有限公司<br/></td>
+                <td>四川九州光电子技术有限公司<br/></td>
+                <td>GPON终端、EPON终端、EPON/GPON终端、以太网无源光纤接入用户端设备(EPON ONU)、吉比特无源光纤接入用户端设备(GPON ONU)(具有接口转换器功能)<br/></td>
+                <td>EchoLife HG8120C：12VDC,0.5A （电源适配器：HW-120050C2W）</td>
+                <td>GB4943.1-2011;GB9254-2008;YD/T993-1998</td>
+                <td>2016-10-20</td>
+                <td>2016-10-20</td>
+                <td>2021-01-07</td>
+                <td>有效 Valid</td>
+                <td></td>
+                <td></td>
+                <td style="wword-break: break-all;">
+
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+
+
+        <link href="/webdata/widgets/simpletable/simpletable.css" type="text/css" rel="stylesheet">
+        <script type="text/javascript"
+                src="/webdata/widgets/simpletable/simpletable.js"></script>
+
+
+        <script type="text/javascript">
+	var simpleTable = new SimpleTable("pageForm", 1, 10, null, null, null, null);
+
+        </script>
+
+        <table width="100%" border="0" cellspacing="0" class="gridToolbar">
+            <tr>
+                <td>
+                    <div class="box">
+
+                        <div class="leftControls">
+
+                        </div>
+
+                        <div class="paginationControls">
+                            <span class="buttonLabel">1 - 10 of 2950</span>
+
+
+                            <img src="/webdata/widgets/simpletable/images/firstPageDisabled.gif" style="border:0">
+
+
+                            <img src="/webdata/widgets/simpletable/images/prevPageDisabled.gif" style="border:0">
+
+
+                            [1]
+
+
+                            <a href="javascript:simpleTable.togglePage(2);">[2]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(3);">[3]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(4);">[4]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(5);">[5]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(6);">[6]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(7);">[7]</a>
+
+
+                            <a href="javascript:simpleTable.togglePage(2);"><img src="/webdata/widgets/simpletable/images/nextPage.gif" style="border:0"></a>
+
+
+                            <a href="javascript:simpleTable.togglePage(295);"><img src="/webdata/widgets/simpletable/images/lastPage.gif" style="border:0"></a>
+
+
+                            <select onChange="simpleTable.togglePageSize(this.value)">
+
+                                <option value="10" selected>10</option>
+
+                                <option value="50">50</option>
+
+                                <option value="100">100</option>
+
+                            </select>
+
+                        </div>
+                        <div>
+                </td>
+            </tr>
+        </table>
+
+
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr>
+                <td height="20"></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table class="btm" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr>
+                <td class="link" align="center" valign="bottom" height="33" colspan="3">
+                    <div align="center">
+                        <a target="_self" href="http://www.cqc.com.cn/chinese/wzjs/A0118index_1.htm">网站导航</a>
+                        |
+                        <a target="_self" href="http://www.cqc.com.cn/chinese/lxfs/zxzb/A010801index_1.htm">联系方式</a>
+                        |
+                        <a target="_self" href="http://www.cqc.com.cn/chinese/zxns/A0120index_1.htm">招贤纳士</a>
+                        |
+                        <a target="_self" href="http://www.cqc.com.cn/chinese/mztk/A0122index_1.htm">法律声明</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" height="33" colspan="3">
+                    <div align="center">
+                        中国质量认证中心 CHINA QUALITY CERTIFICATION CENTER. Copyright &copy; 2000-2010 CQC.COM.CN&nbsp;
+                        <a target="_self" href="http://www.miibeian.gov.cn/">京ICP证030724</a><br>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+</div>
+
+</body>
+</html>

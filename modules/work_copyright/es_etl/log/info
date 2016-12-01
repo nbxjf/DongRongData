@@ -1,0 +1,333 @@
+2016-11-17 15:29:39,378 2268 MainThread INFO round starts
+2016-11-17 15:31:50,762 17160 MainThread INFO round starts
+2016-11-17 17:05:08,513 18560 MainThread INFO round starts
+2016-11-17 17:09:18,595 18560 MainThread INFO inserted into es
+2016-11-17 17:09:18,983 18560 MainThread INFO cost: 240.861000
+2016-11-17 17:11:52,766 18560 MainThread INFO inserted into es
+2016-11-17 18:03:01,010 23112 MainThread INFO round starts
+2016-11-17 18:03:01,025 23112 MainThread INFO starts to process gonggao_dta id: 4
+2016-11-17 18:03:01,039 23112 MainThread INFO starts to index company : 北京优瑞商务咨询有限公司,id : 4,doc_id : 0987946a5bc79a92b8307946b47ef942
+2016-11-17 18:03:01,059 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,098 23112 MainThread INFO cost: 0.074000
+2016-11-17 18:03:01,098 23112 MainThread INFO round ends
+2016-11-17 18:03:01,098 23112 MainThread INFO round starts
+2016-11-17 18:03:01,111 23112 MainThread INFO starts to process gonggao_dta id: 5
+2016-11-17 18:03:01,118 23112 MainThread INFO starts to index company : 徐州,id : 5,doc_id : feae654ca12bc50528afbfb7720ecf54
+2016-11-17 18:03:01,138 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,148 23112 MainThread INFO cost: 0.037000
+2016-11-17 18:03:01,148 23112 MainThread INFO round ends
+2016-11-17 18:03:01,148 23112 MainThread INFO round starts
+2016-11-17 18:03:01,161 23112 MainThread INFO starts to process gonggao_dta id: 6
+2016-11-17 18:03:01,167 23112 MainThread INFO starts to index company : ,id : 6,doc_id : 12265548097016a7672521cdafe52220
+2016-11-17 18:03:01,187 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,196 23112 MainThread INFO cost: 0.034000
+2016-11-17 18:03:01,196 23112 MainThread INFO round ends
+2016-11-17 18:03:01,196 23112 MainThread INFO round starts
+2016-11-17 18:03:01,210 23112 MainThread INFO starts to process gonggao_dta id: 7
+2016-11-17 18:03:01,213 23112 MainThread INFO starts to index company : 衢州市海湖水产品批发有限公司,id : 7,doc_id : 0d4b5157e832b1a0f0b41a7bac569417
+2016-11-17 18:03:01,233 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,243 23112 MainThread INFO cost: 0.033000
+2016-11-17 18:03:01,243 23112 MainThread INFO round ends
+2016-11-17 18:03:01,243 23112 MainThread INFO round starts
+2016-11-17 18:03:01,255 23112 MainThread INFO starts to process gonggao_dta id: 8
+2016-11-17 18:03:01,259 23112 MainThread INFO starts to index company : 青铜峡市十佳苗木繁育有限责任公司,id : 8,doc_id : 05ab0d077cf89953be53e33763a13b0e
+2016-11-17 18:03:01,279 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,289 23112 MainThread INFO cost: 0.035000
+2016-11-17 18:03:01,290 23112 MainThread INFO round ends
+2016-11-17 18:03:01,290 23112 MainThread INFO round starts
+2016-11-17 18:03:01,302 23112 MainThread INFO starts to process gonggao_dta id: 9
+2016-11-17 18:03:01,309 23112 MainThread INFO starts to index company : 孙波,id : 9,doc_id : 4ef5821f5fc10575b45e5c4eca1720ad
+2016-11-17 18:03:01,323 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,336 23112 MainThread INFO starts to index company : 中国太平洋财产保险股份有限公司北京分公司,id : 9,doc_id : 254ff7eadee49b34794d7ad590a53040
+2016-11-17 18:03:01,362 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,372 23112 MainThread INFO cost: 0.070000
+2016-11-17 18:03:01,374 23112 MainThread INFO round ends
+2016-11-17 18:03:01,374 23112 MainThread INFO round starts
+2016-11-17 18:03:01,384 23112 MainThread INFO starts to process gonggao_dta id: 10
+2016-11-17 18:03:01,390 23112 MainThread INFO starts to index company : 受理衢州市同盛食品冷藏有限公司,id : 10,doc_id : 20f7816a8ad6da8100296d9dc92c01df
+2016-11-17 18:03:01,408 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,417 23112 MainThread INFO cost: 0.033000
+2016-11-17 18:03:01,418 23112 MainThread INFO round ends
+2016-11-17 18:03:01,418 23112 MainThread INFO round starts
+2016-11-17 18:03:01,430 23112 MainThread INFO starts to process gonggao_dta id: 11
+2016-11-17 18:03:01,434 23112 MainThread INFO starts to index company : 李广才,id : 11,doc_id : aca7130240ed1ecc981fe960a025fbb6
+2016-11-17 18:03:01,447 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,459 23112 MainThread INFO cost: 0.028000
+2016-11-17 18:03:01,459 23112 MainThread INFO round ends
+2016-11-17 18:03:01,459 23112 MainThread INFO round starts
+2016-11-17 18:03:01,470 23112 MainThread INFO starts to process gonggao_dta id: 12
+2016-11-17 18:03:01,476 23112 MainThread INFO starts to index company : ,id : 12,doc_id : b5516ac8962c627893c9f7038dc172dd
+2016-11-17 18:03:01,492 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,503 23112 MainThread INFO cost: 0.032000
+2016-11-17 18:03:01,503 23112 MainThread INFO round ends
+2016-11-17 18:03:01,503 23112 MainThread INFO round starts
+2016-11-17 18:03:01,515 23112 MainThread INFO starts to process gonggao_dta id: 13
+2016-11-17 18:03:01,519 23112 MainThread INFO starts to index company : 上海南汇力普橡塑五金厂（普通合伙）,id : 13,doc_id : c99c495ac3621f4e8676455125d349f8
+2016-11-17 18:03:01,532 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,542 23112 MainThread INFO cost: 0.027000
+2016-11-17 18:03:01,542 23112 MainThread INFO round ends
+2016-11-17 18:03:01,542 23112 MainThread INFO round starts
+2016-11-17 18:03:01,555 23112 MainThread INFO starts to process gonggao_dta id: 14
+2016-11-17 18:03:01,561 23112 MainThread INFO starts to index company : 成都格林普兰特投资有限公司,id : 14,doc_id : a4e48c0d1f3d7ef97f65dddd3f289671
+2016-11-17 18:03:01,575 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,586 23112 MainThread INFO starts to index company : 海南保亭景韵投资有限公司,id : 14,doc_id : e190fef29d4ed5db6ab1562809f2dcca
+2016-11-17 18:03:01,599 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,614 23112 MainThread INFO starts to index company : 海南保亭雅态源升投资有限公司,id : 14,doc_id : 36e05ae0b8149cf0878f2ea6286cf70f
+2016-11-17 18:03:01,628 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,641 23112 MainThread INFO starts to index company : 李煜升,id : 14,doc_id : d0bc686664e0a6791f87b3f44befe769
+2016-11-17 18:03:01,653 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,663 23112 MainThread INFO cost: 0.108000
+2016-11-17 18:03:01,663 23112 MainThread INFO round ends
+2016-11-17 18:03:01,663 23112 MainThread INFO round starts
+2016-11-17 18:03:01,678 23112 MainThread INFO starts to process gonggao_dta id: 15
+2016-11-17 18:03:01,681 23112 MainThread INFO starts to index company : 上海汽车工业销售有限公司,id : 15,doc_id : 1c31362f81480a6a07ae0644f2e34ef0
+2016-11-17 18:03:01,698 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,711 23112 MainThread INFO cost: 0.033000
+2016-11-17 18:03:01,713 23112 MainThread INFO round ends
+2016-11-17 18:03:01,713 23112 MainThread INFO round starts
+2016-11-17 18:03:01,724 23112 MainThread INFO starts to process gonggao_dta id: 16
+2016-11-17 18:03:01,727 23112 MainThread INFO starts to index company : 刘指千,id : 16,doc_id : de4ed38dd62fbed382958cb57e963fc6
+2016-11-17 18:03:01,742 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,756 23112 MainThread INFO starts to index company : 李芳,id : 16,doc_id : 2db53c4f7863232fcb00a828ae8e0d50
+2016-11-17 18:03:01,772 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,785 23112 MainThread INFO starts to index company : 邵阳市安康驾驶员培训学校,id : 16,doc_id : 8cdc000d3216fd98b5e04ea6bedc58d3
+2016-11-17 18:03:01,799 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,808 23112 MainThread INFO cost: 0.083000
+2016-11-17 18:03:01,809 23112 MainThread INFO round ends
+2016-11-17 18:03:01,809 23112 MainThread INFO round starts
+2016-11-17 18:03:01,819 23112 MainThread INFO starts to process gonggao_dta id: 17
+2016-11-17 18:03:01,825 23112 MainThread INFO starts to index company : 江苏丹毛纺织股份有限公司,id : 17,doc_id : a4388418f231beebccd25b20b90c1ef7
+2016-11-17 18:03:01,838 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,848 23112 MainThread INFO cost: 0.028000
+2016-11-17 18:03:01,848 23112 MainThread INFO round ends
+2016-11-17 18:03:01,848 23112 MainThread INFO round starts
+2016-11-17 18:03:01,861 23112 MainThread INFO starts to process gonggao_dta id: 18
+2016-11-17 18:03:01,867 23112 MainThread INFO starts to index company : 李红,id : 18,doc_id : 33e845f2edcea895fe79e9201906b53f
+2016-11-17 18:03:01,880 23112 MainThread INFO inserted into es
+2016-11-17 18:03:01,888 23112 MainThread INFO cost: 0.028000
+2016-11-17 18:03:01,890 23112 MainThread INFO round ends
+2016-11-17 18:03:01,890 23112 MainThread INFO round starts
+2016-11-17 18:03:01,904 23112 MainThread INFO starts to process gonggao_dta id: 19
+2016-11-17 18:03:01,910 23112 MainThread INFO starts to index company : 深圳市东方热电投资有限公司,id : 19,doc_id : 8ec1a11878160a5894526919d3ddd44f
+2016-11-17 18:03:01,924 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,016 23112 MainThread INFO starts to index company : 石家庄东方热电投资有限公司,id : 19,doc_id : 5628e1da01b2eba3dd1a99b8f5531295
+2016-11-17 18:03:02,030 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,039 23112 MainThread INFO cost: 0.135000
+2016-11-17 18:03:02,039 23112 MainThread INFO round ends
+2016-11-17 18:03:02,039 23112 MainThread INFO round starts
+2016-11-17 18:03:02,052 23112 MainThread INFO starts to process gonggao_dta id: 20
+2016-11-17 18:03:02,056 23112 MainThread INFO starts to index company : 姚利军,id : 20,doc_id : 99108096a438314abbe2c5c75b8bb12f
+2016-11-17 18:03:02,072 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,085 23112 MainThread INFO starts to index company : 母丽萍,id : 20,doc_id : 57d62db3adfadbefe9cff85fd52b40d0
+2016-11-17 18:03:02,098 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,108 23112 MainThread INFO cost: 0.055000
+2016-11-17 18:03:02,108 23112 MainThread INFO round ends
+2016-11-17 18:03:02,108 23112 MainThread INFO round starts
+2016-11-17 18:03:02,121 23112 MainThread INFO starts to process gonggao_dta id: 21
+2016-11-17 18:03:02,127 23112 MainThread INFO starts to index company : ,id : 21,doc_id : 1d1e15cf55f4d791b4aab1d525943cd2
+2016-11-17 18:03:02,141 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,151 23112 MainThread INFO cost: 0.030000
+2016-11-17 18:03:02,151 23112 MainThread INFO round ends
+2016-11-17 18:03:02,153 23112 MainThread INFO round starts
+2016-11-17 18:03:02,164 23112 MainThread INFO starts to process gonggao_dta id: 22
+2016-11-17 18:03:02,167 23112 MainThread INFO starts to index company : 开化长河炭业有限公司,id : 22,doc_id : 99b0aa450ed5ab3a83c214e31e7fa0eb
+2016-11-17 18:03:02,183 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,194 23112 MainThread INFO cost: 0.029000
+2016-11-17 18:03:02,194 23112 MainThread INFO round ends
+2016-11-17 18:03:02,194 23112 MainThread INFO round starts
+2016-11-17 18:03:02,206 23112 MainThread INFO starts to process gonggao_dta id: 23
+2016-11-17 18:03:02,210 23112 MainThread INFO starts to index company : 滕忠芳,id : 23,doc_id : a03036dc062059b5c2ea36b6e3d60ddc
+2016-11-17 18:03:02,223 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,234 23112 MainThread INFO starts to index company : 四川省东润置业有限公司,id : 23,doc_id : c592359ca55a71f5224a9847123bed58
+2016-11-17 18:03:02,250 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,263 23112 MainThread INFO cost: 0.058000
+2016-11-17 18:03:02,265 23112 MainThread INFO round ends
+2016-11-17 18:03:02,265 23112 MainThread INFO round starts
+2016-11-17 18:03:02,276 23112 MainThread INFO starts to process gonggao_dta id: 24
+2016-11-17 18:03:02,282 23112 MainThread INFO starts to index company : ,id : 24,doc_id : 2024dd89025bbfa11f47c89619caf453
+2016-11-17 18:03:02,301 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,309 23112 MainThread INFO cost: 0.033000
+2016-11-17 18:03:02,309 23112 MainThread INFO round ends
+2016-11-17 18:03:02,309 23112 MainThread INFO round starts
+2016-11-17 18:03:02,325 23112 MainThread INFO starts to process gonggao_dta id: 25
+2016-11-17 18:03:02,328 23112 MainThread INFO starts to index company : 余姚市肯邦塑化有限公司,id : 25,doc_id : a6949354eaef4221f9ff2a33ea8dad60
+2016-11-17 18:03:02,345 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,359 23112 MainThread INFO starts to index company : 丁德红,id : 25,doc_id : 0130f02816557512113ddbd3e509d913
+2016-11-17 18:03:02,375 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,388 23112 MainThread INFO starts to index company : 王尚勤,id : 25,doc_id : c23fcb711789571a686d06eff7b165ce
+2016-11-17 18:03:02,404 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,417 23112 MainThread INFO cost: 0.091000
+2016-11-17 18:03:02,417 23112 MainThread INFO round ends
+2016-11-17 18:03:02,417 23112 MainThread INFO round starts
+2016-11-17 18:03:02,427 23112 MainThread INFO starts to process gonggao_dta id: 26
+2016-11-17 18:03:02,431 23112 MainThread INFO starts to index company : 王丽萍,id : 26,doc_id : 9a913bbe88d22eefc2b0fccb327b64d9
+2016-11-17 18:03:02,444 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,453 23112 MainThread INFO cost: 0.026000
+2016-11-17 18:03:02,453 23112 MainThread INFO round ends
+2016-11-17 18:03:02,453 23112 MainThread INFO round starts
+2016-11-17 18:03:02,466 23112 MainThread INFO starts to process gonggao_dta id: 27
+2016-11-17 18:03:02,470 23112 MainThread INFO starts to index company : 承德青山锂电制造有限公司,id : 27,doc_id : ca7b627f10ca792d6f63527b9474edb7
+2016-11-17 18:03:02,492 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,505 23112 MainThread INFO starts to index company : 河北微风新能源汽车制造有限公司,id : 27,doc_id : 4ded45bc679025114d84ea4b0926ab84
+2016-11-17 18:03:02,536 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,549 23112 MainThread INFO starts to index company : 李剑屏,id : 27,doc_id : c916679350c7a9792e17aeea1ee1df27
+2016-11-17 18:03:02,572 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,586 23112 MainThread INFO starts to index company : 田红利,id : 27,doc_id : f367748c55f4e4e8dd5afeef8940d92d
+2016-11-17 18:03:02,605 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,618 23112 MainThread INFO starts to index company : 田京辉,id : 27,doc_id : 04a166389d1d563d044c229e470f6db9
+2016-11-17 18:03:02,635 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,644 23112 MainThread INFO cost: 0.179000
+2016-11-17 18:03:02,645 23112 MainThread INFO round ends
+2016-11-17 18:03:02,645 23112 MainThread INFO round starts
+2016-11-17 18:03:02,657 23112 MainThread INFO starts to process gonggao_dta id: 28
+2016-11-17 18:03:02,663 23112 MainThread INFO starts to index company : 株式会社味滋康集团本社,id : 28,doc_id : 198e7e37ec2e7718a6d54caebcf7d7fb
+2016-11-17 18:03:02,677 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,687 23112 MainThread INFO cost: 0.029000
+2016-11-17 18:03:02,687 23112 MainThread INFO round ends
+2016-11-17 18:03:02,687 23112 MainThread INFO round starts
+2016-11-17 18:03:02,700 23112 MainThread INFO starts to process gonggao_dta id: 29
+2016-11-17 18:03:02,703 23112 MainThread INFO starts to index company : 肖思文（身份证号码420902199102186055）,id : 29,doc_id : 73f1de19c853fcff4be21c2daa4b2162
+2016-11-17 18:03:02,720 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,734 23112 MainThread INFO cost: 0.034000
+2016-11-17 18:03:02,736 23112 MainThread INFO round ends
+2016-11-17 18:03:02,736 23112 MainThread INFO round starts
+2016-11-17 18:03:02,750 23112 MainThread INFO starts to process gonggao_dta id: 30
+2016-11-17 18:03:02,756 23112 MainThread INFO starts to index company : 河南汇从肥业有限公司,id : 30,doc_id : 640da4db04e8e40adc752772a1fdc4cf
+2016-11-17 18:03:02,770 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,782 23112 MainThread INFO starts to index company : 许昌市和鑫达房地产开发有限公司,id : 30,doc_id : 712153829ca73d194e90ff7520fde20e
+2016-11-17 18:03:02,796 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,809 23112 MainThread INFO starts to index company : 河南省辰宇光电科技有限公司,id : 30,doc_id : ab5b1f7b15c18bd391e16f2b3095f38f
+2016-11-17 18:03:02,822 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,835 23112 MainThread INFO starts to index company : 彭德超,id : 30,doc_id : 0690b0fc7b6d61fd1f1717f7abc22087
+2016-11-17 18:03:02,849 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,861 23112 MainThread INFO starts to index company : 冯爱芳,id : 30,doc_id : 2f14cbc4b2351c3b1e534579f3ba26bf
+2016-11-17 18:03:02,878 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,892 23112 MainThread INFO starts to index company : 刘全义,id : 30,doc_id : bea279e19fafefd460a531e1daf07808
+2016-11-17 18:03:02,905 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,920 23112 MainThread INFO starts to index company : 赵国营,id : 30,doc_id : 67f41ca873cfd164db4805801f0d8125
+2016-11-17 18:03:02,931 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,940 23112 MainThread INFO cost: 0.190000
+2016-11-17 18:03:02,941 23112 MainThread INFO round ends
+2016-11-17 18:03:02,941 23112 MainThread INFO round starts
+2016-11-17 18:03:02,957 23112 MainThread INFO starts to process gonggao_dta id: 31
+2016-11-17 18:03:02,960 23112 MainThread INFO starts to index company : 中山市了不得生物科技有限公司,id : 31,doc_id : fad842a370ff7637f5f54cce7a695f18
+2016-11-17 18:03:02,973 23112 MainThread INFO inserted into es
+2016-11-17 18:03:02,982 23112 MainThread INFO cost: 0.025000
+2016-11-17 18:03:02,983 23112 MainThread INFO round ends
+2016-11-17 18:03:02,983 23112 MainThread INFO round starts
+2016-11-17 18:03:02,996 23112 MainThread INFO starts to process gonggao_dta id: 32
+2016-11-17 18:03:03,000 23112 MainThread INFO starts to index company : 郑州维体时尚健身俱乐部有限公司,id : 32,doc_id : 1c1206fa08d4644dae927f86c593fdb4
+2016-11-17 18:03:03,015 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,026 23112 MainThread INFO cost: 0.031000
+2016-11-17 18:03:03,026 23112 MainThread INFO round ends
+2016-11-17 18:03:03,026 23112 MainThread INFO round starts
+2016-11-17 18:03:03,042 23112 MainThread INFO starts to process gonggao_dta id: 33
+2016-11-17 18:03:03,045 23112 MainThread INFO starts to index company : 法国杰尼斯迪奥国际集团有限公司,id : 33,doc_id : fa1106d7fa71f0fa699561b9b540c7d3
+2016-11-17 18:03:03,059 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,068 23112 MainThread INFO cost: 0.026000
+2016-11-17 18:03:03,068 23112 MainThread INFO round ends
+2016-11-17 18:03:03,068 23112 MainThread INFO round starts
+2016-11-17 18:03:03,082 23112 MainThread INFO starts to process gonggao_dta id: 34
+2016-11-17 18:03:03,085 23112 MainThread INFO starts to index company : 周攀,id : 34,doc_id : ce5d12ac1695c9e64464cb59c5eac253
+2016-11-17 18:03:03,098 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,108 23112 MainThread INFO cost: 0.026000
+2016-11-17 18:03:03,108 23112 MainThread INFO round ends
+2016-11-17 18:03:03,108 23112 MainThread INFO round starts
+2016-11-17 18:03:03,119 23112 MainThread INFO starts to process gonggao_dta id: 35
+2016-11-17 18:03:03,122 23112 MainThread INFO starts to index company : 王锁才,id : 35,doc_id : c5d23a6751e330e6b6d6ed3b919baccc
+2016-11-17 18:03:03,138 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,148 23112 MainThread INFO cost: 0.028000
+2016-11-17 18:03:03,148 23112 MainThread INFO round ends
+2016-11-17 18:03:03,148 23112 MainThread INFO round starts
+2016-11-17 18:03:03,160 23112 MainThread INFO starts to process gonggao_dta id: 36
+2016-11-17 18:03:03,164 23112 MainThread INFO starts to index company : 高敏,id : 36,doc_id : d7d598a97137ac48897dcfefb0e944f1
+2016-11-17 18:03:03,176 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,191 23112 MainThread INFO starts to index company : 林子熙,id : 36,doc_id : f231117acec810978f0e76213966660b
+2016-11-17 18:03:03,207 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,217 23112 MainThread INFO cost: 0.058000
+2016-11-17 18:03:03,217 23112 MainThread INFO round ends
+2016-11-17 18:03:03,217 23112 MainThread INFO round starts
+2016-11-17 18:03:03,229 23112 MainThread INFO starts to process gonggao_dta id: 37
+2016-11-17 18:03:03,233 23112 MainThread INFO starts to index company : 董永康,id : 37,doc_id : 5ac80ddf51ca4501820c190dc8cc52ed
+2016-11-17 18:03:03,246 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,256 23112 MainThread INFO cost: 0.027000
+2016-11-17 18:03:03,256 23112 MainThread INFO round ends
+2016-11-17 18:03:03,256 23112 MainThread INFO round starts
+2016-11-17 18:03:03,270 23112 MainThread INFO starts to process gonggao_dta id: 38
+2016-11-17 18:03:03,276 23112 MainThread INFO starts to index company : 顾崇允,id : 38,doc_id : f9c281f8da63c728d292a16e66aeb683
+2016-11-17 18:03:03,289 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,305 23112 MainThread INFO starts to index company : 郑州进达置业有限公司,id : 38,doc_id : 37bc43e5e140b912cbe4e6dd4564a398
+2016-11-17 18:03:03,319 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,328 23112 MainThread INFO cost: 0.057000
+2016-11-17 18:03:03,328 23112 MainThread INFO round ends
+2016-11-17 18:03:03,328 23112 MainThread INFO round starts
+2016-11-17 18:03:03,341 23112 MainThread INFO starts to process gonggao_dta id: 39
+2016-11-17 18:03:03,345 23112 MainThread INFO starts to index company : 魏月平,id : 39,doc_id : 4bd4cb880357594cf893b3754e664e76
+2016-11-17 18:03:03,358 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,369 23112 MainThread INFO cost: 0.029000
+2016-11-17 18:03:03,371 23112 MainThread INFO round ends
+2016-11-17 18:03:03,371 23112 MainThread INFO round starts
+2016-11-17 18:03:03,385 23112 MainThread INFO starts to process gonggao_dta id: 40
+2016-11-17 18:03:03,391 23112 MainThread INFO starts to index company : 诸暨市东源纺织有限公司,id : 40,doc_id : 814935e2aeca6f623bc4544c9a2b3fe4
+2016-11-17 18:03:03,408 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,420 23112 MainThread INFO cost: 0.034000
+2016-11-17 18:03:03,420 23112 MainThread INFO round ends
+2016-11-17 18:03:03,420 23112 MainThread INFO round starts
+2016-11-17 18:03:03,431 23112 MainThread INFO starts to process gonggao_dta id: 41
+2016-11-17 18:03:03,437 23112 MainThread INFO starts to index company : ,id : 41,doc_id : 5b0d92c4c911f6acfcfc29590c4166dd
+2016-11-17 18:03:03,451 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,463 23112 MainThread INFO cost: 0.031000
+2016-11-17 18:03:03,463 23112 MainThread INFO round ends
+2016-11-17 18:03:03,463 23112 MainThread INFO round starts
+2016-11-17 18:03:03,476 23112 MainThread INFO starts to process gonggao_dta id: 42
+2016-11-17 18:03:03,479 23112 MainThread INFO starts to index company : 上海舰欣实业有限公司,id : 42,doc_id : fce04a29bbc05df4b354ccab67981d22
+2016-11-17 18:03:03,496 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,505 23112 MainThread INFO cost: 0.029000
+2016-11-17 18:03:03,505 23112 MainThread INFO round ends
+2016-11-17 18:03:03,505 23112 MainThread INFO round starts
+2016-11-17 18:03:03,520 23112 MainThread INFO starts to process gonggao_dta id: 43
+2016-11-17 18:03:03,525 23112 MainThread INFO starts to index company : 庞云海,id : 43,doc_id : 0603c4774a0658bf5eba8989d323a205
+2016-11-17 18:03:03,552 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,566 23112 MainThread INFO starts to index company : 王敏,id : 43,doc_id : aee5f2fa52262cfdb4c7ed07dc0e4fec
+2016-11-17 18:03:03,581 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,595 23112 MainThread INFO cost: 0.075000
+2016-11-17 18:03:03,595 23112 MainThread INFO round ends
+2016-11-17 18:03:03,595 23112 MainThread INFO round starts
+2016-11-17 18:03:03,607 23112 MainThread INFO starts to process gonggao_dta id: 44
+2016-11-17 18:03:03,611 23112 MainThread INFO starts to index company : 浙江嘉善三方玻璃钢有限责任公司,id : 44,doc_id : 88a0a35d6415f8c2c36a1e2f4ad750d2
+2016-11-17 18:03:03,627 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,638 23112 MainThread INFO cost: 0.032000
+2016-11-17 18:03:03,640 23112 MainThread INFO round ends
+2016-11-17 18:03:03,640 23112 MainThread INFO round starts
+2016-11-17 18:03:03,651 23112 MainThread INFO starts to process gonggao_dta id: 45
+2016-11-17 18:03:03,661 23112 MainThread INFO starts to index company : 邵英弟（身份证号：210403195904283916）：,id : 45,doc_id : eb9e42adcc045377235b7e5a47f74556
+2016-11-17 18:03:03,752 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,760 23112 MainThread INFO cost: 0.109000
+2016-11-17 18:03:03,760 23112 MainThread INFO round ends
+2016-11-17 18:03:03,760 23112 MainThread INFO round starts
+2016-11-17 18:03:03,773 23112 MainThread INFO starts to process gonggao_dta id: 46
+2016-11-17 18:03:03,779 23112 MainThread INFO starts to index company : 黄科科,id : 46,doc_id : 38aeede503ac2cac85ff477567fbf949
+2016-11-17 18:03:03,796 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,805 23112 MainThread INFO cost: 0.032000
+2016-11-17 18:03:03,805 23112 MainThread INFO round ends
+2016-11-17 18:03:03,805 23112 MainThread INFO round starts
+2016-11-17 18:03:03,819 23112 MainThread INFO starts to process gonggao_dta id: 47
+2016-11-17 18:03:03,823 23112 MainThread INFO starts to index company : ,id : 47,doc_id : d982e1c09ac8b20f4932b7d027ccc70b
+2016-11-17 18:03:03,841 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,855 23112 MainThread INFO cost: 0.036000
+2016-11-17 18:03:03,855 23112 MainThread INFO round ends
+2016-11-17 18:03:03,855 23112 MainThread INFO round starts
+2016-11-17 18:03:03,867 23112 MainThread INFO starts to process gonggao_dta id: 48
+2016-11-17 18:03:03,871 23112 MainThread INFO starts to index company : 内蒙古东昇煤化工有限责任公司,id : 48,doc_id : 78ae620e9fe0b9cc48311ba780fd097c
+2016-11-17 18:03:03,884 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,894 23112 MainThread INFO cost: 0.028000
+2016-11-17 18:03:03,894 23112 MainThread INFO round ends
+2016-11-17 18:03:03,894 23112 MainThread INFO round starts
+2016-11-17 18:03:03,907 23112 MainThread INFO starts to process gonggao_dta id: 49
+2016-11-17 18:03:03,911 23112 MainThread INFO starts to index company : 黎金凤,id : 49,doc_id : 31ac3dde884040632abdcaccc837e2f1
+2016-11-17 18:03:03,924 23112 MainThread INFO inserted into es
+2016-11-17 18:03:03,937 23112 MainThread INFO cost: 0.031000
+2016-11-17 18:03:03,937 23112 MainThread INFO round ends
+2016-11-17 18:03:03,937 23112 MainThread INFO round starts
+2016-11-17 18:03:03,950 23112 MainThread INFO starts to process gonggao_dta id: 50
+2016-11-17 18:03:03,953 23112 MainThread INFO starts to index company : 卓沃斯有限公司,id : 50,doc_id : b13c1c3f6b08081dfc0ef4b92bda6725

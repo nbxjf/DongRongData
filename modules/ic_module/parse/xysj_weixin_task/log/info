@@ -1,0 +1,14 @@
+2016-08-02 17:36:58,367 3820 MainThread INFO  starting 
+2016-08-02 17:37:00,500 3820 MainThread ERROR 1054 (42S22): Unknown column 'src_detail' in 'field list'
+Traceback (most recent call last):
+  File "D:\python_crawler\app\common\db.py", line 51, in sql_fetch_rows
+    cur.execute(stmt, data)
+  File "C:\Python27\lib\site-packages\mysql\connector\cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 395, in _handle_result
+    raise errors.get_exception(packet)
+ProgrammingError: 1054 (42S22): Unknown column 'src_detail' in 'field list'
+2016-08-02 17:41:09,663 4124 MainThread INFO  starting 
+2016-08-02 17:41:38,924 4124 MainThread INFO  starting 

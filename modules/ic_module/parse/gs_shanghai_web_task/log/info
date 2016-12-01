@@ -1,0 +1,419 @@
+2016-08-24 13:59:15,673 4824 MainThread ERROR 2003: Can't connect to MySQL server on '10.10.1.101:3311' (10060 )
+Traceback (most recent call last):
+  File "D:\python_crawler\app\common\db.py", line 16, in sql_connect
+    cnxpool = mysql.connector.pooling.MySQLConnectionPool(**spider_con_config)
+  File "C:\Python27\lib\site-packages\mysql\connector\pooling.py", line 159, in __init__
+    self.add_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\pooling.py", line 270, in add_connection
+    cnx = MySQLConnection(**self._cnx_config)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on '10.10.1.101:3311' (10060 )
+2016-08-24 13:59:21,604 5864 MainThread INFO  starting 
+2016-08-24 13:59:33,361 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:33,374 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:33,529 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:33,543 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:33,688 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:33,701 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:33,855 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:33,868 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,062 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,076 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,213 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,223 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,335 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,348 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,517 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,530 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,690 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,703 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:34,851 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:34,864 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,029 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,042 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,187 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,197 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,326 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,338 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,420 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,430 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,581 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,592 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,690 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,703 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:35,842 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:35,855 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,039 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,053 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,184 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,197 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,305 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,318 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,407 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,420 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,528 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,542 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,723 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,737 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:36,898 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:36,910 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,023 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,035 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,164 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,180 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,378 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,392 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,523 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,535 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,664 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,676 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,790 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,802 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:37,927 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:37,937 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,085 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,095 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,181 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,194 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,282 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,292 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,430 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,443 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,588 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,601 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,802 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,813 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:38,934 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:38,947 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,081 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,094 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,232 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,244 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,345 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,357 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,486 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,499 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,657 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,671 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,832 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:39,844 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:39,996 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,009 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,177 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,193 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,359 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,374 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,532 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,545 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,737 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,749 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,857 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,868 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:40,953 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:40,963 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,112 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,125 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,252 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,263 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,404 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,417 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,582 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,595 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,734 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,746 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:41,915 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:41,928 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,111 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,125 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,278 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,290 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,428 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,440 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,585 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,598 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,750 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,763 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:42,887 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:42,900 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,007 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,019 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,101 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,112 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,220 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,233 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,391 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,404 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,539 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,551 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,714 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,726 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:43,878 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:43,894 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,051 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,062 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,204 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,216 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,342 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,355 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,502 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,513 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,678 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,693 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,839 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,854 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:44,973 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:44,984 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:45,155 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:45,170 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:45,316 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:45,328 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:45,447 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:45,459 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:45,608 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:45,621 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:45,948 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:45,961 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,079 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,091 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,210 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,223 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,401 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,415 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,573 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,585 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,676 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,687 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,871 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,887 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:46,970 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:46,980 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,098 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,109 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,198 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,210 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,335 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,345 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,444 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,456 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,573 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,588 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,710 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,723 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:47,908 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:47,923 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:48,102 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:48,115 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:48,328 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:48,342 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:48,542 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:48,555 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:48,729 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:48,743 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:48,936 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:48,948 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,089 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,101 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,197 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,209 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,292 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,303 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,418 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,430 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,515 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,526 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,653 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,664 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,789 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,801 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:49,900 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:49,911 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,045 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,055 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,183 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,194 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,325 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,335 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,417 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,427 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,551 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,563 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,676 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,687 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:50,792 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:50,802 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,059 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,073 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,213 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,224 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,374 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,387 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,529 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,542 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,674 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,688 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,809 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,822 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:51,915 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:51,927 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,016 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,026 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,119 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,132 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,263 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,273 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,387 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,401 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,607 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,618 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,729 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,740 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:52,868 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:52,882 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,053 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,065 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,161 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,173 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,253 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,266 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,368 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,380 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,490 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,503 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,611 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,622 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,747 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,760 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:53,895 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:53,908 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:54,042 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:54,055 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:54,288 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:54,302 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:54,479 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:54,490 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:54,631 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:54,645 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:54,809 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:54,825 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,023 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,036 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,157 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,168 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,276 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,290 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,436 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,447 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,542 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,553 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,670 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,683 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,819 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,831 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:55,970 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:55,986 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,134 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,147 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,279 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,290 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,434 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,448 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,624 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,637 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,766 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,776 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:56,923 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:56,937 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,072 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,085 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,198 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,210 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,334 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,345 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,450 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,461 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,609 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,622 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:57,763 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:57,778 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,003 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,016 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,167 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,180 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,273 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,286 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,368 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,378 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,457 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,467 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,591 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,602 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,726 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,737 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:58,882 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:58,898 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,036 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,049 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,221 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,233 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,332 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,345 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,466 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,480 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,621 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,635 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,805 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,818 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 13:59:59,983 5864 MainThread INFO  data inserted 
+2016-08-24 13:59:59,996 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,101 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,114 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,190 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,201 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,334 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,345 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,447 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,460 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,543 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,555 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,680 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,694 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:00,832 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:00,846 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,000 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,013 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,184 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,197 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,311 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,322 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,404 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,414 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,526 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,536 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,710 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,723 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,811 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,822 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:01,937 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:01,948 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,063 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,075 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,160 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,173 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,302 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,312 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,447 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,460 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,588 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,599 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,720 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,733 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,865 5864 MainThread INFO  data inserted 
+2016-08-24 14:00:02,881 5864 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-08-24 14:00:02,894 5864 MainThread INFO  the round of batch-parsing ends, and totally cost 40.8380000591. 

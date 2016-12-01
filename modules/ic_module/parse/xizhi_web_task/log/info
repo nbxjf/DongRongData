@@ -1,0 +1,604 @@
+2016-11-14 13:56:10,413 15024 MainThread INFO  begin to parse company-id : 1649525 
+2016-11-14 13:57:03,117 15024 MainThread INFO  data stored 
+2016-11-14 14:00:27,507 17292 MainThread INFO  begin to parse company-id : 1649525 
+2016-11-14 14:00:33,575 17292 MainThread INFO  data stored 
+2016-11-14 14:00:36,484 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:00:42,621 17292 MainThread INFO  begin to parse company-id : 1649526 
+2016-11-14 14:00:47,793 17292 MainThread INFO  data stored 
+2016-11-14 14:00:49,931 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:00,516 17292 MainThread INFO  begin to parse company-id : 1649527 
+2016-11-14 14:01:04,796 17292 MainThread INFO  data stored 
+2016-11-14 14:01:06,520 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:07,927 17292 MainThread INFO  begin to parse company-id : 1649528 
+2016-11-14 14:01:13,888 17292 MainThread INFO  data stored 
+2016-11-14 14:01:14,765 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:16,265 17292 MainThread INFO  begin to parse company-id : 1649529 
+2016-11-14 14:01:18,859 17292 MainThread INFO  data stored 
+2016-11-14 14:01:19,957 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:21,043 17292 MainThread INFO  begin to parse company-id : 1649530 
+2016-11-14 14:01:23,306 17292 MainThread INFO  data stored 
+2016-11-14 14:01:23,309 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:23,309 17292 MainThread INFO  begin to parse company-id : 1649531 
+2016-11-14 14:01:23,433 17292 MainThread INFO  data stored 
+2016-11-14 14:01:23,456 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:23,457 17292 MainThread INFO  begin to parse company-id : 1649532 
+2016-11-14 14:01:23,565 17292 MainThread INFO  data stored 
+2016-11-14 14:01:23,586 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:23,586 17292 MainThread INFO  begin to parse company-id : 1649533 
+2016-11-14 14:01:23,808 17292 MainThread INFO  data stored 
+2016-11-14 14:01:23,825 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:23,825 17292 MainThread INFO  begin to parse company-id : 1649534 
+2016-11-14 14:01:23,898 17292 MainThread INFO  data stored 
+2016-11-14 14:01:23,914 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:23,914 17292 MainThread INFO  begin to parse company-id : 1649535 
+2016-11-14 14:01:24,119 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,134 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,137 17292 MainThread INFO  begin to parse company-id : 1649536 
+2016-11-14 14:01:24,210 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,224 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,226 17292 MainThread INFO  begin to parse company-id : 1649537 
+2016-11-14 14:01:24,305 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,319 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,319 17292 MainThread INFO  begin to parse company-id : 1649538 
+2016-11-14 14:01:24,418 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,434 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,436 17292 MainThread INFO  begin to parse company-id : 1649539 
+2016-11-14 14:01:24,516 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,528 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,529 17292 MainThread INFO  begin to parse company-id : 1649540 
+2016-11-14 14:01:24,628 17292 MainThread INFO  data stored 
+2016-11-14 14:01:24,648 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:24,648 17292 MainThread INFO  begin to parse company-id : 1649541 
+2016-11-14 14:01:25,418 17292 MainThread INFO  data stored 
+2016-11-14 14:01:25,486 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:25,487 17292 MainThread INFO  begin to parse company-id : 1649542 
+2016-11-14 14:01:25,638 17292 MainThread INFO  data stored 
+2016-11-14 14:01:25,654 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:25,654 17292 MainThread INFO  begin to parse company-id : 1649543 
+2016-11-14 14:01:25,724 17292 MainThread INFO  data stored 
+2016-11-14 14:01:25,743 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:25,744 17292 MainThread INFO  begin to parse company-id : 1649544 
+2016-11-14 14:01:26,075 17292 MainThread INFO  data stored 
+2016-11-14 14:01:26,190 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:26,193 17292 MainThread INFO  begin to parse company-id : 1649545 
+2016-11-14 14:01:26,591 17292 MainThread INFO  data stored 
+2016-11-14 14:01:26,701 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:26,703 17292 MainThread INFO  begin to parse company-id : 1649546 
+2016-11-14 14:01:27,088 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,210 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,210 17292 MainThread INFO  begin to parse company-id : 1649547 
+2016-11-14 14:01:27,323 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,335 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,335 17292 MainThread INFO  begin to parse company-id : 1649548 
+2016-11-14 14:01:27,415 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,427 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,427 17292 MainThread INFO  begin to parse company-id : 1649549 
+2016-11-14 14:01:27,493 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,505 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,506 17292 MainThread INFO  begin to parse company-id : 1649550 
+2016-11-14 14:01:27,592 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,602 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,604 17292 MainThread INFO  begin to parse company-id : 1649551 
+2016-11-14 14:01:27,671 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,681 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,681 17292 MainThread INFO  begin to parse company-id : 1649552 
+2016-11-14 14:01:27,743 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,788 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,789 17292 MainThread INFO  begin to parse company-id : 1649553 
+2016-11-14 14:01:27,869 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,882 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,882 17292 MainThread INFO  begin to parse company-id : 1649554 
+2016-11-14 14:01:27,951 17292 MainThread INFO  data stored 
+2016-11-14 14:01:27,963 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:27,963 17292 MainThread INFO  begin to parse company-id : 1649555 
+2016-11-14 14:01:28,086 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,099 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,101 17292 MainThread INFO  begin to parse company-id : 1649556 
+2016-11-14 14:01:28,167 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,178 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,180 17292 MainThread INFO  begin to parse company-id : 1649557 
+2016-11-14 14:01:28,237 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,250 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,250 17292 MainThread INFO  begin to parse company-id : 1649558 
+2016-11-14 14:01:28,319 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,332 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,334 17292 MainThread INFO  begin to parse company-id : 1649559 
+2016-11-14 14:01:28,447 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,470 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,470 17292 MainThread INFO  begin to parse company-id : 1649563 
+2016-11-14 14:01:28,561 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,573 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,575 17292 MainThread INFO  begin to parse company-id : 1649564 
+2016-11-14 14:01:28,661 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,674 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,674 17292 MainThread INFO  begin to parse company-id : 1649565 
+2016-11-14 14:01:28,756 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,769 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,770 17292 MainThread INFO  begin to parse company-id : 1649566 
+2016-11-14 14:01:28,869 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,888 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,888 17292 MainThread INFO  begin to parse company-id : 1649567 
+2016-11-14 14:01:28,971 17292 MainThread INFO  data stored 
+2016-11-14 14:01:28,983 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:28,984 17292 MainThread INFO  begin to parse company-id : 1649568 
+2016-11-14 14:01:29,158 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,174 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,176 17292 MainThread INFO  begin to parse company-id : 1649569 
+2016-11-14 14:01:29,263 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,275 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,276 17292 MainThread INFO  begin to parse company-id : 1649570 
+2016-11-14 14:01:29,374 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,398 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,398 17292 MainThread INFO  begin to parse company-id : 1649571 
+2016-11-14 14:01:29,483 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,494 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,496 17292 MainThread INFO  begin to parse company-id : 1649572 
+2016-11-14 14:01:29,559 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,571 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,571 17292 MainThread INFO  begin to parse company-id : 1649573 
+2016-11-14 14:01:29,661 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,674 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,676 17292 MainThread INFO  begin to parse company-id : 1649574 
+2016-11-14 14:01:29,742 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,753 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,753 17292 MainThread INFO  begin to parse company-id : 1649575 
+2016-11-14 14:01:29,874 17292 MainThread INFO  data stored 
+2016-11-14 14:01:29,897 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:29,898 17292 MainThread INFO  begin to parse company-id : 1649576 
+2016-11-14 14:01:30,209 17292 MainThread INFO  data stored 
+2016-11-14 14:01:30,224 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:30,226 17292 MainThread INFO  begin to parse company-id : 1649577 
+2016-11-14 14:01:31,026 17292 MainThread INFO  data stored 
+2016-11-14 14:01:31,108 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:31,108 17292 MainThread INFO  begin to parse company-id : 1649578 
+2016-11-14 14:01:31,750 17292 MainThread INFO  data stored 
+2016-11-14 14:01:31,779 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:31,780 17292 MainThread INFO  begin to parse company-id : 1649579 
+2016-11-14 14:01:31,930 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,069 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,071 17292 MainThread INFO  begin to parse company-id : 1649580 
+2016-11-14 14:01:32,226 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,259 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,260 17292 MainThread INFO  begin to parse company-id : 1649581 
+2016-11-14 14:01:32,378 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,405 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,407 17292 MainThread INFO  begin to parse company-id : 1649582 
+2016-11-14 14:01:32,533 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,549 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,551 17292 MainThread INFO  begin to parse company-id : 1649583 
+2016-11-14 14:01:32,637 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,657 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,657 17292 MainThread INFO  begin to parse company-id : 1649584 
+2016-11-14 14:01:32,750 17292 MainThread INFO  data stored 
+2016-11-14 14:01:32,809 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:32,811 17292 MainThread INFO  begin to parse company-id : 1649585 
+2016-11-14 14:01:33,220 17292 MainThread INFO  data stored 
+2016-11-14 14:01:33,233 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:33,234 17292 MainThread INFO  begin to parse company-id : 1649586 
+2016-11-14 14:01:33,711 17292 MainThread INFO  data stored 
+2016-11-14 14:01:33,861 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:33,861 17292 MainThread INFO  begin to parse company-id : 1649587 
+2016-11-14 14:01:34,417 17292 MainThread INFO  data stored 
+2016-11-14 14:01:34,536 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:34,538 17292 MainThread INFO  begin to parse company-id : 1649588 
+2016-11-14 14:01:34,677 17292 MainThread INFO  data stored 
+2016-11-14 14:01:34,690 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:34,690 17292 MainThread INFO  begin to parse company-id : 1649589 
+2016-11-14 14:01:35,059 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,078 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,078 17292 MainThread INFO  begin to parse company-id : 1649590 
+2016-11-14 14:01:35,157 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,168 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,170 17292 MainThread INFO  begin to parse company-id : 1649591 
+2016-11-14 14:01:35,413 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,427 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,428 17292 MainThread INFO  begin to parse company-id : 1649592 
+2016-11-14 14:01:35,654 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,671 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,671 17292 MainThread INFO  begin to parse company-id : 1649593 
+2016-11-14 14:01:35,821 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,849 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,851 17292 MainThread INFO  begin to parse company-id : 1649594 
+2016-11-14 14:01:35,954 17292 MainThread INFO  data stored 
+2016-11-14 14:01:35,970 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:35,970 17292 MainThread INFO  begin to parse company-id : 1649595 
+2016-11-14 14:01:36,187 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,200 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,201 17292 MainThread INFO  begin to parse company-id : 1649596 
+2016-11-14 14:01:36,309 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,319 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,321 17292 MainThread INFO  begin to parse company-id : 1649597 
+2016-11-14 14:01:36,437 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,450 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,450 17292 MainThread INFO  begin to parse company-id : 1649598 
+2016-11-14 14:01:36,533 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,546 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,546 17292 MainThread INFO  begin to parse company-id : 1649599 
+2016-11-14 14:01:36,658 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,670 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,670 17292 MainThread INFO  begin to parse company-id : 1649600 
+2016-11-14 14:01:36,907 17292 MainThread INFO  data stored 
+2016-11-14 14:01:36,934 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:36,934 17292 MainThread INFO  begin to parse company-id : 1649601 
+2016-11-14 14:01:37,012 17292 MainThread INFO  data stored 
+2016-11-14 14:01:37,025 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:37,025 17292 MainThread INFO  begin to parse company-id : 1649602 
+2016-11-14 14:01:37,226 17292 MainThread INFO  data stored 
+2016-11-14 14:01:37,237 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:37,237 17292 MainThread INFO  begin to parse company-id : 1649603 
+2016-11-14 14:01:37,339 17292 MainThread INFO  data stored 
+2016-11-14 14:01:37,352 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:37,354 17292 MainThread INFO  begin to parse company-id : 1649604 
+2016-11-14 14:01:37,430 17292 MainThread INFO  data stored 
+2016-11-14 14:01:37,444 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:37,444 17292 MainThread INFO  begin to parse company-id : 1649605 
+2016-11-14 14:01:37,948 17292 MainThread INFO  data stored 
+2016-11-14 14:01:37,960 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:37,960 17292 MainThread INFO  begin to parse company-id : 1649606 
+2016-11-14 14:01:38,020 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,035 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,036 17292 MainThread INFO  begin to parse company-id : 1649607 
+2016-11-14 14:01:38,161 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,174 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,174 17292 MainThread INFO  begin to parse company-id : 1649608 
+2016-11-14 14:01:38,400 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,413 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,413 17292 MainThread INFO  begin to parse company-id : 1649609 
+2016-11-14 14:01:38,569 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,582 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,584 17292 MainThread INFO  begin to parse company-id : 1649610 
+2016-11-14 14:01:38,674 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,686 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,686 17292 MainThread INFO  begin to parse company-id : 1649611 
+2016-11-14 14:01:38,838 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,849 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,849 17292 MainThread INFO  begin to parse company-id : 1649612 
+2016-11-14 14:01:38,944 17292 MainThread INFO  data stored 
+2016-11-14 14:01:38,956 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:38,956 17292 MainThread INFO  begin to parse company-id : 1649614 
+2016-11-14 14:01:39,223 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,237 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,239 17292 MainThread INFO  begin to parse company-id : 1649615 
+2016-11-14 14:01:39,344 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,359 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,361 17292 MainThread INFO  begin to parse company-id : 1649616 
+2016-11-14 14:01:39,490 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,506 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,507 17292 MainThread INFO  begin to parse company-id : 1649617 
+2016-11-14 14:01:39,592 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,605 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,605 17292 MainThread INFO  begin to parse company-id : 1649618 
+2016-11-14 14:01:39,673 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,684 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,684 17292 MainThread INFO  begin to parse company-id : 1649619 
+2016-11-14 14:01:39,878 17292 MainThread INFO  data stored 
+2016-11-14 14:01:39,891 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:39,891 17292 MainThread INFO  begin to parse company-id : 1649620 
+2016-11-14 14:01:40,005 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,019 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,019 17292 MainThread INFO  begin to parse company-id : 1649621 
+2016-11-14 14:01:40,233 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,246 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,246 17292 MainThread INFO  begin to parse company-id : 1649622 
+2016-11-14 14:01:40,306 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,319 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,319 17292 MainThread INFO  begin to parse company-id : 1649623 
+2016-11-14 14:01:40,411 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,424 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,424 17292 MainThread INFO  begin to parse company-id : 1649624 
+2016-11-14 14:01:40,526 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,539 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,542 17292 MainThread INFO  begin to parse company-id : 1649625 
+2016-11-14 14:01:40,612 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,631 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,631 17292 MainThread INFO  begin to parse company-id : 1649626 
+2016-11-14 14:01:40,911 17292 MainThread INFO  data stored 
+2016-11-14 14:01:40,927 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:40,927 17292 MainThread INFO  begin to parse company-id : 1649627 
+2016-11-14 14:01:41,023 17292 MainThread INFO  data stored 
+2016-11-14 14:01:41,038 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:41,039 17292 MainThread INFO  begin to parse company-id : 1649628 
+2016-11-14 14:01:41,299 17292 MainThread INFO  data stored 
+2016-11-14 14:01:41,315 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:41,315 17292 MainThread INFO  the round of batch-parsing ends, and totally cost 87.2860000134. 
+2016-11-14 14:01:45,934 17292 MainThread INFO  begin to parse company-id : 1649629 
+2016-11-14 14:01:46,078 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,109 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,111 17292 MainThread INFO  begin to parse company-id : 1649630 
+2016-11-14 14:01:46,243 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,256 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,257 17292 MainThread INFO  begin to parse company-id : 1649631 
+2016-11-14 14:01:46,351 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,371 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,371 17292 MainThread INFO  begin to parse company-id : 1649632 
+2016-11-14 14:01:46,473 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,484 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,486 17292 MainThread INFO  begin to parse company-id : 1649633 
+2016-11-14 14:01:46,586 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,601 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,601 17292 MainThread INFO  begin to parse company-id : 1649635 
+2016-11-14 14:01:46,700 17292 MainThread INFO  data stored 
+2016-11-14 14:01:46,711 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:46,713 17292 MainThread INFO  begin to parse company-id : 1649636 
+2016-11-14 14:01:46,993 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,013 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,015 17292 MainThread INFO  begin to parse company-id : 1649637 
+2016-11-14 14:01:47,140 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,207 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,209 17292 MainThread INFO  begin to parse company-id : 1649638 
+2016-11-14 14:01:47,424 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,438 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,440 17292 MainThread INFO  begin to parse company-id : 1649639 
+2016-11-14 14:01:47,569 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,582 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,584 17292 MainThread INFO  begin to parse company-id : 1649640 
+2016-11-14 14:01:47,673 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,686 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,687 17292 MainThread INFO  begin to parse company-id : 1649641 
+2016-11-14 14:01:47,790 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,805 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,805 17292 MainThread INFO  begin to parse company-id : 1649642 
+2016-11-14 14:01:47,927 17292 MainThread INFO  data stored 
+2016-11-14 14:01:47,938 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:47,940 17292 MainThread INFO  begin to parse company-id : 1649643 
+2016-11-14 14:01:48,059 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,073 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,075 17292 MainThread INFO  begin to parse company-id : 1649644 
+2016-11-14 14:01:48,151 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,163 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,164 17292 MainThread INFO  begin to parse company-id : 1649645 
+2016-11-14 14:01:48,259 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,273 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,273 17292 MainThread INFO  begin to parse company-id : 1649646 
+2016-11-14 14:01:48,354 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,367 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,368 17292 MainThread INFO  begin to parse company-id : 1649647 
+2016-11-14 14:01:48,447 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,460 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,460 17292 MainThread INFO  begin to parse company-id : 1649648 
+2016-11-14 14:01:48,576 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,588 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,589 17292 MainThread INFO  begin to parse company-id : 1649649 
+2016-11-14 14:01:48,739 17292 MainThread INFO  data stored 
+2016-11-14 14:01:48,753 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:48,756 17292 MainThread INFO  begin to parse company-id : 1649650 
+2016-11-14 14:01:48,872 17292 MainThread INFO  data stored 
+2016-11-14 14:01:49,094 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:49,095 17292 MainThread INFO  begin to parse company-id : 1649651 
+2016-11-14 14:01:50,217 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,243 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,243 17292 MainThread INFO  begin to parse company-id : 1649652 
+2016-11-14 14:01:50,335 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,354 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,355 17292 MainThread INFO  begin to parse company-id : 1649653 
+2016-11-14 14:01:50,474 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,499 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,500 17292 MainThread INFO  begin to parse company-id : 1649655 
+2016-11-14 14:01:50,703 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,717 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,719 17292 MainThread INFO  begin to parse company-id : 1649656 
+2016-11-14 14:01:50,832 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,848 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,849 17292 MainThread INFO  begin to parse company-id : 1649657 
+2016-11-14 14:01:50,930 17292 MainThread INFO  data stored 
+2016-11-14 14:01:50,941 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:50,943 17292 MainThread INFO  begin to parse company-id : 1649658 
+2016-11-14 14:01:51,068 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,079 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,081 17292 MainThread INFO  begin to parse company-id : 1649659 
+2016-11-14 14:01:51,227 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,243 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,243 17292 MainThread INFO  begin to parse company-id : 1649660 
+2016-11-14 14:01:51,371 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,384 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,385 17292 MainThread INFO  begin to parse company-id : 1649661 
+2016-11-14 14:01:51,483 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,493 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,493 17292 MainThread INFO  begin to parse company-id : 1649662 
+2016-11-14 14:01:51,562 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,586 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,588 17292 MainThread INFO  begin to parse company-id : 1649663 
+2016-11-14 14:01:51,661 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,673 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,673 17292 MainThread INFO  begin to parse company-id : 1649664 
+2016-11-14 14:01:51,750 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,762 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,762 17292 MainThread INFO  begin to parse company-id : 1649665 
+2016-11-14 14:01:51,880 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,894 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,897 17292 MainThread INFO  begin to parse company-id : 1649666 
+2016-11-14 14:01:51,964 17292 MainThread INFO  data stored 
+2016-11-14 14:01:51,980 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:51,980 17292 MainThread INFO  begin to parse company-id : 1649667 
+2016-11-14 14:01:52,079 17292 MainThread INFO  data stored 
+2016-11-14 14:01:52,092 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:52,092 17292 MainThread INFO  begin to parse company-id : 1649668 
+2016-11-14 14:01:52,221 17292 MainThread INFO  data stored 
+2016-11-14 14:01:52,233 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:52,233 17292 MainThread INFO  begin to parse company-id : 1649670 
+2016-11-14 14:01:52,312 17292 MainThread INFO  data stored 
+2016-11-14 14:01:52,323 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:52,323 17292 MainThread INFO  begin to parse company-id : 1649671 
+2016-11-14 14:01:52,645 17292 MainThread INFO  data stored 
+2016-11-14 14:01:52,657 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:52,657 17292 MainThread INFO  begin to parse company-id : 1649672 
+2016-11-14 14:01:52,839 17292 MainThread INFO  data stored 
+2016-11-14 14:01:52,855 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:52,855 17292 MainThread INFO  begin to parse company-id : 1649673 
+2016-11-14 14:01:53,003 17292 MainThread INFO  data stored 
+2016-11-14 14:01:53,015 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:53,016 17292 MainThread INFO  begin to parse company-id : 1649674 
+2016-11-14 14:01:53,772 17292 MainThread INFO  data stored 
+2016-11-14 14:01:54,032 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:54,033 17292 MainThread INFO  begin to parse company-id : 1649676 
+2016-11-14 14:01:54,895 17292 MainThread INFO  data stored 
+2016-11-14 14:01:55,153 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:55,154 17292 MainThread INFO  begin to parse company-id : 1649677 
+2016-11-14 14:01:55,953 17292 MainThread INFO  data stored 
+2016-11-14 14:01:55,970 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:55,970 17292 MainThread INFO  begin to parse company-id : 1649678 
+2016-11-14 14:01:56,038 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,062 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,063 17292 MainThread INFO  begin to parse company-id : 1649679 
+2016-11-14 14:01:56,130 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,142 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,144 17292 MainThread INFO  begin to parse company-id : 1649680 
+2016-11-14 14:01:56,400 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,414 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,417 17292 MainThread INFO  begin to parse company-id : 1649681 
+2016-11-14 14:01:56,546 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,614 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,615 17292 MainThread INFO  begin to parse company-id : 1649682 
+2016-11-14 14:01:56,701 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,729 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,730 17292 MainThread INFO  begin to parse company-id : 1649683 
+2016-11-14 14:01:56,865 17292 MainThread INFO  data stored 
+2016-11-14 14:01:56,880 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:56,881 17292 MainThread INFO  begin to parse company-id : 1649684 
+2016-11-14 14:01:57,056 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,072 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,072 17292 MainThread INFO  begin to parse company-id : 1649685 
+2016-11-14 14:01:57,203 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,220 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,220 17292 MainThread INFO  begin to parse company-id : 1649686 
+2016-11-14 14:01:57,309 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,322 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,322 17292 MainThread INFO  begin to parse company-id : 1649687 
+2016-11-14 14:01:57,404 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,420 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,421 17292 MainThread INFO  begin to parse company-id : 1649688 
+2016-11-14 14:01:57,529 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,542 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,542 17292 MainThread INFO  begin to parse company-id : 1649689 
+2016-11-14 14:01:57,615 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,628 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,628 17292 MainThread INFO  begin to parse company-id : 1649690 
+2016-11-14 14:01:57,732 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,746 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,746 17292 MainThread INFO  begin to parse company-id : 1649691 
+2016-11-14 14:01:57,825 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,835 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,836 17292 MainThread INFO  begin to parse company-id : 1649692 
+2016-11-14 14:01:57,944 17292 MainThread INFO  data stored 
+2016-11-14 14:01:57,957 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:57,957 17292 MainThread INFO  begin to parse company-id : 1649693 
+2016-11-14 14:01:58,068 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,104 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,105 17292 MainThread INFO  begin to parse company-id : 1649694 
+2016-11-14 14:01:58,193 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,217 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,217 17292 MainThread INFO  begin to parse company-id : 1649695 
+2016-11-14 14:01:58,286 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,298 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,299 17292 MainThread INFO  begin to parse company-id : 1649696 
+2016-11-14 14:01:58,361 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,372 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,372 17292 MainThread INFO  begin to parse company-id : 1649697 
+2016-11-14 14:01:58,466 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,477 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,479 17292 MainThread INFO  begin to parse company-id : 1649698 
+2016-11-14 14:01:58,565 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,582 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,582 17292 MainThread INFO  begin to parse company-id : 1649699 
+2016-11-14 14:01:58,677 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,690 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,690 17292 MainThread INFO  begin to parse company-id : 1649700 
+2016-11-14 14:01:58,750 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,765 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,765 17292 MainThread INFO  begin to parse company-id : 1649701 
+2016-11-14 14:01:58,858 17292 MainThread INFO  data stored 
+2016-11-14 14:01:58,871 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:58,872 17292 MainThread INFO  begin to parse company-id : 1649702 
+2016-11-14 14:01:59,071 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,092 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,094 17292 MainThread INFO  begin to parse company-id : 1649703 
+2016-11-14 14:01:59,204 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,220 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,223 17292 MainThread INFO  begin to parse company-id : 1649704 
+2016-11-14 14:01:59,345 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,362 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,364 17292 MainThread INFO  begin to parse company-id : 1649705 
+2016-11-14 14:01:59,453 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,464 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,466 17292 MainThread INFO  begin to parse company-id : 1649706 
+2016-11-14 14:01:59,586 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,601 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,601 17292 MainThread INFO  begin to parse company-id : 1649707 
+2016-11-14 14:01:59,696 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,707 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,707 17292 MainThread INFO  begin to parse company-id : 1649708 
+2016-11-14 14:01:59,793 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,806 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,808 17292 MainThread INFO  begin to parse company-id : 1649709 
+2016-11-14 14:01:59,878 17292 MainThread INFO  data stored 
+2016-11-14 14:01:59,892 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:01:59,894 17292 MainThread INFO  begin to parse company-id : 1649710 
+2016-11-14 14:01:59,973 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,009 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,009 17292 MainThread INFO  begin to parse company-id : 1649711 
+2016-11-14 14:02:00,198 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,210 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,210 17292 MainThread INFO  begin to parse company-id : 1649712 
+2016-11-14 14:02:00,276 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,289 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,289 17292 MainThread INFO  begin to parse company-id : 1649713 
+2016-11-14 14:02:00,365 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,377 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,378 17292 MainThread INFO  begin to parse company-id : 1649714 
+2016-11-14 14:02:00,473 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,483 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,484 17292 MainThread INFO  begin to parse company-id : 1649715 
+2016-11-14 14:02:00,601 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,617 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,618 17292 MainThread INFO  begin to parse company-id : 1649716 
+2016-11-14 14:02:00,717 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,734 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,736 17292 MainThread INFO  begin to parse company-id : 1649717 
+2016-11-14 14:02:00,851 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,865 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,865 17292 MainThread INFO  begin to parse company-id : 1649718 
+2016-11-14 14:02:00,980 17292 MainThread INFO  data stored 
+2016-11-14 14:02:00,993 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:00,993 17292 MainThread INFO  begin to parse company-id : 1649719 
+2016-11-14 14:02:01,079 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,092 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,092 17292 MainThread INFO  begin to parse company-id : 1649720 
+2016-11-14 14:02:01,160 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,171 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,171 17292 MainThread INFO  begin to parse company-id : 1649721 
+2016-11-14 14:02:01,272 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,285 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,286 17292 MainThread INFO  begin to parse company-id : 1649722 
+2016-11-14 14:02:01,357 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,368 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,368 17292 MainThread INFO  begin to parse company-id : 1649723 
+2016-11-14 14:02:01,430 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,440 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,441 17292 MainThread INFO  begin to parse company-id : 1649724 
+2016-11-14 14:02:01,536 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,549 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,549 17292 MainThread INFO  begin to parse company-id : 1649725 
+2016-11-14 14:02:01,604 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,618 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,618 17292 MainThread INFO  begin to parse company-id : 1649726 
+2016-11-14 14:02:01,674 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,686 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,687 17292 MainThread INFO  begin to parse company-id : 1649727 
+2016-11-14 14:02:01,766 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,778 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,778 17292 MainThread INFO  begin to parse company-id : 1649728 
+2016-11-14 14:02:01,835 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,846 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,848 17292 MainThread INFO  begin to parse company-id : 1649729 
+2016-11-14 14:02:01,917 17292 MainThread INFO  data stored 
+2016-11-14 14:02:01,956 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:01,957 17292 MainThread INFO  begin to parse company-id : 1649730 
+2016-11-14 14:02:02,062 17292 MainThread INFO  data stored 
+2016-11-14 14:02:02,072 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:02,073 17292 MainThread INFO  begin to parse company-id : 1649731 
+2016-11-14 14:02:02,148 17292 MainThread INFO  data stored 
+2016-11-14 14:02:02,161 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:02,161 17292 MainThread INFO  begin to parse company-id : 1649732 
+2016-11-14 14:02:02,273 17292 MainThread INFO  data stored 
+2016-11-14 14:02:02,289 17292 MainThread INFO  parse status updated, and data_table_name inserted 
+2016-11-14 14:02:02,289 17292 MainThread INFO  the round of batch-parsing ends, and totally cost 17.8830001354. 

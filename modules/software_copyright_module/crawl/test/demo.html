@@ -1,0 +1,737 @@
+<html>
+<head>
+    <meta name="Keywords" content="中国版权保护，版权"/>
+    <title>计算机软件著作权登记公告</title>
+    <style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-size: 12px;	
+
+
+} 
+
+div,ul,li{
+ padding:0;
+ text-align:center;
+}
+
+ul{ list-style:none;}
+
+/*菜单class*/
+.Menubox {
+/*width:100%;*/
+height:20px;
+line-height:20px;
+}
+.Menubox ul{
+margin:0px;
+padding:0px;
+}
+.Menubox li{/*标签卡属性*/
+ float:left;
+ display:block;
+ cursor:pointer;
+ /*width:80px;  /*标签卡宽度*/
+ text-align:center;
+ margin: 0px 0px 0px 1px;
+ border-left:1px solid #98C2E6;
+ border-top:1px solid #98C2E6;
+ border-right:1px solid #98C2E6;
+ border-bottom:1px solid #98C2E6;
+  /* font-weight:bold;
+ /*background-color:#CCCCCC;*/
+ background:url(/cpcc/images/blue_style/index_label_bg.gif) repeat-x ;
+ 
+ }
+.Menubox li.hover{/*标签卡选中后属性*/
+ padding:0px;
+ background:#fff;
+ /*width:80px;*/
+ margin: 0px 0px 0px 1px;
+ border-left:1px solid #A8C29F;
+ border-top:1px solid #A8C29F;
+ border-right:1px solid #A8C29F;
+ border-bottom:1px solid white;
+ /*color:#739242;*/
+ font-weight:bold;
+ height:20px;
+line-height:20px;
+}
+.Contentbox{
+ clear:both;
+ margin-top:0px;
+/* border:1px solid #A8C29F;
+ height:181px;
+*/
+ border-top:none;
+
+ text-align:center;
+ padding-top:8px;
+}
+-->
+
+
+    </style>
+    <script src="/js/Article.js"></script>
+    <script>
+<!--
+//=子栏目标签代码
+/*第一种形式 第二种形式 更换显示样式*/
+function setTab(name,cursel,n){
+ for(i=1;i<=n;i++){
+  var menu=document.getElementById(name+i);
+  var con=document.getElementById("con_"+name+"_"+i);
+  menu.className=i==cursel?"hover":"";
+  con.style.display=i==cursel?"block":"none";
+ }
+}
+//-->
+
+
+    </script>
+
+    <script src="/js/Article.js"></script>
+    <link href="/cpcc/css/css2.css" rel="stylesheet" type="text/css"/>
+    <script language="JavaScript" src="/cpcc/js/createPeoples.js"></script>
+
+    <style type="text/css">
+<!--
+.STYLE1 {	font-size: 16px;
+	font-weight: bold;
+}
+-->
+
+
+    </style>
+    <script language="javascript" defer>
+
+function trim(str){ //删除左右两端的空格 
+return str.replace(/(^\s*)|(\s*$)/g, ""); 
+} 
+function searchResult()
+{
+    var name=document.all('sql_name').value;
+    var regnum=document.all('sql_regnum').value;
+    var author=document.all('sql_author').value;
+      if(trim(name)==""&&trim(regnum)==""&&trim(author)==""){
+        alert("请填写查询条件！");
+        return false;
+       }
+	//查询条件
+	var query = "&sql_name="+name+ "&sql_regnum="+regnum+
+  		"&sql_author="+author;
+  	//分页相关的条件
+  	var page = "&curPage=1";
+  	//条件组合
+  	var url = "/cpcc/RRegisterAction.do?method=list&no=fck" + query + page;
+  	window.location = url;
+}
+
+function winopen(url)
+{
+	var targeturl = url;
+	newwin=window.open(targeturl,"","resizable=yes,scroll=no");
+	if (document.all)
+	{
+		newwin.moveTo(100,100);
+		newwin.resizeTo(2*screen.availwidth/3, 2*screen.availheight/3);
+	}
+}
+
+
+    </script>
+</head>
+
+<body>
+<div align="center">
+    <table width="980" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td height="105" align="right" background="/cpcc/images/ksy_01.jpg">
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+                        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="598" height="95">
+                    <param name="movie" value="/cpcc/images/head.swf"/>
+                    <param name="quality" value="high"/>
+                    <param name="wmode" value="transparent"/>
+                    <embed src="images/head.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"
+                           width="598" height="95"></embed>
+                </object>
+            </td>
+        </tr>
+        <tr>
+            <td height="23" width="100%" background="/cpcc/images/ksy_02.jpg">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td>
+                            <table width="100%" height="23" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td height="20" background="/cpcc/images/ksy_02.jpg" nowrap>
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td nowrap>
+
+                                                    <style type="text/css">
+#nav {
+     line-height: 23px;  list-style-type: none;)
+}
+#nav a {
+	text-align:center; display:block; color:#000000;
+}
+#nav a:link {
+     color: #000000;
+	text-decoration: none;
+	 
+}
+#nav a:visited {text-decoration:none; color: #000000;
+	
+}
+#nav a:hover {text-decoration:none;color: #CC0000;
+
+}
+ 
+
+
+#nav li {
+    float: left; width:auto; 
+}
+#nav li a:hover{
+   font-size:12px;
+   color: #CC0000;
+	text-decoration: none;
+}
+#nav li ul {
+	 position: absolute;
+	
+    line-height: 24px; list-style-type: none;text-align:left;
+    left: -999em; width:150px; background-color:#E6E6E6;
+}
+#nav li ul li{
+    float: left; width: 150px;
+    background: #F6F6F6;
+}
+
+#nav li ul a{
+    display: block;
+	width: auto;
+	text-align:left;
+	padding-left:24px; 
+	line-height:24px;
+	border-top: 1px solid #fff;
+	border-left: 1px solid #fff;
+	border-bottom: 1px solid #D5D5D5;
+	border-right: 1px solid #fff;
+}
+
+#nav li ul a:link  {
+    text-decoration:none;
+}
+#nav li ul a:visited  {
+    text-decoration:none;
+	
+}
+#nav li ul a:hover  {
+   text-decoration:none;font-weight:normal;
+}
+
+#nav li:hover ul {
+    left: auto;
+}
+#nav li.sfhover ul {
+    left: auto;
+}
+#content {
+    clear: left;
+}
+
+
+
+
+                                                    </style>
+
+                                                    <script type=text/javascript>
+function menuFix() {
+    var sfEls = document.getElementById("nav").getElementsByTagName("li");
+    for (var i=0; i<sfEls.length; i++) {
+        sfEls[i].onmouseover=function() {
+        this.className+=(this.className.length>0? " ": "") + "sfhover";
+        }
+        sfEls[i].onMouseDown=function() {
+        this.className+=(this.className.length>0? " ": "") + "sfhover";
+        }
+        sfEls[i].onMouseUp=function() {
+        this.className+=(this.className.length>0? " ": "") + "sfhover";
+        }
+        sfEls[i].onmouseout=function() {
+        this.className=this.className.replace(new RegExp("( ?|^)sfhover\\b"),
+
+"");
+        }
+    }
+}
+window.onload=menuFix;
+
+
+                                                    </script>
+                                                    <ul id="nav">
+
+                                                        <li><a href="/cpcc">&nbsp;&nbsp;首页&nbsp;&nbsp;</a>
+
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left">|</div>
+                                                            <div style="float:left">
+                                                                <a href="/cms/ColumnServlet?pcolumnID=30" target="_blank">&nbsp;&nbsp;版权资讯&nbsp;&nbsp;</a>
+                                                                <ul>
+                                                                    <a href="/cms/ColumnServlet?columnID=132&pcolumnID=30" target="_blank">版权要闻</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=133&pcolumnID=30" target="_blank">中心动态</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=134&pcolumnID=30" target="_blank">业界资讯</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=135&pcolumnID=30" target="_blank">热点关注</a>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left;">|</div>
+                                                            <div style="float:left;">
+                                                                <a href="/cms/ColumnServlet?columnID=702&pcolumnID=702" target="_blank">&nbsp;&nbsp;版权登记&nbsp;&nbsp;</a>
+                                                                <ul>
+                                                                    <a href="http://apply.ccopyright.com.cn/cpcc/column_list_bqdj.jsp" target="_blank">计算机软件著作权登记</a>
+                                                                    <!--<li>
+                                                                        <a href="#">计算机软件著作权登记</a>
+                                                                        <a href="#">计算机软件著作权转让或专有许可合同登记</a>
+                                                                        <a href="#">软件登记事项变更或补充申请登记</a>
+                                                                        <a href="#">计算机软件著作权质押合同登记</a>
+                                                                        <a href="#">计算机软件著作权质押合同注销登记</a>
+                                                                        <a href="#">补发或者换发软件登记证书申请</a>
+                                                                        <a href="#">封存保管软件鉴别材料申请</a>
+                                                                        <a href="#">撤销计算机软件登记请求</a>
+                                                                        <a href="#">撤回计算机软件登记申请</a>
+                                                                        <a href="#">撤销或放弃计算机软件登记</a>
+                                                                    </li>-->
+
+
+                                                                    <a href="http://apply.ccopyright.com.cn/cpcc/column_list_bqdj.jsp"
+                                                                       target="_blank">作品著作权登记</a>
+
+                                                                    <!--	<li>
+                                                                        <a href="#">作品著作权登记</a>
+                                                                        <a href="#">著作权合同备案登记</a>
+                                                                        <a href="#">著作权质押合同登记</a>
+                                                                        <a href="#">与著作权相关权利事项登记</a>
+                                                                        <a href="#">重印国外期刊合同登记</a>
+                                                                        <a href="#">出版境外录音制品合同登记</a>
+                                                                        <a href="#">出版境外影视制品合同登记</a>
+                                                                        <a href="#">影视作品电视播放许可合同登记</a>
+                                                                    </li>
+                                                                    -->
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left;">|</div>
+                                                            <div style="float:left;">
+                                                                <a href="#">&nbsp;&nbsp;版权服务&nbsp;&nbsp;</a>
+                                                                <ul>
+                                                                    <a href="/cpcc/sy_wlsp_article.jsp" target="_blank">视频监测与取证</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=740&pcolumnID=739" target="_blank">版权鉴定</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=741&pcolumnID=739" target="_blank">正版认证</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=742&pcolumnID=739" target="_blank">版权价值评估</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=743&pcolumnID=739" target="_blank">版权纠纷调解委员会</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=925&pcolumnID=923" target="_blank">法律法规</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=930&pcolumnID=924" target="_blank">成功案例</a>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left">|</div>
+                                                            <div style="float:left;">
+                                                                <a href="/cms/ColumnServlet?columnID=883&pcolumnID=882" target="_blank">&nbsp;&nbsp;版权代理与贸易&nbsp;&nbsp;</a>
+                                                                <ul>
+                                                                    <a href="/cms/ColumnServlet?columnID=886&pcolumnID=885" target="_blank">图书版权贸易</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=887&pcolumnID=885" target="_blank">报酬收转</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=888&pcolumnID=885" target="_blank">软件登记代理</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=890&pcolumnID=885" target="_blank">作品登记代理</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=891&pcolumnID=885" target="_blank">法律服务</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=897&pcolumnID=892" target="_blank">版权超市</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=903&pcolumnID=893" target="_blank">版权人推介</a>
+                                                                    <a href="/cms/ColumnServlet?columnID=894&pcolumnID=885" target="_blank">版权使用者信息</a>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left">|</div>
+                                                            <div style="float:left">
+                                                                <a href="http://www.ccopyright.com.cn/cms/ArticleServlet?articleID=19364" target="_blank">&nbsp;&nbsp;常见问答
+                                                                    &nbsp;&nbsp;</a>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div style="float:left">|</div>
+                                                            <div style="float:left">
+                                                                <a href="/cms/ArticleServlet?articleID=1544" target="_blank">&nbsp;&nbsp;联系我们&nbsp;&nbsp;</a>
+                                                            </div>
+                                                        </li>
+                                                        <li><a href="#"></a></li>
+                                                    </ul>
+
+                                                    <!--	<li>
+                                                            <a href="#">作品著作权登记</a>
+                                                            <a href="#">著作权合同备案登记</a>
+                                                            <a href="#">著作权质押合同登记</a>
+                                                            <a href="#">与著作权相关权利事项登记</a>
+                                                            <a href="#">重印国外期刊合同登记</a>
+                                                            <a href="#">出版境外录音制品合同登记</a>
+                                                            <a href="#">出版境外影视制品合同登记</a>
+                                                            <a href="#">影视作品电视播放许可合同登记</a>
+                                                        </li>
+
+                                                        <li>
+                                                            <a href="#">计算机软件著作权登记</a>
+                                                            <a href="#">计算机软件著作权转让或专有许可合同登记</a>
+                                                            <a href="#">软件登记事项变更或补充申请登记</a>
+                                                            <a href="#">计算机软件著作权质押合同登记</a>
+                                                            <a href="#">计算机软件著作权质押合同注销登记</a>
+                                                            <a href="#">补发或者换发软件登记证书申请</a>
+                                                            <a href="#">封存保管软件鉴别材料申请</a>
+                                                            <a href="#">撤销计算机软件登记请求</a>
+                                                            <a href="#">撤回计算机软件登记申请</a>
+                                                            <a href="#">撤销或放弃计算机软件登记</a>
+                                                        </li>-->
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="200" height="23" align="right" valign="top">
+                            <table width="56%" border="0" cellpadding="0" cellspacing="0" style="margin-top:3px; margin-right:10px;">
+                                <tr>
+                                    <td align="center" style="padding-right:3px;">
+                                        <a href="/cpcc/index.jsp">
+                                            <img src="/cpcc/images/jtzw.gif" width="61" height="17" border="0"/>
+                                        </a>
+                                    </td>
+                                    <td align="center" style="padding-right:3px;">
+                                        <a href="/cpcc/index_en.jsp">
+                                            <img src="/cpcc/images/yw.gif" width="61" height="17" border="0"/>
+                                        </a>
+                                    </td>
+                                    <td align="center" style="padding-right:3px;">
+                                        <a href="/cpcc/index_jp.jsp">
+                                            <img src="/cpcc/images/rw.gif" width="50" height="17" border="0"/>
+                                        </a></td>
+                                    <td align="center">
+                                        <a href="/cpcc/index_deutsch.jsp">
+                                            <img src="/cpcc/images/ty.gif" width="61" height="17" border="0"/>
+                                        </a></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height="27" background="/cpcc/images/pic-l_04.gif">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="1%">&nbsp;</td>
+                        <td width="2%" align="center"><img src="/cpcc/images/title1-.gif" width="9" height="8"/></td>
+                        <td width="58%" align="left">您的当前位置：<a href="/cpcc/index.jsp">首页</a> &gt; 版权登记
+                        <td width="39%" align="right">&nbsp;</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#FFFFFF">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="200" valign="top" bgcolor="#F3F3F3" style="border-right:1px solid #999999;">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td valign="top"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+                                        <!-- define some taglibs -->
+
+
+                                        <!-- define some variables used in js file -->
+                                        <script>
+    var contextPath="";
+    var galaxyUserFaceKey="";
+
+
+                                        </script>
+                                        <HTML>
+                                        <HEAD>
+                                            <TITLE> New Document </TITLE>
+                                            <META NAME="Generator" CONTENT="EditPlus">
+                                            <META NAME="Author" CONTENT="">
+                                            <META NAME="Keywords" CONTENT="">
+                                            <META NAME="Description" CONTENT="">
+
+                                            <script language="javascript">
+    // --- 获取ClassName
+    document.getElementsByClassName = function(cl) {
+        var retnode = [];
+        var myclass = new RegExp('\\b'+cl+'\\b');
+        var elem = this.getElementsByTagName('*');
+        for (var j = 0; j < elem.length; j++) {
+            var classes = elem[j].className;
+            if (myclass.test(classes)) retnode.push(elem[j]);
+        }
+        return retnode;
+    }
+    
+    // --- 隐藏所有
+    function HideAll() {
+        var items = document.getElementsByClassName("optiton");
+        for (var j=0; j<items.length; j++) {
+            items[j].style.display = "none";
+        }
+    }
+    // --- 设置cookie
+    function setCookie(sName,sValue,expireHours) {
+        var cookieString = sName + "=" + escape(sValue);
+        //;判断是否设置过期时间
+        if (expireHours>0) {
+             var date = new Date();
+             date.setTime(date.getTime + expireHours * 3600 * 1000);
+             cookieString = cookieString + "; expire=" + date.toGMTString();
+        }
+        document.cookie = cookieString;
+    }
+    
+    //--- 获取cookie
+    function getCookie(sName) {
+      var aCookie = document.cookie.split("; ");
+      for (var j=0; j < aCookie.length; j++){
+        var aCrumb = aCookie[j].split("=");
+        if (escape(sName) == aCrumb[0])
+          return unescape(aCrumb[1]);
+      }
+      return null;
+    }
+
+function xopen(Type,Url,Width,Height){
+
+            if (Type == 'dialog')
+			{
+                window.showModalDialog(Url,'',"dialogWidth:" + Width + "px;dialogHeight:" + Height + "px;center:yes;status:no;scroll:yes;help:no;");
+            }
+            else 
+           { 
+                window.open(url,"","width=" + Width + "px,height=" + Height + "px,resizable=1,scrollbars=1"); 
+           }
+}
+
+
+
+                                            </script>
+                                            <style>
+.font14_b {	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+}
+.STYLE3 {	font-size: 12px;
+	color: #999999;
+}
+    a.title:link, a.title:visited, a.title:hover {
+		display:block;
+		color:#385065;
+		font-weight:bold;width:128px;line-height:23px;cursor:pointer;text-decoration:none}
+	#menu {
+	 width:260px;margin:0px 0px;padding:0px;text-align:left;list-style:none}
+	#menu .item {
+	 font-size: 14px;	font-weight: bold;
+	 margin:5px 0px;padding:0px;list-style:none
+	 }
+	#menu .item ul li { 
+		text-align:left;
+		line-height:30px;
+		font-size: 12px;font-weight:normal;display:block;
+		}
+
+
+                                            </style>
+                                        </HEAD>
+
+
+                                        <BODY>
+                                        <table style="margin-top:0px" width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFEF" align="center">
+                                            <tr>
+                                                <td style="border-bottom:1px solid #999999" bgcolor="#FFF3AD"
+                                                    background="/cpcc/images/blue_style/index_user_bg.gif">
+                                                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                        <tr height="10">
+                                                            <td width="26%"><img src="/cpcc/images/blue_style/bqgg.gif" width="37" height="41"/></td>
+                                                            <td width="74%"><span class="font14_b">登记公告</span></td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>
+                                                    <ul id="menu">
+
+                                                        <li class="item"><img src="/cpcc/images/blue_style/user_icon1.gif" width="10" height="10" border="0"
+                                                                              style="margin-right:5px;"/>计算机软件著作权登记公告
+                                                            <ul id="opt_2" class="optiton">
+                                                                <li><a href="/cpcc/notice/soft/softRegisterNotice.jsp">计算机软件著作权登记公告</a></li>
+                                                                <li><a href="/cpcc/RAttornContractAction.do?method=list&no=fck">计算机软件著作权转让合同登记公告</a></li>
+                                                                <li><a href="/cpcc/RProprietaryContractAction.do?method=list&no=fck">计算机软件著作权专有许可合同登记公告</a></li>
+                                                                <li><a href="/cpcc/RChangeOrSupplementAction.do?method=list&no=fck">计算机软件著作权变更补充登记公告<span
+                                                                        style="font-size:12px;font-family:黑体;">(201<br/>1-10-20 之后公告数据)</span></a></li>
+
+                                                                <li><a href="/cpcc/RRegisterWithdrawAction.do?method=list&no=fck">计算机软件著作权登记撤销公告</a></li>
+                                                                <li><span style="display:none;"><a
+                                                                        href="/cpcc//RSoftImpawnContractAction.do?method=list&no=fck">计算机软件著作权质权登记公告</a></span>
+                                                                </li>
+                                                                <li></li>
+                                                                <li></li>
+                                                                <li></li>
+                                                                <li></li>
+                                                                <li></li>
+                                                                <li></li>
+                                                                <li><a href="/cpcc/RImpawnContractAction.do?method=list&no=fck">计算机软件著作权质押合同登记公告</a></li>
+                                                                <li><a href="/cpcc/RImpawnContractLogoutAction.do?method=list&no=fck">计算机软件著作权质押合同注销登记公告</a>
+                                                                </li>
+                                                                <li><a href="/cpcc/RChangeAction.do?method=list&no=fck">计算机软件著作权变更登记公告<span
+                                                                        style="font-size:12px;font-family:黑体;">(2011-10-20 之前公告数据)</span></a></li>
+                                                                <li><a href="/cpcc/RSupplementAction.do?method=list&no=fck">计算机软件著作权补充登记公告<span
+                                                                        style="font-size:12px;font-family:黑体;">(2011-10-20 之前公告数据)</span></a></li>
+                                                            </ul>
+                                                        </li>
+
+                                                    </ul>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                        </BODY>
+                                        </HTML>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td height="450" align="center" valign="top" style="padding:1px;">
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td height="28" style="color:#003584;font-size:14px;" background="/cpcc/images/blue_style/index_column_bg1.gif"/>
+                                    &nbsp;&nbsp;<b>计算机软件著作权登记公告</b>
+                                    </td>
+                                    <td width="20" background="/cpcc/images/blue_style/index_column_bg1.gif"></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        <div style="margin:20px 0px 10px 4px;"><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;登记公告信息自登记批准之日起1日后予以公告，软件著作权登记证书自公告之日起3日后可领取。</p>
+                                        </div>
+                                        <form name="generalForm" method="post" action="/cpcc/RRegisterAction.do?method=list&no=fck">
+                                            <table align="center" width="100%" border="0">
+                                                <tr>
+                                                    <td colspan="2" width="90%" align="left">软件名称
+                                                        <input id="sql_name" name="sql_name" value="华为数据中心管理软件" size="70"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="40%" align="left">登记号&nbsp;&nbsp;
+                                                        <input id="sql_regnum" name="sql_regnum" value=""/></td>
+                                                    <td width="40%" align="left">著作权人
+                                                        <input id="sql_author" name="sql_author" value=""/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="right">
+                                                        <input type="button" name="search" value="查询" onClick="searchResult();"/>
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" name="reset" value="重置"/>
+                                                    </td>
+                                                    <td width="10">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                            <br>
+
+                                            <table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#CCCCCC"
+                                                   style="border-collapse: collapse">
+
+                                                <tr>
+                                                    <th width="100%" colspan="8" style="padding-left:10px;color:red;text-align:left">注：请输入至少一项查询内容，然后进行查询。</th>
+                                                </tr>
+                                                <tr>
+                                                    <th width="10%" nowrap>登记号</th>
+                                                    <th width="10%" nowrap>分类号</th>
+                                                    <th width="15%" nowrap>软件全称</th>
+                                                    <th width="10%" nowrap>软件简称</th>
+                                                    <th width="6%" nowrap>版本号</th>
+                                                    <th width="10%" nowrap>著作权人（国籍）</th>
+                                                    <th width="8%" nowrap>首次发表日期</th>
+                                                    <th width="10%" nowrap>登记日期</th>
+                                                </tr>
+
+
+                                                <tr>
+                                                    <td align="center">2016SR305330</td>
+                                                    <td class="datacell">30900-0000</td>
+                                                    <td class="datacell" align="center">华为数据中心管理软件</td>
+                                                    <td class="datacell" align="center">数据中心</td>
+                                                    <td class="datacell">V3.0</td>
+                                                    <td class="datacell" align="center">华为技术有限公司:中国</td>
+                                                    <td class="datacell">2016-09-30</td>
+                                                    <td class="datacell">2016-10-25</td>
+                                                </tr>
+
+
+                                                <tr>
+                                                    <td align="center">2014SR008302</td>
+                                                    <td class="datacell">69900-0000</td>
+                                                    <td class="datacell" align="center">华为数据中心管理软件</td>
+                                                    <td class="datacell" align="center"></td>
+                                                    <td class="datacell">V2.0</td>
+                                                    <td class="datacell" align="center">华为技术有限公司:中国</td>
+                                                    <td class="datacell">2013-09-30</td>
+                                                    <td class="datacell">2014-01-21</td>
+                                                </tr>
+
+                                            </table>
+
+                                        </form>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height="18" align="center" bgcolor="#EDF3FD" width="980">
+                <a href="/cms/ArticleServlet?articleID=1544" target="_blank">联系我们</a> |
+                <a href="/cms/ArticleServlet?articleID=2023" target="_blank">免责声明</a> | <a href="/cms/ArticleServlet?articleID=2024" target="_blank">隐私保密</a> |
+                <!--  <a href="/cms/ArticleServlet?articleID=1545" target="_blank">网站地图</a> |
+                  <a href="#">友情链接</a> |--> <a href="javascript:window.external.AddFavorite('http://www.ccopyright.com/','中国版权保护中心')">加入收藏</a></td>
+        </tr>
+        <tr>
+            <td height="50" width="980" align="center" bgcolor="white" background="/cpcc/images/index_66.jpg"
+                style="background-repeat:repeat-x;line-height:1.5"><br style="line-height:0.5em">版权所有：中国版权保护中心 Copyright 2008 www.ccopyright.com<br/>
+                地址：北京市西城区天桥南大街1号天桥艺术大厦A座三层 邮编：100050 电话：86-010-68003887<br/>
+                京ICP备06034703号 技术支持：北京慧点科技开发有限公司
+                <div style="display: none;">
+                    <script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9c4f37212151487ffd09c83bccfd2ade' type='text/javascript'%3E%3C/script%3E"));
+
+
+                    </script>
+                </div>
+            </td>
+        </tr>
+
+    </table>
+</div>
+
+</body>
+</html>

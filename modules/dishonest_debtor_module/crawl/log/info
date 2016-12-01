@@ -1,0 +1,52 @@
+2016-11-03 18:15:35,987 22644 MainThread INFO Batch Processing Begins
+2016-11-03 18:15:37,316 22644 MainThread INFO Get Companies From ES, And Size is : 100
+2016-11-03 18:15:37,319 22644 MainThread INFO Begins to Crawl Info, the CmpName:台山市冲蒌供销社建材商店, CmpId:f732f0434716aaae87ab7c07e60e6ba0 
+2016-11-03 18:15:37,321 22644 MainThread INFO start to get proxyip
+2016-11-03 18:15:37,395 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:15:38,108 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:15:38,609 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:15:41,611 22644 MainThread INFO Begins to Crawl Info, the CmpName:南岸区来烤餐馆, CmpId:4dd825530f28aa42fc8bde91ff65bc89 
+2016-11-03 18:15:41,614 22644 MainThread INFO start to get proxyip
+2016-11-03 18:15:41,660 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:15:45,029 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:15:45,401 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:15:48,401 22644 MainThread INFO Begins to Crawl Info, the CmpName:合川区顺敏串串香店, CmpId:378bd09ff5b4124e886bb5bc65b86b85 
+2016-11-03 18:15:48,404 22644 MainThread INFO start to get proxyip
+2016-11-03 18:15:48,470 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:15:49,128 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:15:49,516 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:15:52,519 22644 MainThread INFO Begins to Crawl Info, the CmpName:鹤山市房地产评估所, CmpId:49c95f25c7115a110a0c63a816aa6b0f 
+2016-11-03 18:15:52,520 22644 MainThread INFO start to get proxyip
+2016-11-03 18:15:52,562 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.139:8888
+2016-11-03 18:15:52,957 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:15:53,348 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:15:56,349 22644 MainThread INFO Begins to Crawl Info, the CmpName:新会市人民医院服务部, CmpId:84ad3f5ddadeb3a055651f3493bac42e 
+2016-11-03 18:15:56,351 22644 MainThread INFO start to get proxyip
+2016-11-03 18:15:56,502 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.82.48.93:8888
+2016-11-03 18:15:56,878 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:15:57,296 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:16:00,296 22644 MainThread INFO Begins to Crawl Info, the CmpName:新会市古井大明针织时装厂, CmpId:86ace14399811650e593aff5253f2411 
+2016-11-03 18:16:00,299 22644 MainThread INFO start to get proxyip
+2016-11-03 18:16:00,372 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.80.223.127:8888
+2016-11-03 18:16:00,766 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:16:01,161 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:16:04,161 22644 MainThread INFO Begins to Crawl Info, the CmpName:开平市西城工业发展公司, CmpId:0c5b5e47730f0c2a715e92d79861bb83 
+2016-11-03 18:16:04,163 22644 MainThread INFO start to get proxyip
+2016-11-03 18:16:04,217 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@180.117.187.104:8888
+2016-11-03 18:16:04,828 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:16:05,184 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:16:08,186 22644 MainThread INFO Begins to Crawl Info, the CmpName:台山市房地产估价所, CmpId:54de5854ba585ced195d8f5947c21b2f 
+2016-11-03 18:16:08,188 22644 MainThread INFO start to get proxyip
+2016-11-03 18:16:08,263 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@117.60.182.135:8888
+2016-11-03 18:16:08,589 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:16:08,907 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:16:11,908 22644 MainThread INFO Begins to Crawl Info, the CmpName:荣昌区昌元街道廷德食品店, CmpId:e11749f070b83d92fc0499cc4087de27 
+2016-11-03 18:16:11,911 22644 MainThread INFO start to get proxyip
+2016-11-03 18:16:11,957 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@121.227.103.87:8888
+2016-11-03 18:16:12,214 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:16:12,463 22644 MainThread INFO Info Crawled Successfully
+2016-11-03 18:16:15,463 22644 MainThread INFO Begins to Crawl Info, the CmpName:江北区布丁宠物美容店, CmpId:1af63c937550ef630c4f895db5069048 
+2016-11-03 18:16:15,467 22644 MainThread INFO start to get proxyip
+2016-11-03 18:16:15,500 22644 MainThread INFO suc got proxyip: http://rongzi:rongzi@49.73.76.44:8888
+2016-11-03 18:16:15,680 22644 MainThread INFO No Dishonest Info Found 
+2016-11-03 18:16:15,903 22644 MainThread INFO Info Crawled Successfully

@@ -1,0 +1,731 @@
+2016-11-15 16:31:27,341 47308 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:33:38,378 47596 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:35:59,378 47440 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:39:45,214 47928 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:41:04,528 4172 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:43:20,835 47084 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:44:07,424 48208 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 16:45:49,319 47164 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 17:46:09,796 51108 MainThread INFO round starts
+2016-11-15 17:46:17,092 51108 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 17:48:14,486 49568 MainThread INFO round starts
+2016-11-15 17:48:17,312 49568 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 17:49:08,210 51484 MainThread INFO round starts
+2016-11-15 17:49:12,526 51484 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-15 17:51:31,072 53132 MainThread INFO round starts
+2016-11-15 17:51:36,443 53132 MainThread INFO starts to handle company: 武汉今朝美贸易有限公司, id: 993, the id of es document is: 46e5de8dd91e87bc6be6de8681e957f4 
+2016-11-16 09:34:16,566 2696 MainThread INFO round starts
+2016-11-16 09:34:21,753 2696 MainThread INFO starts to handle company: 邯郸创源电子有限公司, id: 1, the id of es document is: 8b89043c51287f10404af84aacbb4e72 
+2016-11-16 09:35:56,572 1096 MainThread INFO round starts
+2016-11-16 09:35:59,782 1096 MainThread INFO starts to handle company: 邯郸创源电子有限公司, id: 1, the id of es document is: 8b89043c51287f10404af84aacbb4e72 
+2016-11-16 09:37:39,723 2252 MainThread INFO round starts
+2016-11-16 09:37:40,996 2252 MainThread INFO starts to handle company: 邯郸创源电子有限公司, id: 1, the id of es document is: 8b89043c51287f10404af84aacbb4e72 
+2016-11-16 09:39:38,697 5444 MainThread INFO round starts
+2016-11-16 09:39:41,177 5444 MainThread INFO starts to handle company: 邯郸创源电子有限公司, id: 1, the id of es document is: 8b89043c51287f10404af84aacbb4e72 
+2016-11-16 10:01:02,630 5444 MainThread INFO inserted into es
+2016-11-16 10:05:31,290 992 MainThread INFO cost: 1479261931.291000
+2016-11-16 10:08:42,046 3860 MainThread INFO round starts
+2016-11-16 10:08:48,214 3860 MainThread INFO starts to handle company: 南京青云化工有限公司, id: 3, the id of es document is: cb766a1884f807a6476694e01508aaa6 
+2016-11-16 10:08:48,729 3860 MainThread INFO inserted into es
+2016-11-16 10:08:50,183 3860 MainThread INFO cost: 5.141000
+2016-11-16 10:10:58,622 5524 MainThread INFO round starts
+2016-11-16 10:11:11,131 5524 MainThread INFO starts to process company: 浙江海城印务有限公司, id: 4, the id of es document is: 21f1e8e8b89c756f41f22067a94ff36b 
+2016-11-16 10:11:11,568 5524 MainThread INFO inserted into es
+2016-11-16 10:11:13,553 5524 MainThread INFO cost: 3.569000
+2016-11-16 10:11:17,841 5524 MainThread INFO starts to process company: 沈阳易初商贸有限公司, id: 5, the id of es document is: 17409dcb3717084e62e9ee0ba1bad929 
+2016-11-16 10:12:04,190 5540 MainThread INFO round starts
+2016-11-16 10:12:10,395 5540 MainThread INFO starts to process company: 沈阳易初商贸有限公司, id: 5, the id of es document is: 17409dcb3717084e62e9ee0ba1bad929 
+2016-11-16 10:16:36,575 3984 MainThread INFO round starts
+2016-11-16 10:16:39,565 3984 MainThread INFO starts to process company: 沈阳易初商贸有限公司, id: 5, the id of es document is: 17409dcb3717084e62e9ee0ba1bad929 
+2016-11-16 10:16:56,342 5608 MainThread INFO round starts
+2016-11-16 10:16:58,944 5608 MainThread INFO starts to process company: 沈阳易初商贸有限公司, id: 5, the id of es document is: 17409dcb3717084e62e9ee0ba1bad929 
+2016-11-16 10:21:16,335 6832 MainThread INFO round starts
+2016-11-16 10:21:19,209 6832 MainThread INFO starts to process company: 沈阳易初商贸有限公司, id: 5, the id of es document is: 17409dcb3717084e62e9ee0ba1bad929 
+2016-11-16 10:21:19,309 6832 MainThread INFO inserted into es
+2016-11-16 10:21:26,151 6832 MainThread INFO cost: 7.810000
+2016-11-16 10:21:50,115 6832 MainThread INFO starts to process company: 莱州美奥工贸有限公司, id: 6, the id of es document is: 258c0eb6ff8bedc5e797eb1e7ba9bfec 
+2016-11-16 10:21:50,624 6832 MainThread INFO inserted into es
+2016-11-16 10:21:51,844 6832 MainThread INFO cost: 2.819000
+2016-11-16 10:21:53,372 6832 MainThread INFO starts to process company: 上海力仓实业有限公司, id: 7, the id of es document is: 57f9a0cd5ea6d9cf262b7a4b7ed230bb 
+2016-11-16 10:21:54,190 6832 MainThread INFO inserted into es
+2016-11-16 10:21:55,184 6832 MainThread INFO cost: 2.471000
+2016-11-16 10:21:57,138 6832 MainThread INFO starts to process company: 青岛极东宝饰有限公司, id: 8, the id of es document is: 0b54617e01ecce9c6bebbd660970407d 
+2016-11-16 10:21:57,496 6832 MainThread INFO inserted into es
+2016-11-16 10:21:58,391 6832 MainThread INFO cost: 2.179000
+2016-11-16 10:21:59,888 6832 MainThread INFO starts to process company: 上海久事公司, id: 9, the id of es document is: 53ea34902a0d5f4d3224c5e059f17295 
+2016-11-16 10:22:00,380 6832 MainThread INFO inserted into es
+2016-11-16 10:22:01,237 6832 MainThread INFO cost: 2.055000
+2016-11-16 10:22:02,684 6832 MainThread INFO starts to process company: 太阳电器(苏州)有限公司, id: 10, the id of es document is: 77d1c1d9007dc9ebffe5d01890599abb 
+2016-11-16 10:22:02,864 6832 MainThread INFO inserted into es
+2016-11-16 10:22:03,453 6832 MainThread INFO cost: 1.556000
+2016-11-16 10:22:04,641 6832 MainThread INFO starts to process company: 亚信科技（南京）有限公司, id: 11, the id of es document is: e20e3ec316c661c47e4f3f419e2a0c82 
+2016-11-16 10:22:04,786 6832 MainThread INFO inserted into es
+2016-11-16 10:22:05,351 6832 MainThread INFO cost: 1.281000
+2016-11-16 10:22:06,558 6832 MainThread INFO starts to process company: 湖州其乐丝绸有限公司, id: 12, the id of es document is: 87e4da6e969426caa8c3d95f51b7a815 
+2016-11-16 10:22:07,854 6832 MainThread INFO inserted into es
+2016-11-16 10:22:08,822 6832 MainThread INFO cost: 2.893000
+2016-11-16 10:22:10,017 6832 MainThread INFO starts to process company: 西帕机械（杭州）有限公司, id: 13, the id of es document is: 8677df256a586d7cf85f13b8b8041af9 
+2016-11-16 10:22:10,158 6832 MainThread INFO inserted into es
+2016-11-16 10:22:10,967 6832 MainThread INFO cost: 1.527000
+2016-11-16 10:22:12,536 6832 MainThread INFO starts to process company: 超越服饰(中国)有限公司, id: 14, the id of es document is: 308b0b25045889025bb8749db0d46853 
+2016-11-16 10:22:12,828 6832 MainThread INFO inserted into es
+2016-11-16 10:22:13,657 6832 MainThread INFO cost: 1.560000
+2016-11-16 10:22:18,660 6832 MainThread INFO round ends
+2016-11-16 10:22:20,986 6832 MainThread INFO round starts
+2016-11-16 10:27:56,512 2384 MainThread INFO round starts
+2016-11-16 10:27:56,555 2384 MainThread INFO starts to process company: 福建卜兆实业有限公司, id: 15, the id of es document is: d7c4ea68126574c2edb43b49d2bc63b1 
+2016-11-16 10:27:56,796 2384 MainThread INFO inserted into es
+2016-11-16 10:27:56,809 2384 MainThread INFO cost: 0.255000
+2016-11-16 10:27:56,809 2384 MainThread INFO starts to process company: 金域科技（大连）有限公司, id: 16, the id of es document is: 465f0df77ccb490cf4e5d5a8d3b4c9f6 
+2016-11-16 10:27:56,936 2384 MainThread INFO inserted into es
+2016-11-16 10:27:56,950 2384 MainThread INFO cost: 0.140000
+2016-11-16 10:27:56,950 2384 MainThread INFO starts to process company: 宁波威新机械有限公司, id: 17, the id of es document is: fedec375c202711c0036da45c2f8da41 
+2016-11-16 10:27:57,101 2384 MainThread INFO inserted into es
+2016-11-16 10:27:57,127 2384 MainThread INFO cost: 0.177000
+2016-11-16 10:27:57,128 2384 MainThread INFO starts to process company: 河北迈普润光学物流运营有限公司, id: 18, the id of es document is: 61c6a6560d9808e59161161f8f964c7e 
+2016-11-16 10:27:57,236 2384 MainThread INFO inserted into es
+2016-11-16 10:27:57,249 2384 MainThread INFO cost: 0.121000
+2016-11-16 10:27:57,249 2384 MainThread INFO starts to process company: 大余春晖织造有限公司, id: 19, the id of es document is: 846f37acbb7c2b43962389db9485c315 
+2016-11-16 10:27:57,454 2384 MainThread INFO inserted into es
+2016-11-16 10:27:57,467 2384 MainThread INFO cost: 0.218000
+2016-11-16 10:27:57,467 2384 MainThread INFO starts to process company: 星子唯衣服饰有限公司, id: 20, the id of es document is: ee919d84d2d9340b695b9c3a7032e583 
+2016-11-16 10:27:57,779 2384 MainThread INFO inserted into es
+2016-11-16 10:27:57,865 2384 MainThread INFO cost: 0.397000
+2016-11-16 10:27:57,867 2384 MainThread INFO starts to process company: 济南城建集团有限公司, id: 21, the id of es document is: 192e36df51a0f525d5a30f0022b2c08c 
+2016-11-16 10:27:58,005 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,023 2384 MainThread INFO cost: 0.158000
+2016-11-16 10:27:58,025 2384 MainThread INFO starts to process company: 浙江龙丽丽龙高速公路有限公司, id: 23, the id of es document is: 39b3592a4913d2bcb71cffc7ed422421 
+2016-11-16 10:27:58,121 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,144 2384 MainThread INFO cost: 0.119000
+2016-11-16 10:27:58,145 2384 MainThread INFO starts to process company: 山东西王糖业有限公司, id: 24, the id of es document is: 7243aea2d16f188166164b405ed010cd 
+2016-11-16 10:27:58,381 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,397 2384 MainThread INFO cost: 0.251000
+2016-11-16 10:27:58,398 2384 MainThread INFO starts to process company: 北瑛天颐控股有限公司, id: 25, the id of es document is: 40dde71d5f349dd7705fa8e5bb652dff 
+2016-11-16 10:27:58,526 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,539 2384 MainThread INFO cost: 0.142000
+2016-11-16 10:27:58,540 2384 MainThread INFO round ends
+2016-11-16 10:27:58,542 2384 MainThread INFO round starts
+2016-11-16 10:27:58,581 2384 MainThread INFO starts to process company: 烟台银行股份有限公司, id: 27, the id of es document is: 59c8c060ee62771b7c507263f8ab19ef 
+2016-11-16 10:27:58,687 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,717 2384 MainThread INFO cost: 0.137000
+2016-11-16 10:27:58,719 2384 MainThread INFO starts to process company: 翔鹭石化股份有限公司, id: 28, the id of es document is: 6c6e49e0a409b1c0aa0ca99d6818c304 
+2016-11-16 10:27:58,844 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,857 2384 MainThread INFO cost: 0.138000
+2016-11-16 10:27:58,858 2384 MainThread INFO starts to process company: 广东省农垦集团公司, id: 29, the id of es document is: ea9af14ba471b37b0746ca440aabb5dd 
+2016-11-16 10:27:58,966 2384 MainThread INFO inserted into es
+2016-11-16 10:27:58,980 2384 MainThread INFO cost: 0.122000
+2016-11-16 10:27:58,980 2384 MainThread INFO starts to process company: 优拓(福建)平板显示技术有限公司, id: 30, the id of es document is: 26e8910d2f13f801aca1234eda43c3cb 
+2016-11-16 10:27:59,378 2384 MainThread INFO inserted into es
+2016-11-16 10:27:59,394 2384 MainThread INFO cost: 0.414000
+2016-11-16 10:27:59,394 2384 MainThread INFO starts to process company: 上海宜和电子科技有限公司, id: 31, the id of es document is: ffc3bfc705789be814054ddf97e98478 
+2016-11-16 10:27:59,568 2384 MainThread INFO inserted into es
+2016-11-16 10:27:59,582 2384 MainThread INFO cost: 0.188000
+2016-11-16 10:27:59,585 2384 MainThread INFO starts to process company: 口力口（上海）商务咨询有限公司, id: 32, the id of es document is: c7458bcda03ec71c7a0d6e43aa68fc2c 
+2016-11-16 10:27:59,989 2384 MainThread INFO inserted into es
+2016-11-16 10:28:00,005 2384 MainThread INFO cost: 0.421000
+2016-11-16 10:28:00,006 2384 MainThread INFO starts to process company: 楠江集团鸿鹄机电有限公司, id: 33, the id of es document is: d9fd9b36850bbccc45fb45f363e36c98 
+2016-11-16 10:28:00,217 2384 MainThread INFO inserted into es
+2016-11-16 10:28:00,230 2384 MainThread INFO cost: 0.225000
+2016-11-16 10:28:00,232 2384 MainThread INFO starts to process company: 安星工艺品（东莞）有限公司, id: 35, the id of es document is: eed7a491483d3ce70753b89cc88163d6 
+2016-11-16 10:28:00,484 2384 MainThread INFO inserted into es
+2016-11-16 10:28:00,503 2384 MainThread INFO cost: 0.271000
+2016-11-16 10:28:00,503 2384 MainThread INFO starts to process company: 济南宙庆工业设计有限公司, id: 36, the id of es document is: 3acf5c0afa230f99feae16302b84d405 
+2016-11-16 10:28:00,733 2384 MainThread INFO inserted into es
+2016-11-16 10:28:00,746 2384 MainThread INFO cost: 0.242000
+2016-11-16 10:28:00,746 2384 MainThread INFO starts to process company: 东莞恒天塑胶制品有限公司, id: 37, the id of es document is: ec007985d64377acaca42deb3b8057ef 
+2016-11-16 10:28:00,894 2384 MainThread INFO inserted into es
+2016-11-16 10:28:00,910 2384 MainThread INFO cost: 0.163000
+2016-11-16 10:28:00,911 2384 MainThread INFO round ends
+2016-11-16 10:28:00,913 2384 MainThread INFO round starts
+2016-11-16 10:28:00,944 2384 MainThread INFO starts to process company: 协欣精密工业(南京)有限公司, id: 38, the id of es document is: a89bf638b27c632fd7f635d434469c2d 
+2016-11-16 10:28:01,273 2384 MainThread INFO inserted into es
+2016-11-16 10:28:01,289 2384 MainThread INFO cost: 0.346000
+2016-11-16 10:28:01,290 2384 MainThread INFO starts to process company: 上海白洋舍洗染有限公司, id: 39, the id of es document is: 7fbfd3b97b400e85e8227e85386cec3f 
+2016-11-16 10:28:02,045 2384 MainThread INFO inserted into es
+2016-11-16 10:28:02,061 2384 MainThread INFO cost: 0.770000
+2016-11-16 10:28:02,062 2384 MainThread INFO starts to process company: 中国铁路总公司, id: 41, the id of es document is: 17d9db4f747e7b75cfabcb9076f5aa22 
+2016-11-16 10:28:03,783 2384 MainThread INFO inserted into es
+2016-11-16 10:28:03,813 2384 MainThread INFO cost: 1.752000
+2016-11-16 10:28:03,815 2384 MainThread INFO starts to process company: 杭州快迪科技有限公司, id: 42, the id of es document is: 8782807b4f1175e6245ae3bf407eb742 
+2016-11-16 10:28:04,924 2384 MainThread INFO inserted into es
+2016-11-16 10:28:04,940 2384 MainThread INFO cost: 1.125000
+2016-11-16 10:28:04,940 2384 MainThread INFO starts to process company: 百事饮料（广州）有限公司, id: 43, the id of es document is: a866ac851c88c2ad2498e94e094eccc3 
+2016-11-16 10:28:06,308 2384 MainThread INFO inserted into es
+2016-11-16 10:28:06,332 2384 MainThread INFO cost: 1.391000
+2016-11-16 10:28:06,332 2384 MainThread INFO starts to process company: 新阳科技集团有限公司, id: 44, the id of es document is: 3c2d29ef72a2b6ca68db944c75666694 
+2016-11-16 10:28:06,585 2384 MainThread INFO inserted into es
+2016-11-16 10:28:06,599 2384 MainThread INFO cost: 0.267000
+2016-11-16 10:28:06,602 2384 MainThread INFO starts to process company: 远纺工业（上海）有限公司, id: 46, the id of es document is: 14643bf6e5d6de9dac318607d5249967 
+2016-11-16 10:28:06,799 2384 MainThread INFO inserted into es
+2016-11-16 10:28:06,888 2384 MainThread INFO cost: 0.286000
+2016-11-16 10:28:06,890 2384 MainThread INFO starts to process company: 侨鑫集团有限公司, id: 47, the id of es document is: 62081eb43882dd3c9b8504ef49f76e28 
+2016-11-16 10:28:07,105 2384 MainThread INFO inserted into es
+2016-11-16 10:28:07,124 2384 MainThread INFO cost: 0.234000
+2016-11-16 10:28:07,125 2384 MainThread INFO starts to process company: 上海三菱电梯有限公司, id: 48, the id of es document is: b1c3173e43bc61e4f00dcb9ef7c84950 
+2016-11-16 10:28:07,259 2384 MainThread INFO inserted into es
+2016-11-16 10:28:07,276 2384 MainThread INFO cost: 0.151000
+2016-11-16 10:28:07,276 2384 MainThread INFO starts to process company: 余姚众安置业有限公司, id: 49, the id of es document is: f5ac8ab5ae84debf3ee6db2b5012430d 
+2016-11-16 10:28:07,407 2384 MainThread INFO inserted into es
+2016-11-16 10:28:07,421 2384 MainThread INFO cost: 0.145000
+2016-11-16 10:28:07,423 2384 MainThread INFO round ends
+2016-11-16 10:28:07,424 2384 MainThread INFO round starts
+2016-11-16 10:28:07,552 2384 MainThread INFO starts to process company: 阿里巴巴（中国）有限公司, id: 50, the id of es document is: 0f4e1d6954b0f9a977298b15b9b08895 
+2016-11-16 10:28:07,676 2384 MainThread INFO inserted into es
+2016-11-16 10:28:07,698 2384 MainThread INFO cost: 0.147000
+2016-11-16 10:28:07,698 2384 MainThread INFO starts to process company: 国家电网公司, id: 51, the id of es document is: 86a8e55eb1290dd21ff1c6a3bfc19c86 
+2016-11-16 10:28:07,973 2384 MainThread INFO inserted into es
+2016-11-16 10:28:07,992 2384 MainThread INFO cost: 0.293000
+2016-11-16 10:28:07,993 2384 MainThread INFO starts to process company: 潜江幸福铝业有限公司, id: 52, the id of es document is: 5a36bb2791b3f60894d0a3a6f8a7c803 
+2016-11-16 10:28:08,191 2384 MainThread INFO inserted into es
+2016-11-16 10:28:08,226 2384 MainThread INFO cost: 0.233000
+2016-11-16 10:28:08,226 2384 MainThread INFO starts to process company: 广州臻饮咖啡有限公司, id: 53, the id of es document is: c61974a043df88ce40a0cd9a9122dfa7 
+2016-11-16 10:28:08,471 2384 MainThread INFO inserted into es
+2016-11-16 10:28:08,483 2384 MainThread INFO cost: 0.256000
+2016-11-16 10:28:08,483 2384 MainThread INFO starts to process company: 江阴福汇纺织有限公司, id: 54, the id of es document is: 1773542731452faa61fcf929706eff00 
+2016-11-16 10:28:08,729 2384 MainThread INFO inserted into es
+2016-11-16 10:28:08,740 2384 MainThread INFO cost: 0.257000
+2016-11-16 10:28:08,740 2384 MainThread INFO starts to process company: 晓星化纤（嘉兴）有限公司, id: 55, the id of es document is: 141aa89c4dd6cbd4a881e34a5ddc131b 
+2016-11-16 10:28:09,213 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,230 2384 MainThread INFO cost: 0.489000
+2016-11-16 10:28:09,230 2384 MainThread INFO starts to process company: 正大（东营）投资有限公司, id: 56, the id of es document is: 9dca026a87a3db112a2eda1abf085d15 
+2016-11-16 10:28:09,358 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,375 2384 MainThread INFO cost: 0.144000
+2016-11-16 10:28:09,377 2384 MainThread INFO starts to process company: 唐山福顺水泥有限公司, id: 57, the id of es document is: d05a252ab93e17a3d92cdededcaabaee 
+2016-11-16 10:28:09,526 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,536 2384 MainThread INFO cost: 0.159000
+2016-11-16 10:28:09,536 2384 MainThread INFO starts to process company: 大联大商贸有限公司, id: 58, the id of es document is: 26f0e28dcc69f2b3efaf6e80541637a4 
+2016-11-16 10:28:09,667 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,684 2384 MainThread INFO cost: 0.148000
+2016-11-16 10:28:09,684 2384 MainThread INFO starts to process company: 扬宣电子（苏州）有限公司, id: 59, the id of es document is: 72660671565e545d0974362077833fac 
+2016-11-16 10:28:09,767 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,779 2384 MainThread INFO cost: 0.094000
+2016-11-16 10:28:09,779 2384 MainThread INFO round ends
+2016-11-16 10:28:09,779 2384 MainThread INFO round starts
+2016-11-16 10:28:09,803 2384 MainThread INFO starts to process company: 皇普电气（江苏）有限公司, id: 60, the id of es document is: 0b0c3697b99e4b66425aa053175a2e9e 
+2016-11-16 10:28:09,915 2384 MainThread INFO inserted into es
+2016-11-16 10:28:09,937 2384 MainThread INFO cost: 0.133000
+2016-11-16 10:28:09,937 2384 MainThread INFO starts to process company: 国家电力公司, id: 61, the id of es document is: 2270062e41120bb5facfaaea10b63377 
+2016-11-16 10:28:10,059 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,071 2384 MainThread INFO cost: 0.133000
+2016-11-16 10:28:10,071 2384 MainThread INFO starts to process company: 拜耳医药（上海）有限公司, id: 62, the id of es document is: 656b74d8a3b79a5b1c2160616126813b 
+2016-11-16 10:28:10,206 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,220 2384 MainThread INFO cost: 0.150000
+2016-11-16 10:28:10,221 2384 MainThread INFO starts to process company: 汉德制造（中国）有限公司, id: 63, the id of es document is: 6f106e4beb05dc933ccd82e48ecec9a0 
+2016-11-16 10:28:10,334 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,351 2384 MainThread INFO cost: 0.130000
+2016-11-16 10:28:10,351 2384 MainThread INFO starts to process company: 东裕电器（惠州）有限公司, id: 64, the id of es document is: eae325535924ba2f6f3f6bab78146ec3 
+2016-11-16 10:28:10,492 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,513 2384 MainThread INFO cost: 0.161000
+2016-11-16 10:28:10,515 2384 MainThread INFO starts to process company: 大连锦兴贸易有限公司, id: 65, the id of es document is: b7402397cf11e1e2dbbdcd24bfe2c232 
+2016-11-16 10:28:10,624 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,638 2384 MainThread INFO cost: 0.124000
+2016-11-16 10:28:10,638 2384 MainThread INFO starts to process company: 英昌乐器（中国）有限公司, id: 66, the id of es document is: c50f598e345519a77676a53f6957c858 
+2016-11-16 10:28:10,736 2384 MainThread INFO inserted into es
+2016-11-16 10:28:10,765 2384 MainThread INFO cost: 0.126000
+2016-11-16 10:28:10,766 2384 MainThread INFO starts to process company: 瑞安管理（上海）有限公司, id: 67, the id of es document is: ead745c43b63ac4336991c74dd232a9e 
+2016-11-16 10:28:11,010 2384 MainThread INFO inserted into es
+2016-11-16 10:28:11,028 2384 MainThread INFO cost: 0.262000
+2016-11-16 10:28:11,029 2384 MainThread INFO starts to process company: 必斐艾食品有限公司, id: 68, the id of es document is: ec35e26b3f99fd5de5311086340e49d4 
+2016-11-16 10:28:11,447 2384 MainThread INFO inserted into es
+2016-11-16 10:28:11,469 2384 MainThread INFO cost: 0.440000
+2016-11-16 10:28:11,470 2384 MainThread INFO starts to process company: 大连恒良投资有限公司, id: 69, the id of es document is: dfa53a40c595503efa1fd078d28891cd 
+2016-11-16 10:28:11,607 2384 MainThread INFO inserted into es
+2016-11-16 10:28:11,625 2384 MainThread INFO cost: 0.155000
+2016-11-16 10:28:11,627 2384 MainThread INFO round ends
+2016-11-16 10:28:11,628 2384 MainThread INFO round starts
+2016-11-16 10:28:11,678 2384 MainThread INFO starts to process company: 泺亨（泰安）物流有限公司, id: 70, the id of es document is: fae4d466d80ea4be121d8dd1d30f2c31 
+2016-11-16 10:28:11,806 2384 MainThread INFO inserted into es
+2016-11-16 10:28:11,819 2384 MainThread INFO cost: 0.141000
+2016-11-16 10:28:11,821 2384 MainThread INFO starts to process company: 惠州伟特电子有限公司, id: 71, the id of es document is: c50c6b2a6c3bad3aa0589e2c3ae36dcb 
+2016-11-16 10:28:12,006 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,055 2384 MainThread INFO cost: 0.234000
+2016-11-16 10:28:12,055 2384 MainThread INFO starts to process company: 海宁森德皮革有限公司, id: 72, the id of es document is: 47685361cbc3460b87f91c2033228e4c 
+2016-11-16 10:28:12,198 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,214 2384 MainThread INFO cost: 0.159000
+2016-11-16 10:28:12,216 2384 MainThread INFO starts to process company: 旭新投资（上海）有限公司, id: 73, the id of es document is: 509aad0412e6fabef68278e0635ca8f9 
+2016-11-16 10:28:12,339 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,359 2384 MainThread INFO cost: 0.144000
+2016-11-16 10:28:12,361 2384 MainThread INFO starts to process company: 苏州胶囊有限公司, id: 74, the id of es document is: 0f380adfeb6fe30ed8c8e7096067afa2 
+2016-11-16 10:28:12,490 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,516 2384 MainThread INFO cost: 0.156000
+2016-11-16 10:28:12,517 2384 MainThread INFO starts to process company: 雄邦压铸（南通）有限公司, id: 75, the id of es document is: 9f40f344caaf3dc6177e8bc47a22ce51 
+2016-11-16 10:28:12,630 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,670 2384 MainThread INFO cost: 0.153000
+2016-11-16 10:28:12,671 2384 MainThread INFO starts to process company: 惠氏制药有限公司, id: 76, the id of es document is: 3a0fb0d186f3f65025c843d29f5209e9 
+2016-11-16 10:28:12,808 2384 MainThread INFO inserted into es
+2016-11-16 10:28:12,825 2384 MainThread INFO cost: 0.155000
+2016-11-16 10:28:12,826 2384 MainThread INFO starts to process company: 天津捷安星公路建设有限公司, id: 77, the id of es document is: 4a17f18001c4bb2ac5385e6da8b3fd15 
+2016-11-16 10:28:13,088 2384 MainThread INFO inserted into es
+2016-11-16 10:28:13,118 2384 MainThread INFO cost: 0.291000
+2016-11-16 10:28:13,119 2384 MainThread INFO starts to process company: 上海皇品食品有限公司, id: 78, the id of es document is: b965fb807c1a8ad5f29f4587c51595e0 
+2016-11-16 10:28:13,499 2384 MainThread INFO inserted into es
+2016-11-16 10:28:13,581 2384 MainThread INFO cost: 0.462000
+2016-11-16 10:28:13,582 2384 MainThread INFO starts to process company: 凯澄起重机械有限公司, id: 80, the id of es document is: 99c320cba1a0f0dc2bac55c942b04df6 
+2016-11-16 10:28:13,749 2384 MainThread INFO inserted into es
+2016-11-16 10:28:13,766 2384 MainThread INFO cost: 0.185000
+2016-11-16 10:28:13,767 2384 MainThread INFO round ends
+2016-11-16 10:28:13,769 2384 MainThread INFO round starts
+2016-11-16 10:28:13,799 2384 MainThread INFO starts to process company: 中国投资有限责任公司, id: 81, the id of es document is: 29bb1d4a58953e538d936a190ead0133 
+2016-11-16 10:28:13,874 2384 MainThread INFO inserted into es
+2016-11-16 10:28:13,885 2384 MainThread INFO cost: 0.086000
+2016-11-16 10:28:13,887 2384 MainThread INFO starts to process company: 上海慧与有限公司, id: 82, the id of es document is: aa75c2a9c5c69ef5d8cead7a727cf1e0 
+2016-11-16 10:28:14,063 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,078 2384 MainThread INFO cost: 0.192000
+2016-11-16 10:28:14,079 2384 MainThread INFO starts to process company: 沈阳赛德电器有限公司, id: 83, the id of es document is: 797bb2a963c96c081b79bdc7a222f6bb 
+2016-11-16 10:28:14,216 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,233 2384 MainThread INFO cost: 0.153000
+2016-11-16 10:28:14,233 2384 MainThread INFO starts to process company: 雷勃电气（无锡）有限公司, id: 85, the id of es document is: 108d0c39d4f5ccf6aa3943c2b5730a3e 
+2016-11-16 10:28:14,331 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,345 2384 MainThread INFO cost: 0.112000
+2016-11-16 10:28:14,348 2384 MainThread INFO starts to process company: 兰州连海铝业有限公司, id: 86, the id of es document is: eb7afc728a0f1a310277b0ebd5cbe6f5 
+2016-11-16 10:28:14,528 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,539 2384 MainThread INFO cost: 0.193000
+2016-11-16 10:28:14,540 2384 MainThread INFO starts to process company: 中国烟草总公司, id: 87, the id of es document is: 0e8df5c65a63bef764419c861b4f1994 
+2016-11-16 10:28:14,642 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,658 2384 MainThread INFO cost: 0.119000
+2016-11-16 10:28:14,660 2384 MainThread INFO starts to process company: 美达王（中国）有限公司, id: 88, the id of es document is: fd75ea87a62e6dde25d0272aa1aa2ecc 
+2016-11-16 10:28:14,766 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,785 2384 MainThread INFO cost: 0.124000
+2016-11-16 10:28:14,786 2384 MainThread INFO starts to process company: 江苏统一企业有限公司, id: 89, the id of es document is: bd977365e6ff503408717381552a5da0 
+2016-11-16 10:28:14,907 2384 MainThread INFO inserted into es
+2016-11-16 10:28:14,924 2384 MainThread INFO cost: 0.138000
+2016-11-16 10:28:14,926 2384 MainThread INFO starts to process company: 广西镇国贸易有限公司, id: 90, the id of es document is: 1b4f1106f5d365b8f4c791057ab68f8b 
+2016-11-16 10:28:15,035 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,048 2384 MainThread INFO cost: 0.123000
+2016-11-16 10:28:15,049 2384 MainThread INFO starts to process company: 博辉药业（中国）有限公司, id: 91, the id of es document is: f0129cb620b6d579b974b4cfac7a96ca 
+2016-11-16 10:28:15,200 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,217 2384 MainThread INFO cost: 0.169000
+2016-11-16 10:28:15,219 2384 MainThread INFO round ends
+2016-11-16 10:28:15,220 2384 MainThread INFO round starts
+2016-11-16 10:28:15,253 2384 MainThread INFO starts to process company: 肇庆澳华铝业有限公司, id: 92, the id of es document is: a57638d6b0b260827df81eec7ac4be05 
+2016-11-16 10:28:15,357 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,372 2384 MainThread INFO cost: 0.120000
+2016-11-16 10:28:15,374 2384 MainThread INFO starts to process company: 运东（惠州）贸易有限公司, id: 93, the id of es document is: 36e6d1771adbf65b93da5883b64c914b 
+2016-11-16 10:28:15,466 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,479 2384 MainThread INFO cost: 0.105000
+2016-11-16 10:28:15,480 2384 MainThread INFO starts to process company: 君顶实业有限公司, id: 94, the id of es document is: dc80b7b432c633e6c7219963f0eb9b8e 
+2016-11-16 10:28:15,618 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,631 2384 MainThread INFO cost: 0.152000
+2016-11-16 10:28:15,634 2384 MainThread INFO starts to process company: 福州统一企业有限公司, id: 95, the id of es document is: c09e029f62ebeb40eb00c6a79ede2c04 
+2016-11-16 10:28:15,749 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,766 2384 MainThread INFO cost: 0.133000
+2016-11-16 10:28:15,767 2384 MainThread INFO starts to process company: 创冠环保（孝感）有限公司, id: 96, the id of es document is: 6d559c9992df1a00c79087967cc49bba 
+2016-11-16 10:28:15,946 2384 MainThread INFO inserted into es
+2016-11-16 10:28:15,979 2384 MainThread INFO cost: 0.210000
+2016-11-16 10:28:15,980 2384 MainThread INFO starts to process company: 大连金澳港务有限公司, id: 97, the id of es document is: 4599be5db624cb90ac18fe7307347bc9 
+2016-11-16 10:28:16,115 2384 MainThread INFO inserted into es
+2016-11-16 10:28:16,134 2384 MainThread INFO cost: 0.155000
+2016-11-16 10:28:16,134 2384 MainThread INFO starts to process company: 首钢总公司, id: 98, the id of es document is: c1081a938acd5db05ff9dc5127859bc1 
+2016-11-16 10:28:16,233 2384 MainThread INFO inserted into es
+2016-11-16 10:28:16,256 2384 MainThread INFO cost: 0.122000
+2016-11-16 10:28:16,257 2384 MainThread INFO starts to process company: 邵阳嘉鼎木业有限公司, id: 99, the id of es document is: 7e35d7cc741c0b76330c243112567339 
+2016-11-16 10:28:16,408 2384 MainThread INFO inserted into es
+2016-11-16 10:28:16,437 2384 MainThread INFO cost: 0.180000
+2016-11-16 10:28:16,438 2384 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:29:16,460 2384 MainThread INFO cost: 60.021000
+2016-11-16 10:29:16,460 2384 MainThread INFO starts to process company: 甲乙电子（烟台）有限公司, id: 101, the id of es document is: 4242339330bb280532191263a4945887 
+2016-11-16 10:29:16,809 2384 MainThread INFO inserted into es
+2016-11-16 10:29:16,822 2384 MainThread INFO cost: 0.361000
+2016-11-16 10:29:16,822 2384 MainThread INFO round ends
+2016-11-16 10:29:16,823 2384 MainThread INFO round starts
+2016-11-16 10:29:16,914 2384 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:30:16,931 2384 MainThread INFO cost: 60.017000
+2016-11-16 10:30:16,933 2384 MainThread INFO starts to process company: 永镫科技（南京）有限公司, id: 102, the id of es document is: 3f0848f8b91b74de11cbc5e33aef182f 
+2016-11-16 10:32:42,033 6664 MainThread INFO round starts
+2016-11-16 10:32:42,076 6664 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:33:06,301 6920 MainThread INFO round starts
+2016-11-16 10:33:06,325 6920 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:33:42,098 6664 MainThread INFO cost: 60.023000
+2016-11-16 10:33:42,101 6664 MainThread INFO starts to process company: 永镫科技（南京）有限公司, id: 102, the id of es document is: 3f0848f8b91b74de11cbc5e33aef182f 
+2016-11-16 10:44:33,053 6664 MainThread INFO inserted into es
+2016-11-16 10:44:37,897 6664 MainThread INFO cost: 655.797000
+2016-11-16 10:44:49,398 6664 MainThread INFO starts to process company: 浙江东立电器有限公司, id: 103, the id of es document is: c801e0e4567407aa1b11346ac662d44a 
+2016-11-16 10:45:02,161 6664 MainThread INFO inserted into es
+2016-11-16 10:45:05,000 6664 MainThread INFO cost: 16.647000
+2016-11-16 10:45:11,559 6664 MainThread INFO starts to process company: 天津泰华纺织有限公司, id: 104, the id of es document is: 06ddcf6f505ebc4f02f6633cd01c1350 
+2016-11-16 10:45:11,851 6664 MainThread INFO inserted into es
+2016-11-16 10:45:12,707 6664 MainThread INFO cost: 2.058000
+2016-11-16 10:45:14,858 6664 MainThread INFO starts to process company: 普善商贸（上海）有限公司, id: 105, the id of es document is: fbfffb277b90ecea913b9bb42acbb5d3 
+2016-11-16 10:45:15,453 6664 MainThread INFO inserted into es
+2016-11-16 10:45:52,371 6664 MainThread INFO cost: 38.559000
+2016-11-16 10:45:55,865 6664 MainThread INFO starts to process company: 建邦服装（惠州）有限公司, id: 106, the id of es document is: feda739712cfe9f18e7c3dba5e7f8958 
+2016-11-16 10:45:56,926 6664 MainThread INFO inserted into es
+2016-11-16 10:46:11,368 6664 MainThread INFO cost: 17.826000
+2016-11-16 10:46:13,263 6664 MainThread INFO starts to process company: 缤刻科技（上海）有限公司, id: 107, the id of es document is: 729488672ea804d2e79a2e29be34b304 
+2016-11-16 10:46:13,484 6664 MainThread INFO inserted into es
+2016-11-16 10:46:32,632 6664 MainThread INFO cost: 20.237000
+2016-11-16 10:46:35,269 6664 MainThread INFO starts to process company: 安徽东锦服饰有限公司, id: 108, the id of es document is: 493bb6257b54f46079794b336a79c953 
+2016-11-16 10:46:35,743 6664 MainThread INFO inserted into es
+2016-11-16 10:46:36,848 6664 MainThread INFO cost: 2.976000
+2016-11-16 10:46:38,434 6664 MainThread INFO starts to process company: 浙江卓逸铝业有限公司, id: 109, the id of es document is: 8c7cb6f1115e4e0072aa68ee749dd06f 
+2016-11-16 10:46:39,986 6664 MainThread INFO inserted into es
+2016-11-16 10:46:43,026 6664 MainThread INFO cost: 5.359000
+2016-11-16 10:46:44,983 6664 MainThread INFO starts to process company: 协顺电器（赣州）有限公司, id: 110, the id of es document is: ce63a783ffe66586a2196e971713a011 
+2016-11-16 10:46:45,176 6664 MainThread INFO inserted into es
+2016-11-16 10:46:45,960 6664 MainThread INFO cost: 1.877000
+2016-11-16 10:46:46,849 6664 MainThread INFO round ends
+2016-11-16 10:46:48,048 6664 MainThread INFO round starts
+2016-11-16 10:46:49,151 6664 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:48:58,634 4840 MainThread INFO round starts
+2016-11-16 10:48:58,703 4840 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 10:49:26,163 7044 MainThread INFO round starts
+2016-11-16 10:49:28,953 7044 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:30:33,332 8480 MainThread INFO round starts
+2016-11-16 14:30:38,657 8480 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:32:00,115 1200 MainThread INFO round starts
+2016-11-16 14:32:35,071 7700 MainThread INFO round starts
+2016-11-16 14:32:35,105 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:33:35,111 7700 MainThread INFO cost: 60.007000
+2016-11-16 14:33:35,114 7700 MainThread INFO starts to process company: 太仓环球化纤有限公司, id: 111, the id of es document is: e58a7f47e987d36e91bdeca6c00a942c 
+2016-11-16 14:34:14,723 8200 MainThread INFO round starts
+2016-11-16 14:34:18,823 8200 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:34:35,117 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:34:35,118 7700 MainThread INFO starts to process company: 古驰（中国）贸易有限公司, id: 112, the id of es document is: 9072d6429a6cb858ccc4ed6cdc27c3ec 
+2016-11-16 14:35:35,121 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:35:35,121 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 14:36:35,125 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:36:35,127 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 14:37:35,130 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:37:35,131 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 14:38:35,135 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:38:35,137 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 14:39:35,141 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:39:35,142 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 14:40:35,147 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:40:35,148 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 14:41:35,151 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:41:35,154 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 14:42:35,157 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:42:35,158 7700 MainThread INFO round ends
+2016-11-16 14:42:35,160 7700 MainThread INFO round starts
+2016-11-16 14:42:35,200 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:43:35,203 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:43:35,206 7700 MainThread INFO starts to process company: 太仓环球化纤有限公司, id: 111, the id of es document is: e58a7f47e987d36e91bdeca6c00a942c 
+2016-11-16 14:44:35,210 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:44:35,211 7700 MainThread INFO starts to process company: 古驰（中国）贸易有限公司, id: 112, the id of es document is: 9072d6429a6cb858ccc4ed6cdc27c3ec 
+2016-11-16 14:45:35,216 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:45:35,217 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 14:46:35,220 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:46:35,221 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 14:47:35,226 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:47:35,227 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 14:48:35,230 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:48:35,232 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 14:49:35,236 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:49:35,236 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 14:50:35,239 7700 MainThread INFO cost: 60.002000
+2016-11-16 14:50:35,240 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 14:51:35,243 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:51:35,243 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 14:52:35,246 7700 MainThread INFO cost: 60.002000
+2016-11-16 14:52:35,246 7700 MainThread INFO round ends
+2016-11-16 14:52:35,246 7700 MainThread INFO round starts
+2016-11-16 14:52:38,466 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 14:53:38,469 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:53:38,470 7700 MainThread INFO starts to process company: 太仓环球化纤有限公司, id: 111, the id of es document is: e58a7f47e987d36e91bdeca6c00a942c 
+2016-11-16 14:54:38,473 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:54:38,474 7700 MainThread INFO starts to process company: 古驰（中国）贸易有限公司, id: 112, the id of es document is: 9072d6429a6cb858ccc4ed6cdc27c3ec 
+2016-11-16 14:55:38,479 7700 MainThread INFO cost: 60.004000
+2016-11-16 14:55:38,480 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 14:56:38,482 7700 MainThread INFO cost: 60.002000
+2016-11-16 14:56:38,483 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 14:57:38,487 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:57:38,489 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 14:58:38,493 7700 MainThread INFO cost: 60.005000
+2016-11-16 14:58:38,494 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 14:59:38,497 7700 MainThread INFO cost: 60.003000
+2016-11-16 14:59:38,499 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:00:38,503 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:00:38,505 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:01:38,507 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:01:38,509 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:02:38,512 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:02:38,513 7700 MainThread INFO round ends
+2016-11-16 15:02:38,513 7700 MainThread INFO round starts
+2016-11-16 15:02:39,040 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:03:39,043 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:03:39,045 7700 MainThread INFO starts to process company: 太仓环球化纤有限公司, id: 111, the id of es document is: e58a7f47e987d36e91bdeca6c00a942c 
+2016-11-16 15:04:39,049 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:04:39,049 7700 MainThread INFO starts to process company: 古驰（中国）贸易有限公司, id: 112, the id of es document is: 9072d6429a6cb858ccc4ed6cdc27c3ec 
+2016-11-16 15:05:39,055 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:05:39,056 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:06:39,059 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:06:39,061 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:07:39,065 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:07:39,065 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:08:39,069 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:08:39,069 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:09:09,466 9972 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:09:39,072 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:09:39,072 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:09:42,736 272 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:09:59,855 272 MainThread INFO cost: 18.763000
+2016-11-16 15:10:02,683 272 MainThread INFO starts to process company: 太仓环球化纤有限公司, id: 111, the id of es document is: e58a7f47e987d36e91bdeca6c00a942c 
+2016-11-16 15:10:03,903 272 MainThread INFO inserted into es
+2016-11-16 15:10:04,778 272 MainThread INFO cost: 3.804000
+2016-11-16 15:10:08,246 272 MainThread INFO starts to process company: 古驰（中国）贸易有限公司, id: 112, the id of es document is: 9072d6429a6cb858ccc4ed6cdc27c3ec 
+2016-11-16 15:10:09,243 272 MainThread INFO inserted into es
+2016-11-16 15:10:10,157 272 MainThread INFO cost: 3.283000
+2016-11-16 15:10:39,075 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:10:39,075 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:11:39,079 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:11:39,081 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:12:39,085 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:12:39,085 7700 MainThread INFO round ends
+2016-11-16 15:12:39,085 7700 MainThread INFO round starts
+2016-11-16 15:12:39,104 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:13:39,105 7700 MainThread INFO cost: 60.001000
+2016-11-16 15:13:39,105 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:14:39,109 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:14:39,111 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:15:39,114 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:15:39,115 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:16:39,119 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:16:39,121 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:17:39,125 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:17:39,125 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:18:39,128 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:18:39,130 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:19:39,134 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:19:39,134 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:20:39,138 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:20:39,141 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 15:21:39,145 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:21:39,147 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 15:22:39,151 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:22:39,151 7700 MainThread INFO round ends
+2016-11-16 15:22:39,153 7700 MainThread INFO round starts
+2016-11-16 15:22:40,115 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:23:40,117 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:23:40,118 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:24:40,121 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:24:40,121 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:25:40,125 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:25:40,127 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:26:40,131 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:26:40,132 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:27:40,135 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:27:40,137 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:28:40,141 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:28:40,142 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:29:40,147 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:29:40,148 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:30:40,153 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:30:40,153 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 15:31:40,154 7700 MainThread INFO cost: 60.001000
+2016-11-16 15:31:40,154 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 15:32:40,157 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:32:40,157 7700 MainThread INFO round ends
+2016-11-16 15:32:40,158 7700 MainThread INFO round starts
+2016-11-16 15:32:41,036 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:33:41,039 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:33:41,039 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:34:41,043 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:34:41,046 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:35:41,049 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:35:41,052 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:36:41,055 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:36:41,055 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:37:41,056 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:37:41,058 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:38:41,062 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:38:41,063 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:39:41,068 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:39:41,069 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:40:41,072 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:40:41,072 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 15:41:41,075 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:41:41,076 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 15:42:41,082 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:42:41,082 7700 MainThread INFO round ends
+2016-11-16 15:42:41,084 7700 MainThread INFO round starts
+2016-11-16 15:42:41,723 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:43:41,723 7700 MainThread INFO cost: 60.001000
+2016-11-16 15:43:41,724 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:44:41,729 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:44:41,729 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:45:41,730 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:45:41,732 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:46:41,736 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:46:41,736 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:47:41,737 7700 MainThread INFO cost: 60.002000
+2016-11-16 15:47:41,739 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:48:41,743 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:48:41,743 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:49:41,749 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:49:41,750 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 15:50:41,753 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:50:41,755 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 15:51:41,759 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:51:41,760 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 15:52:41,765 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:52:41,765 7700 MainThread INFO round ends
+2016-11-16 15:52:41,766 7700 MainThread INFO round starts
+2016-11-16 15:52:42,515 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 15:53:42,517 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:53:42,519 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 15:54:42,523 7700 MainThread INFO cost: 60.004000
+2016-11-16 15:54:42,523 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 15:55:42,529 7700 MainThread INFO cost: 60.005000
+2016-11-16 15:55:42,529 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 15:56:42,532 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:56:42,533 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 15:57:42,536 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:57:42,536 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 15:58:42,539 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:58:42,542 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 15:59:42,545 7700 MainThread INFO cost: 60.003000
+2016-11-16 15:59:42,546 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:00:42,549 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:00:42,551 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:01:42,555 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:01:42,555 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:02:42,559 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:02:42,561 7700 MainThread INFO round ends
+2016-11-16 16:02:42,562 7700 MainThread INFO round starts
+2016-11-16 16:02:45,628 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:03:45,628 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:03:45,630 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:04:45,634 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:04:45,634 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:05:45,635 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:05:45,637 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:06:45,638 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:06:45,640 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:07:45,644 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:07:45,645 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:08:45,648 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:08:45,650 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:09:45,654 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:09:45,654 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:10:45,654 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:10:45,654 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:11:45,657 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:11:45,657 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:12:45,657 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:12:45,657 7700 MainThread INFO round ends
+2016-11-16 16:12:45,658 7700 MainThread INFO round starts
+2016-11-16 16:12:45,854 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:13:45,855 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:13:45,855 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:14:45,857 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:14:45,858 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:15:45,859 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:15:45,861 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:16:45,864 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:16:45,865 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:17:45,868 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:17:45,869 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:18:45,874 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:18:45,875 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:19:45,878 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:19:45,880 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:20:45,884 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:20:45,884 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:21:45,885 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:21:45,887 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:22:45,890 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:22:45,891 7700 MainThread INFO round ends
+2016-11-16 16:22:45,891 7700 MainThread INFO round starts
+2016-11-16 16:22:46,134 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:23:46,138 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:23:46,140 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:24:46,142 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:24:46,144 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:25:46,145 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:25:46,147 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:26:46,151 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:26:46,151 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:27:46,154 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:27:46,154 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:28:46,158 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:28:46,160 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:29:46,163 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:29:46,164 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:30:46,168 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:30:46,171 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:31:46,174 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:31:46,174 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:32:46,178 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:32:46,180 7700 MainThread INFO round ends
+2016-11-16 16:32:46,180 7700 MainThread INFO round starts
+2016-11-16 16:32:46,516 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:33:46,516 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:33:46,517 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:34:46,525 7700 MainThread INFO cost: 60.007000
+2016-11-16 16:34:46,525 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:35:46,526 7700 MainThread INFO cost: 60.001000
+2016-11-16 16:35:46,526 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:36:46,529 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:36:46,530 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:37:46,532 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:37:46,533 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:38:46,538 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:38:46,538 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:39:46,540 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:39:46,542 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:40:46,546 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:40:46,546 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:41:46,552 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:41:46,553 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:42:46,556 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:42:46,558 7700 MainThread INFO round ends
+2016-11-16 16:42:46,559 7700 MainThread INFO round starts
+2016-11-16 16:42:46,763 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:43:46,766 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:43:46,767 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:44:46,770 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:44:46,772 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:45:46,775 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:45:46,776 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:46:46,780 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:46:46,782 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:47:46,786 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:47:46,786 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:48:46,790 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:48:46,792 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:49:46,796 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:49:46,796 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 16:50:46,802 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:50:46,802 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 16:51:46,805 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:51:46,806 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 16:52:46,809 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:52:46,811 7700 MainThread INFO round ends
+2016-11-16 16:52:46,812 7700 MainThread INFO round starts
+2016-11-16 16:52:47,092 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 16:53:47,095 7700 MainThread INFO cost: 60.002000
+2016-11-16 16:53:47,095 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 16:54:47,098 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:54:47,099 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 16:55:47,104 7700 MainThread INFO cost: 60.004000
+2016-11-16 16:55:47,105 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 16:56:47,108 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:56:47,108 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-16 16:57:47,114 7700 MainThread INFO cost: 60.005000
+2016-11-16 16:57:47,115 7700 MainThread INFO starts to process company: 浙江华盛化纤有限公司, id: 117, the id of es document is: 916cb3403ccc1e9469aabd2845edbe82 
+2016-11-16 16:58:47,118 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:58:47,118 7700 MainThread INFO starts to process company: 易县恒立石材有限公司, id: 118, the id of es document is: c5f2e879873af7f8edddb8448d4ae8f5 
+2016-11-16 16:59:47,121 7700 MainThread INFO cost: 60.003000
+2016-11-16 16:59:47,121 7700 MainThread INFO starts to process company: 沈阳星卫生物有限公司, id: 119, the id of es document is: b7d8cfa36ef3bf28bc61f5335dfda14d 
+2016-11-16 17:00:47,124 7700 MainThread INFO cost: 60.002000
+2016-11-16 17:00:47,125 7700 MainThread INFO starts to process company: 慧与租赁有限公司, id: 120, the id of es document is: 4c8f8be85d730f546118aeefd9bf6e6a 
+2016-11-16 17:01:47,128 7700 MainThread INFO cost: 60.004000
+2016-11-16 17:01:47,130 7700 MainThread INFO starts to process company: 海容装备（扬州）有限公司, id: 121, the id of es document is: b4ba7d0c1ae9781750e00c86350867d0 
+2016-11-16 17:02:47,134 7700 MainThread INFO cost: 60.005000
+2016-11-16 17:02:47,135 7700 MainThread INFO round ends
+2016-11-16 17:02:47,137 7700 MainThread INFO round starts
+2016-11-16 17:02:47,273 7700 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-16 17:03:47,273 7700 MainThread INFO cost: 60.002000
+2016-11-16 17:03:47,276 7700 MainThread INFO starts to process company: 上海仪华服饰有限公司, id: 113, the id of es document is: a08f0db8d86bd6ed8945817c92452b3d 
+2016-11-16 17:04:47,279 7700 MainThread INFO cost: 60.005000
+2016-11-16 17:04:47,280 7700 MainThread INFO starts to process company: 纹意商贸（上海）有限公司, id: 114, the id of es document is: 0edda9e7b16ae8e49ab0dca015e4fbf1 
+2016-11-16 17:05:47,292 7700 MainThread INFO cost: 60.011000
+2016-11-16 17:05:47,293 7700 MainThread INFO starts to process company: 浙江中轴轴承有限公司, id: 115, the id of es document is: c3c8e804cbc7c725cb082b499495774c 
+2016-11-16 17:06:47,298 7700 MainThread INFO cost: 60.004000
+2016-11-16 17:06:47,299 7700 MainThread INFO starts to process company: 辽阳科霖实业有限公司, id: 116, the id of es document is: 98b7acdeed46f71f83be1d73fe34299e 
+2016-11-18 15:10:21,316 25792 MainThread INFO starts to process company: 杭州安导科技有限公司, id: 100, the id of es document is: d2714d78f8485a1fc363358dc9d0257a 
+2016-11-18 17:28:39,476 29900 MainThread INFO initial procedure ends
+2016-11-18 18:04:44,313 31260 MainThread INFO initial procedure ends
+2016-11-18 18:40:29,375 32720 MainThread INFO initial procedure ends
+2016-11-21 18:43:49,960 9120 MainThread INFO initial procedure ends
